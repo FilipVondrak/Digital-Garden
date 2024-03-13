@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě/","created":"2023-12-14T18:25:01.841+01:00","updated":"2024-03-13T18:11:07.257+01:00"}
 ---
 
 # Počítačová síť
