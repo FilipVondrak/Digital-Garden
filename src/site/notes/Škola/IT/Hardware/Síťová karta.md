@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Síťová karta/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Síťová karta/","created":"2023-12-14T19:18:27.449+01:00","updated":"2024-03-13T18:08:45.101+01:00"}
 ---
 
 #Hardware
