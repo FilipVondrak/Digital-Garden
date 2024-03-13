@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-03-13T18:04:26.501+01:00"}
 ---
 
 #IT #Maturitní_otázka 
