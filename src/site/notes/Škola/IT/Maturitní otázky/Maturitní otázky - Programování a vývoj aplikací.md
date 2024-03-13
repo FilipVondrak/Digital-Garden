@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-03-13T18:40:41.486+01:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
