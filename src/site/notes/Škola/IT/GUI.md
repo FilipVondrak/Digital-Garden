@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/GUI/"}
+{"dg-publish":true,"permalink":"/Škola/IT/GUI/","created":"2024-03-12T14:00:03.062+01:00","updated":"2024-03-13T18:16:40.888+01:00"}
 ---
 
 -> Graphical user interface
