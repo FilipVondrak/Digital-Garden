@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Druhy licencí a autorský zákoník/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Druhy licencí a autorský zákoník/","created":"2023-12-14T18:23:28.544+01:00","updated":"2024-03-13T18:09:24.535+01:00"}
 ---
 
 **Licence: ochrana lic. práv k hotovým dílům - obraz, hudba**
