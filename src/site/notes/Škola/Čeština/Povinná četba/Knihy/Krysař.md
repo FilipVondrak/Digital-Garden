@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Krysař/"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Krysař/","created":"2023-11-28T11:59:54.891+01:00","updated":"2024-03-13T18:21:57.787+01:00"}
 ---
 
 #Kniha #Literatura #SPOSDK 
