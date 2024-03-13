@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky/","created":"2023-12-19T09:11:20.394+01:00","updated":"2024-03-13T18:20:21.613+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
