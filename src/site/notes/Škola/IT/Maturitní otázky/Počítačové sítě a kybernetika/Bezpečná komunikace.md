@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečná komunikace/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečná komunikace/","created":"2023-12-14T18:24:52.496+01:00","updated":"2024-03-13T18:10:59.115+01:00"}
 ---
 
 - Jsou zachovány CIA (Confidentiality, Integrity, and Availability) principy
