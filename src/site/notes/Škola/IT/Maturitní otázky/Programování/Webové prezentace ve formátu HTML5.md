@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5/"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5/","created":"2023-12-19T09:11:06.366+01:00","updated":"2024-03-13T18:19:14.869+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
