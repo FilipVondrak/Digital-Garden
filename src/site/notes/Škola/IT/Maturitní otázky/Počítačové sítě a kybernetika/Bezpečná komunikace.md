@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečná komunikace/","created":"2023-12-14T18:24:52.496+01:00","updated":"2024-03-13T18:10:59.115+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečná komunikace/","created":"2023-12-14T18:24:52.496+01:00","updated":"2024-03-14T18:06:05.064+01:00"}
 ---
 
 - Jsou zachovány CIA (Confidentiality, Integrity, and Availability) principy
     - **Důvěrnost**
         - Do komunikace nevstupuje žádní neoprávněná třetí strana
     - **Integrita**
-        - Nedochází k neoprávněné úpravě dat
+        - Nedochází k neoprávněné úpravě [[Škola/IT/Data\|dat]]
     - **Dostupnost**
         - Data i systémy jsou dostupné
 - Komunikující strany si musí být jisté, že nejsou odposloucháváni nebo narušeni
