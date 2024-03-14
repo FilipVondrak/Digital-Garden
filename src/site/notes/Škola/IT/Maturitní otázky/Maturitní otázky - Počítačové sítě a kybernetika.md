@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-03-13T18:46:03.343+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-03-14T21:10:29.698+01:00"}
 ---
 
 1. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
@@ -12,7 +12,7 @@
 8. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě\|Revitalizace sítě po napadení sítě]]
 9. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití\|CERT a CSIRT týmy a jejich využití]]
 10. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Desktopové operační systémy\|Desktopové operační systémy]]
-11. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Serverové operační systémy\|Serverové operační systémy]]
+11. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Serverové operační systémy\|Serverové operační systémy]]
 12. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů\|Bezpečnost operačních systémů]]
 13. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware počítačových sítí\|Hardware počítačových sítí]]
 14. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware\|Hardware]]
