@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-03-13T18:04:26.501+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-03-14T18:22:16.449+01:00"}
 ---
 
 #IT #Maturitní_otázka 
 **Zakladatel:** [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Norbert Wiener\|Norbert Wiener]]
 **Vznik názvu:** v roce 1948 z řeckého slova κυβερνητικός [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/kybernētikós\|kybernētikós]]
 **Zabývá se procesy** - postup(navazuje na sebe) - přenos informací
+# Aktiva
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/aktiva/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -23,6 +24,7 @@
 </div></div>
 
 
+# Důležité termíny 
 **Feedback** - zhodnocení něčeho
 **Zpětná vazba** - změna, v reakci na feedback (př. Uživatel mojí aplikace dá feedback o tom že nefunguje nějaká funkce, já jí spravím - zpětná vazba)
 
@@ -46,6 +48,7 @@
 - Úmyslné hrozby (úmyslné poškození, krádež, útoky, …)
 ### Malware a útoky
 
+# Informace
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
