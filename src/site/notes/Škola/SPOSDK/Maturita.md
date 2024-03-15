@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-03-14T18:02:17.479+01:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-03-15T17:00:51.594+01:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
