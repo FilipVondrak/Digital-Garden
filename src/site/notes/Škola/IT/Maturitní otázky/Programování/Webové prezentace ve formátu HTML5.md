@@ -26,7 +26,7 @@ ___
 - Dynamické webové stránky se liš od statických stránek tím, že se jejich obsah **mění** v závislosti na uživateli, akci nebo události.
 - Různé frameworky jako třeba ASP.NET, React, Nuxt
 - Většinou používají k práci i databáze 
-- Zpracovává se ==zároveň na serveru a u klienta ==
+- Zpracovává se ==zároveň na serveru a u klienta==
 	- Klientské skripty - JS
 	- Serverové skripty - PHP, ASP.NET, Java
 
