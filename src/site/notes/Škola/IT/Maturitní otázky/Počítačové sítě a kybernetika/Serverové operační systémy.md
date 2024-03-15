@@ -100,16 +100,15 @@ ___
 #IT #Software 
 ## Active Directory
 - virtuální obraz firmy/lokální sítě
+- Linux alternativa je Samba
 ### Použití 
 - řídí a spravuje doménu
 - ==Práva a oprávnění==
-- 
 ### Struktura 
 - Organizační jednotky 
 	- uživatel, skupina, 
 	- sdílená složka 
 	- tiskárna / počítače
-	- 
 
 </div></div>
 
