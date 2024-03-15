@@ -20,7 +20,7 @@
 9. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití\|CERT a CSIRT týmy a jejich využití]]
 10. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Desktopové operační systémy\|Desktopové operační systémy]]
 11. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Serverové operační systémy\|Serverové operační systémy]]
-12. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů\|Bezpečnost operačních systémů]]
+12. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů\|Bezpečnost operačních systémů]]
 13. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware počítačových sítí\|Hardware počítačových sítí]]
 14. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware\|Hardware]]
 15. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení\|Periferní zařízení]]
