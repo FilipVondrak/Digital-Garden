@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Farma zvířat/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:40.818+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Farma zvířat/","created":"2023-11-28T12:00:09.222+01:00","updated":"2024-03-13T18:25:52.493+01:00"}
 ---
 
 #Kniha #Literatura #SPOSDK
