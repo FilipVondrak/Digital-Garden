@@ -41,10 +41,10 @@ ___
 
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
-2. [/] [[Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML\|Využívání CSS v kombinaci s HTML]]
+2. [x] [[Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML\|Využívání CSS v kombinaci s HTML]]
 3. [/] [[Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky\|Dynamické webové stránky]] 
 4. [x] [[Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky\|Základní pojmy v oblasti robotiky]]
-5. [ ] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
+5. [/] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
 6. [ ] [[Škola/IT/Maturitní otázky/Programování/Úvod do programování robotů\|Úvod do programování robotů]]
 7. [ ] [[Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota\|Softwarová a hardwarová výbava robota]]
 8. [ ] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
