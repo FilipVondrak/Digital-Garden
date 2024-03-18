@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Fyzika-Elektrotechnika/Elektromagnetické vlnění/","created":"2024-02-15T18:22:20.619+01:00","updated":"2024-03-13T18:12:12.094+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Fyzika-Elektrotechnika/Elektromagnetické vlnění/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:43.848+01:00"}
 ---
 
 #Fyzika
