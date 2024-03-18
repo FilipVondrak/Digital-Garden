@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Christiane F., Kai Hermann/","created":"2023-11-28T11:57:01.567+01:00","updated":"2024-03-13T18:28:15.328+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Christiane F., Kai Hermann/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:42.559+01:00"}
 ---
 
 #Autor 
