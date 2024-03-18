@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Neorealismus/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:43.108+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Neorealismus/","created":"2023-12-05T20:38:28.009+01:00","updated":"2024-03-13T18:23:18.062+01:00"}
 ---
 
 - Itálie po pádu fašistů
