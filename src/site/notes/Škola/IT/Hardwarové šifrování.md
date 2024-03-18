@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardwarové šifrování/","created":"2023-12-18T16:51:32.081+01:00","updated":"2024-03-13T18:07:34.679+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardwarové šifrování/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:44.887+01:00"}
 ---
 
 - způsob šifrování dat
