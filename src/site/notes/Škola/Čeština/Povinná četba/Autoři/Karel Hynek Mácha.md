@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Karel Hynek Mácha/","created":"2023-11-28T11:56:46.864+01:00","updated":"2024-03-13T18:26:24.596+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Karel Hynek Mácha/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:42.760+01:00"}
 ---
 
 #Autor 
