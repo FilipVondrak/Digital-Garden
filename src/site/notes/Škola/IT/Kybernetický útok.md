@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Kybernetický útok/","created":"2024-02-07T20:28:34.207+01:00","updated":"2024-03-15T13:37:10.220+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Kybernetický útok/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:43.954+01:00"}
 ---
 
 #IT #Software #Malware
