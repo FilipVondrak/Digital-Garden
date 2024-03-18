@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T10:27:10.299+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2023-12-19T09:11:24.192+01:00","updated":"2024-03-18T20:16:05.694+01:00"}
 ---
 
+#IOT #Maturitní_otázka #SPOSDK #Software 
 ## Definice
 -> **Internet of things** (internet věcí)
 - síť chytrých fyzických zařízení
@@ -39,15 +40,21 @@ ___
 
 ___
 ## Z čeho se skládá Raspberry Pi
-- [[Škola/IT/Konektory/GPIO\|GPIO]]
+- [[GPIO\|GPIO]]
 
 ___
 ## Programování IoT
 ### Raspberry Pi
-- programuje se v Pythonu
+- programuje se v [[Škola/IT/Programovací jazyky/Python\|Python]]
 ### Arduino
 - programuje se v upravené verzi [[Škola/IT/Programovací jazyky/C\|C]]/[[Škola/IT/Programovací jazyky/C++\|C++]]
- 
+### Ostatní jazyky k programování IoT
+- [[Škola/IT/Programovací jazyky/Java\|Java]]
+	- Je robustní jazyk pro programování komplexních IoT systémů.
+- [[Škola/IT/Programovací jazyky/JavaScript\|JavaScript]]
+	- Je vhodný pro programování webových aplikací a frontendových částí IoT systémů.
+- [[PHP\|PHP]]
+	- Je vhodné pro programování backendových částí IoT systémů.
 ___
 ## Zabezpečení
 ### DMZ
