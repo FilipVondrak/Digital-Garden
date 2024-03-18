@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Grafická karta/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:52.602+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Grafická karta/","created":"2024-02-05T19:16:54.321+01:00","updated":"2024-03-13T18:14:59.069+01:00"}
 ---
 
 - může být integrovaná na základní desce nebo dedikovaná
