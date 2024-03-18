@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy/Lyrika/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:39.975+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy/Lyrika/","created":"2023-12-04T16:59:43.220+01:00","updated":"2024-03-13T18:23:56.324+01:00"}
 ---
 
