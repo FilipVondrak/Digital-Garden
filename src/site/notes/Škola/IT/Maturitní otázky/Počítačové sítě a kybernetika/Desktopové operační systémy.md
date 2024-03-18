@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Desktopové operační systémy/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:50.727+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Desktopové operační systémy/","created":"2023-12-14T18:39:15.615+01:00","updated":"2024-03-14T18:36:47.315+01:00"}
 ---
 
 #Maturitní_otázka #IT #Hardware #SPOSDK 
