@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-03-15T17:00:51.594+01:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:39.615+01:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -44,7 +44,7 @@ ___
 2. [/] [[Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML\|Využívání CSS v kombinaci s HTML]]
 3. [/] [[Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky\|Dynamické webové stránky]] 
 4. [x] [[Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky\|Základní pojmy v oblasti robotiky]]
-5. [ ] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
+5. [/] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
 6. [ ] [[Škola/IT/Maturitní otázky/Programování/Úvod do programování robotů\|Úvod do programování robotů]]
 7. [ ] [[Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota\|Softwarová a hardwarová výbava robota]]
 8. [ ] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
@@ -99,8 +99,6 @@ ___
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Krysař\|Krysař]] 
 ### [[Škola/Čeština/Povinná četba/Autoři/N. V. Gogol\|N. V. Gogol]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Revizor\|Revizor]]
-### [[Škola/Čeština/Povinná četba/Autoři/Franz Kafka\|Franz Kafka]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/Proměna\|Proměna]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Moliére\|Moliére]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Zdravý nemocný\|Zdravý nemocný]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Lakomec\|Lakomec]]
@@ -114,7 +112,6 @@ ___
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Jáma a Kyvadlo\|Jáma a Kyvadlo]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Tolkien\|Tolkien]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Hobit\|Hobit]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/Pán Prstenů\|Pán Prstenů]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Karel Čapek\|Karel Čapek]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/R.U.R\|R.U.R]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Bílá nemoc\|Bílá nemoc]]
@@ -123,6 +120,11 @@ ___
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Abeceda\|Abeceda]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Christiane F., Kai Hermann\|Christiane F., Kai Hermann]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/My děti ze stanice zoo\|My děti ze stanice zoo]]
+### [[Hemingway\|Hemingway]]
+- [ ] [[Stařec a moře\|Stařec a moře]]
+### [[Fitzgerald\|Fitzgerald]]
+- [ ] [[Velký Gatsby\|Velký Gatsby]]
+
 
 </div></div>
 
