@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - praktická část/","created":"2023-12-18T16:41:02.586+01:00","updated":"2024-03-13T18:42:39.742+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - praktická část/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:45.515+01:00"}
 ---
 
 1. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P\|Zabezpečení počítačové sítě P2P]]
