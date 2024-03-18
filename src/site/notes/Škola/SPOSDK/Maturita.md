@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:39.615+01:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-03-15T17:00:51.594+01:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -44,7 +44,7 @@ ___
 2. [/] [[Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML\|Využívání CSS v kombinaci s HTML]]
 3. [/] [[Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky\|Dynamické webové stránky]] 
 4. [x] [[Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky\|Základní pojmy v oblasti robotiky]]
-5. [/] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
+5. [ ] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
 6. [ ] [[Škola/IT/Maturitní otázky/Programování/Úvod do programování robotů\|Úvod do programování robotů]]
 7. [ ] [[Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota\|Softwarová a hardwarová výbava robota]]
 8. [ ] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
