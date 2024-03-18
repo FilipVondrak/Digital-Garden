@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5/","created":"2023-12-19T09:11:06.366+01:00","updated":"2024-03-18T21:49:12.351+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5/","created":"2023-12-19T09:11:06.366+01:00","updated":"2024-03-18T21:59:04.526+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -215,8 +215,12 @@ ___
 </div>
 
 
-- Klíčová slova
+-> **Search engine optimalisation**
+- **Klíčová slova** - určuje obsah webu podle keywords a description, nadpisů
+- **Description** - popis obsahu webu
+- **Nadpisy** - google skenuje h1, h2, ...
 - Navýšit počet návštěvníků
+- propojení se sociálními sítěmi
 - Odkazy z ostatních webů
 - Sitemap - struktura webu v xhtml souboru (sitemap.xhtml)
 
@@ -235,3 +239,4 @@ ___
 
 
 # Hypertext
+- obsahuje odkazy, linky
