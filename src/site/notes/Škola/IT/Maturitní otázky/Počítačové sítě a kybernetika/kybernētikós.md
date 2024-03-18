@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/kybernētikós/","created":"2024-02-22T17:29:03.927+01:00","updated":"2024-03-13T18:04:43.914+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/kybernētikós/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:51.164+01:00"}
 ---
 
