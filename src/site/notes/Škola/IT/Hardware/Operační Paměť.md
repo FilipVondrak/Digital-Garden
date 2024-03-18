@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Operační Paměť/","created":"2024-02-15T17:38:23.036+01:00","updated":"2024-03-13T18:14:30.873+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Operační Paměť/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:52.539+01:00"}
 ---
 
 - Má určitou kapacitu v GB nebo TB
