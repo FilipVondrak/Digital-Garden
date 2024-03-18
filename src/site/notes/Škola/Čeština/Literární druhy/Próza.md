@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy/Próza/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:39.850+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy/Próza/","created":"2023-11-29T15:02:37.451+01:00","updated":"2024-03-13T18:26:00.520+01:00"}
 ---
 
 Próza je tedy každý psaný text, který je psán běžnou a přirozenou formou, nikoli ve verších
