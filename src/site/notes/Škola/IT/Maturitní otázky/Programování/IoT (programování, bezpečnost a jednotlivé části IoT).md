@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2023-12-19T09:11:24.192+01:00","updated":"2024-03-18T20:16:05.694+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2023-12-19T09:11:24.192+01:00","updated":"2024-03-18T21:32:28.245+01:00"}
 ---
 
 #IOT #Maturitní_otázka #SPOSDK #Software 
 ## Definice
 -> **Internet of things** (internet věcí)
-- síť chytrých fyzických zařízení
+- síť ==chytrých fyzických zařízení==
 - zařízení spolu mohou spolupracovat
-- mají integrované senzory, např. na zvuk, jas, atd.
+- zařízení mají integrované **senzory** (např. na zvuk, jas, atd.), software a konektivitu
+- sběr a výměna dat mezi zařízeními
 
 ___
 ## Příklady
 - Chytrá žárovka připojená k [[Wi-Fi\|Wi-Fi]], kterou lze ovládat dálkově mobilem/hlasem
+- Chytré kamery připojené k [[Wi-Fi\|Wi-Fi]], ke kterým se dá vzdáleně připojit
 
 ___
 ## IoT zařízení
@@ -40,13 +42,57 @@ ___
 
 ___
 ## Z čeho se skládá Raspberry Pi
-- [[GPIO\|GPIO]]
+### [[Škola/IT/Maturitní otázky/Programování/GPIO\|GPIO]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+ - piny, vstup a výstup 
+	- 2 typy pinů
+		- Digitální - 1 a 0
+		- Analogový - vrací hodnotu přes velikost napětí (0-255)
+
+</div></div>
+
+### Konektivita 
+- [[Bluetooth\|Bluetooth]] 
+- [[Wi-Fi\|Wi-Fi]]
+- [[Ethernet\|Ethernet]]
+- [[Škola/IT/Konektory/HDMI\|HDMI]]
+### Úložiště 
+- slot na paměťovou kartu 
+
+___
+## IoT města
+- soběstačná města
+- metropolitní síť, řídí např. tepelné ztráty
+- kamerový systém
 
 ___
 ## Programování IoT
+- liší se od klasického programování v několika způsobech:
+	- **Omezené zdroje**
+		- mají omezenou paměť, výpočetní výkon a energetickou kapacitu
+		- vyžadují dobrou optimalizaci
+	- **Bezpečnost**
+		- Zabezpečení dat a ochrana proti kybernetickým útokům je v IoT klíčová
+	- **Konektivita**
+		- Programování musí zohledňovat různé typy konektivity
+			- [[Bluetooth\|Bluetooth]]
+			- [[Wi-Fi\|Wi-Fi]]
+			- mobilní sítě
+
+## Programovací jazyky IoT
 ### Raspberry Pi
-- programuje se v [[Škola/IT/Programovací jazyky/Python\|Python]]
+- malý počítač
+- má vlastní OS 
+- velká škála využítí
+- programuje se v hlavně v [[Škola/IT/Programovací jazyky/Python\|Pythonu]]
 ### Arduino
+- mikrokontroler
+- je [[Open-Source\|Open-Source]]
+- platforma pro prototypování
 - programuje se v upravené verzi [[Škola/IT/Programovací jazyky/C\|C]]/[[Škola/IT/Programovací jazyky/C++\|C++]]
 ### Ostatní jazyky k programování IoT
 - [[Škola/IT/Programovací jazyky/Java\|Java]]
@@ -55,7 +101,35 @@ ___
 	- Je vhodný pro programování webových aplikací a frontendových částí IoT systémů.
 - [[PHP\|PHP]]
 	- Je vhodné pro programování backendových částí IoT systémů.
+- Scratch
+	- blokové programování
 ___
 ## Zabezpečení
+- je v IoT kritickým aspektem vzhledem k širokému rozšíření chytrých objektů a citlivým datům
+- IoT je nutno zabezpečit kvůli přístupu ke kamerám, senzorům, datům o lidech, atd.
 ### DMZ
 ![[DMZ\|DMZ]]
+
+___
+## Periferie
+### Vstupní
+- Světelný senzor
+- tepelný senzor
+- zvukový senzor
+- pohybový senzor
+### Výstupní
+- LED
+- Display
+- Servo Motor
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- zná pozici svého natočení
+- lze nastavit o kolik stupňů se otočí a kam
+- lze nastavit rychlost otočení
+
+</div></div>
+
+- bzučák
+- spínače
