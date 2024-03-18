@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Proměna/","created":"2023-11-28T12:00:00.374+01:00","updated":"2024-03-13T18:25:07.556+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Proměna/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:40.412+01:00"}
 ---
 
 #Kniha #Literatura #SPOSDK
