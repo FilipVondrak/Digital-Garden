@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Nezval/","created":"2023-11-28T11:56:56.079+01:00","updated":"2024-03-13T18:27:57.357+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Nezval/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:42.601+01:00"}
 ---
 
 #Autor 
