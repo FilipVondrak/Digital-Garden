@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů/","created":"2023-12-14T18:39:26.818+01:00","updated":"2024-03-15T14:53:07.374+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:50.617+01:00"}
 ---
 
 #IT #Software #Maturitní_otázka #SPOSDK 
