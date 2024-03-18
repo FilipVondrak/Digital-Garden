@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Konektory/PATA/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:51.445+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Konektory/PATA/","created":"2024-02-05T19:32:20.414+01:00","updated":"2024-03-13T18:15:20.733+01:00"}
 ---
 
 #Hardware 
