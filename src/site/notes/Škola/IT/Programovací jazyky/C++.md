@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Programovací jazyky/C++/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:51.945+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Programovací jazyky/C++/","created":"2024-02-21T17:16:45.755+01:00","updated":"2024-03-13T18:20:57.195+01:00"}
 ---
 
