@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/CLI/","created":"2024-03-12T13:59:38.398+01:00","updated":"2024-03-13T18:16:32.904+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/CLI/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:45.177+01:00"}
 ---
 
 -> Command line interface
