@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Softwarové šifrování/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:45.276+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Softwarové šifrování/","created":"2023-12-18T16:52:10.256+01:00","updated":"2024-03-13T18:07:29.209+01:00"}
 ---
 
 - proces zabezpečení dat, kde ==šifrovací operace jsou prováděny pomocí softwarových algoritmů a procesů== na obecném hardware, zejména na procesoru.
