@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Procesor/","created":"2024-02-05T19:17:03.331+01:00","updated":"2024-03-13T18:14:26.863+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Procesor/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:52.633+01:00"}
 ---
 
 - zpracovává úlohy, počítá
