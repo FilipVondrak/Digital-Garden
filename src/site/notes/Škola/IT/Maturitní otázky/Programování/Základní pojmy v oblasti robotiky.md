@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:49.945+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","created":"2023-12-19T09:11:22.155+01:00","updated":"2024-03-13T18:20:35.514+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
