@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/Síťový kabel/","created":"2024-02-22T19:41:22.985+01:00","updated":"2024-03-13T18:08:40.135+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/Síťový kabel/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:52.149+01:00"}
 ---
 
 # Metalické
