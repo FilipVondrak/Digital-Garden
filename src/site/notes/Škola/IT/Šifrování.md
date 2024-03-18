@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","created":"1980-01-01T00:00:00.000+01:00","updated":"2024-03-18T08:54:44.510+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","created":"2024-02-07T19:36:26.728+01:00","updated":"2024-03-13T18:10:28.999+01:00"}
 ---
 
 # Způsoby šifrování dat
