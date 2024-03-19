@@ -88,16 +88,16 @@ ___
 - malý počítač
 - má vlastní OS 
 - velká škála využítí
-- programuje se v hlavně v [[Škola/IT/Programovací jazyky/Python\|Pythonu]]
+- programuje se v hlavně v [[Škola/IT/Programování/Programovací jazyky/Python\|Pythonu]]
 ### Arduino
 - mikrokontroler
 - je [[Open-Source\|Open-Source]]
 - platforma pro prototypování
-- programuje se v upravené verzi [[Škola/IT/Programovací jazyky/C\|C]]/[[Škola/IT/Programovací jazyky/C++\|C++]]
+- programuje se v upravené verzi [[Škola/IT/Programování/Programovací jazyky/C\|C]]/[[Škola/IT/Programování/Programovací jazyky/C++\|C++]]
 ### Ostatní jazyky k programování IoT
-- [[Škola/IT/Programovací jazyky/Java\|Java]]
+- [[Škola/IT/Programování/Programovací jazyky/Java\|Java]]
 	- Je robustní jazyk pro programování komplexních IoT systémů.
-- [[Škola/IT/Programovací jazyky/JavaScript\|JavaScript]]
+- [[Škola/IT/Programování/Programovací jazyky/JavaScript\|JavaScript]]
 	- Je vhodný pro programování webových aplikací a frontendových částí IoT systémů.
 - [[PHP\|PHP]]
 	- Je vhodné pro programování backendových částí IoT systémů.
