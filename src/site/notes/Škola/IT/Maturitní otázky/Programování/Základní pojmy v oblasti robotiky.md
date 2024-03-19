@@ -64,10 +64,10 @@ Cílem automatizace je zvýšení efektivity a produktivity, snížení náklad�
 
 # Programování robotů a IoT
 - existuje neskutečně moc jazyků, které se dají použít pro naprogramování robota, mezi nejpoužívanější se řadí
-	- [[Škola/IT/Programovací jazyky/Python\|Python]] 
+	- [[Škola/IT/Programování/Programovací jazyky/Python\|Python]] 
 		- Je vhodný pro širokou škálu IoT projektů, od jednoduchých senzorových aplikací až po komplexní systémy
 		- Je velmi lehký se naučit
-	- [[Škola/IT/Programovací jazyky/Java\|Java]]
+	- [[Škola/IT/Programování/Programovací jazyky/Java\|Java]]
 		- Je vhodný pro IoT projekty, které vyžadují vysokou úroveň zabezpečení a spolehlivosti
-	- [[Škola/IT/Programovací jazyky/C\|C]]/[[Škola/IT/Programovací jazyky/C++\|C++]]
+	- [[Škola/IT/Programování/Programovací jazyky/C\|C]]/[[Škola/IT/Programování/Programovací jazyky/C++\|C++]]
 		- Jsou vhodné pro IoT projekty, které vyžadují vysokou rychlost a výkon
