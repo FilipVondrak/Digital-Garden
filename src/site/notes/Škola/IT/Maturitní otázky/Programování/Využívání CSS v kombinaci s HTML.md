@@ -29,7 +29,7 @@ ___
 - **Zapsání kódu** -> .trida { color: black; }
 #### ID
 - lze přiřadit **pouze 1** prvku
-- podle ID se dá prvek najít v [javascriptu](JavaScript)
+- podle ID se dá prvek najít v [javascriptu](JavaScript.md)
 - **Zapsání kódu** -> \#id { color: black; } 
 ___
 ## Nejdůležitější tagy
