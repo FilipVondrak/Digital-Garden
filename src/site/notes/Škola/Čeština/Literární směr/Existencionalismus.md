@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Existencionalismus/","created":"2024-03-21T10:59:17.887+01:00","updated":"2024-03-21T11:04:50.096+01:00"}
+share_link: https://share.note.sx/i55sxtoj#yvV14TEk9S8k0SssRrXdozKrb5UqOtt/iUI6aCbVYCk
+share_updated: 2023-12-18T12:23:01+01:00
+dg-publish: true
 ---
-
 # Znaky
 - Inspirace ==existenciální filozofií, která vznikla po 1. světové válce== v Německu
 - k největšímu rozšíření došlo po ==2. světové válce ve Francii==
