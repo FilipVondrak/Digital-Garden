@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Skupiny/Skupina 47/","created":"2024-03-21T10:59:17.934+01:00","updated":"2024-03-21T11:04:25.741+01:00"}
+share_link: https://share.note.sx/as9o4zcz#n1hy827fakkD9AxtZ3CM6ECVmR2odmOBTD+EfuQV/44
+share_updated: 2023-12-18T12:24:10+01:00
+dg-publish: true
 ---
-
 - německá literární skupina, která se snažila povznést německou literaturu
 - její zakladatel ji charakterizoval jako „politicky angažovanou skupinu, s cílem mravní obrodu německého národa!“
 - Roku 1946 založil vydavatel Alfred Andersch a redaktor Hans Werner Richter časopis **Der Ruf („Výzva“**), ten se měl pokoušet pomáhat učit Němce demokracii.
