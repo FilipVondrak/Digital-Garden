@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Beatníci/","created":"2024-03-21T10:59:17.887+01:00","updated":"2024-03-21T11:03:44.259+01:00"}
+share_link: https://share.note.sx/j0e9tzww#ZWSmWJx4S+mP2kUeOH1+dEPbZRg0qPT9rLpP3SUWbfU
+share_updated: 2023-12-18T12:23:09+01:00
+dg-publish: true
 ---
-
 - umělecké a literární hnutí mladých lidí v USA v ==50. a počátku 60. let==
 - ==odmítali konvenční společnost,== oceňovali svobodné sebevyjádření a upřednostňovali ==moderní jazz==
 - vyznačovali nonkonformním bohémským způsobem života
