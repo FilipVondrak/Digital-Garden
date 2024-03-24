@@ -1,12 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-13T18:08:27.052+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-24T17:59:06.167+01:00"}
 ---
 
 #IT #Maturitní_otázka
+
+> [!info] 
+>  kryptografie je věda, která se zabývá konstrukcí matematických metod, sloužících k zajišťování bezpečnosti dat
+
+> [!tldr]-
+> Citlivá data mohou být díky kryptografii bezpečně přenášena prostřednictvím telekomunikačních sítí bez hrozby neoprávněného zachycení a rozluštění obsahu dat.
+> 
+
 - Nauka o metodách ==utajování smyslu zpráv převodem do podoby, která je čitelná jen se speciální znalostí==.
 - Zabývá se algoritmem pro ==šifrování a dešifrování==
-- o šifrování se stará 4. [vrstva](ISO%20OSI.md) 
-- elektronický podpis - nahrazují klasický vlastnoruční podpis, respektive ověřený podpis. Je připojen k datové schránce
 - Např. **ceasarova** šifra
 - **Použití:**
 	- všude
@@ -16,20 +22,33 @@
 	- zabezpečení mobilů
 	- šifrování dat na disku
 	- certifikáty
+___
 # Druhy šifrování
 ## Podle toho, co šifruje
-- Hardwarově
-	- ==probíhá v čipu(TPM)==
-	- hardwarově zašifrovaný disk je **nepřenositelný** do jiného zařízení
-- Softwarově
-	- ==probíhá v softwaru se speciálním programem==
-	- zašifrování a dešifrování použiju stejný program
+### Hardwarově
+- ==probíhá v čipu(TPM)==
+- hardwarově zašifrovaný disk je **nepřenositelný** do jiného zařízení
+### Softwarově
+- ==probíhá v softwaru se speciálním programem==
+- zašifrování a dešifrování použiju stejný program
 ## Podle způsobu šifry
-- Symetricky
-	- Šifruje se a dešifruje se stejným klíčem
-- Asymetricky
-	- Šifruje se veřejným klíčem a dešifruje se privátním klíčem
+### Symetricky
+- Šifruje se a dešifruje se stejným klíčem
+### Asymetricky
+- Šifruje se veřejným klíčem a dešifruje se privátním klíčem
+## Podle fungování šifry
+### Transpoziční šifra
+- posouvá písmena s pomocí klíče
+> [!example]- Ukázka
+> klíč: DADE  
+slovo k zašifrování: SLOVO  
+určíme pozice klíče => D je na 4. pozici v abecedě, A je na 1., D opět na 4. a E na 5.  
+poté posuneme písmena o počet pozicí z klíče  
+S posuneme o 4 pozice dopředu => W  
+L => M |
+### Substituční
 
+___
 # Steganografie
 - **Podobor** kryptografie
 - zabývající se utajením komunikace prostřednictvím ukrytí zprávy
@@ -48,4 +67,11 @@
 	- vytváření a ověřování elektronického podpisu
 	- zajištění integrity dat
 	- ochrana uložených hesel
-- 
+
+# Elektronický podpis
+- nahrazují klasický vlastnoruční podpis, respektive ověřený podpis. 
+- Je připojen k datové schránce
+
+# Kódování
+
+# Paritní bit
