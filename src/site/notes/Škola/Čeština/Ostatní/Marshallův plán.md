@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Ostatní/Marshallův plán/","created":"2024-03-21T10:59:17.887+01:00","updated":"2024-03-21T11:04:41.221+01:00"}
+share_link: https://share.note.sx/oq2tm14y#wtE2uMfvx0V23zynfQhflL6NkfDTaCn53B2hR738pSM
+share_updated: 2023-12-18T12:22:53+01:00
+dg-publish: true
 ---
-
  - ==Plán evropské obnovy==
  - byl přijat Kongresem USA 3. dubna 1948
  - cíl byl organizovaně zabezpečit americkou pomoc poválečné Evropě
