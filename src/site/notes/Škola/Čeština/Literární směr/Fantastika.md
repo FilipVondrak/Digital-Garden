@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Fantastika/","created":"2024-03-21T10:59:17.887+01:00","updated":"2024-03-21T11:04:13.465+01:00"}
+share_link: https://share.note.sx/57leidrc#3GZmbiYSQYsQQEEpYNDEPZT1J5N2GIwTUMcLyo5YN6I
+share_updated: 2023-12-18T12:23:50+01:00
+dg-publish: true
 ---
-
 # Fantasy 
 - smyšlené postavy, 
 - různé plynutí času, 
