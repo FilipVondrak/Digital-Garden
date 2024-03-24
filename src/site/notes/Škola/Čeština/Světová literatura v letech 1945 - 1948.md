@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Světová literatura v letech 1945 - 1948/","created":"2024-03-21T10:59:17.934+01:00","updated":"2024-03-21T11:04:37.434+01:00"}
+share_link: https://share.note.sx/lu40pfax#BXkZ0V1xZE3lm3QwJKl73e1AKtTtRzmVTCD//gXw9dI
+share_updated: 2023-12-18T12:22:43+01:00
+dg-publish: true
 ---
-
 #Historie #Literatura 
 - rozdělení Evropy (USA x Komunisti)
 - studená válka - napětí ve světě
