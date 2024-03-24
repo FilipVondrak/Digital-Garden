@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Světová literatura po roce 1945/","created":"2024-03-21T10:59:17.934+01:00","updated":"2024-03-21T11:02:45.336+01:00"}
+share_link: https://share.note.sx/oto6q3rs#UwuUfXQUgGdBPto+LyToBDiCZQ3FxIDq6lXFoa0EwHo
+share_updated: 2023-12-18T12:22:10+01:00
+dg-publish: true
 ---
-
 #Historie #Literatura
 - odraz války
 - [[Škola/Čeština/Literární směr/Existencionalismus\|Existencionalismus]] - lidská existence
@@ -16,6 +17,8 @@
 - [[Škola/Čeština/Literární směr/Postmodernismus\|Postmodernismus]] - různé šifry a hádanky -> odhalení skrytého významu
 - [[Škola/Čeština/Skupiny/Skupina 47\|Skupina 47]] (Gruppe 47)
 - [[Škola/Čeština/Literární směr/Antiutopie\|Antiutopie]]
+- [[Škola/Čeština/Hlava XXII\|Hlava XXII]]
+- [[Škola/Čeština/Ruská literatura 1945-1989\|Ruská literatura 1945-1989]]
 
 [[Škola/Čeština/Světová literatura v letech 1945 - 1948\|Světová literatura v letech 1945 - 1948]]
 
