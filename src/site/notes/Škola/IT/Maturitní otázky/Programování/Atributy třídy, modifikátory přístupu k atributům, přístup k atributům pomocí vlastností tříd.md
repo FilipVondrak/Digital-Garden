@@ -90,14 +90,64 @@
 
 
 
-# Procedura
-- Nevrací žádné data
-- má v zápisu keyword **void**
+#IT #Programování #SPOSDK #Maturitní_otázka
+
+- podprogram, který pracuje s daty/atributy
+- je blok kódu, který je samostatně spustitelný a plní specifickou úlohu
+- Může pracovat s daty a atributy 
+- lze ho opakovaně volat z jiných částí programu
+
+___
+# Dělení metod
+## Procedura
+- Nevrací žádné data - návratový typ **void**
 - provede úkol a skončí
-# Funkce
+## Funkce
 - vrací data
-- má ==v zápisu datový typ==, který se má vrátit
-- musí obsahovat slovo **return**
+- **musí** mít ==v zápisu datový typ==, který se má vrátit
+- **musí** obsahovat keyword **return**
 - na rozdíl od procedury se jinak volá
+___
+# Návratový typ
+- Návratový typ určuje, jaký typ dat funkce vrátí.
+- Běžné typy zahrnují `int`, `double`, `string` a `bool`
+- lze taky použít vlastní návratové typy
+
+___
+# Parametry
+- Parametry jsou vstupní data, která se předávají funkci při jejím volání
+- Parametry se uvádějí v závorkách za názvem funkce.
+- Každý parametr má svůj typ a název
+
+___
+# Modifikátory přístupu
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+#IT #Programování #C-Sharp
+## Private
+- Modifikátor `private` určuje, že člen (atribut nebo metoda) je přístupný **pouze** v rámci třídy, ve které je definován.
+## Public
+- Modifikátor `public` určuje, že člen je ==přístupný z libovolného kódu==, který má přístup k instanci třídy.
+## Protected
+- Modifikátor `protected` určuje, že člen je přístupný pouze v rámci třídy ==a z tříd odvozených/zděděných==
+## Internal
+- Modifikátor `internal` určuje, že člen je přístupný ze stejné assembly
+
+</div></div>
+
+
+___
+# Statické/Nestatické
+## Statické
+- Statické členy (metody a atributy) **nejsou** vázány na konkrétní instanci třídy
+- Existují pouze v rámci třídy a jsou přístupné bez nutnosti vytvářet instanci
+- Jsou nutné např. k patternu [[Osobní/Programování/Patterny/Singleton\|Singleton]]
+## Nestatické
+- vždy musíme vytvořit instanci
+- Nestatické členy (metody a atributy) **jsou** vázány na konkrétní instanci třídy
+- Pro přístup k nim je nutné nejprve vytvořit instanci třídy
 
 </div></div>
