@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Absurdní drama/","created":"2024-03-21T10:59:17.887+01:00","updated":"2024-03-21T11:03:59.150+01:00"}
+share_link: https://share.note.sx/0p1bb6in#QbditnZ6tsfKuVXZy+nSv22gHF0AZVPO/jUMIcXyous
+share_updated: 2023-12-18T12:23:28+01:00
+dg-publish: true
 ---
-
 - 50. léta Francie
 # Znaky
 - chybí děj (bez zápletky, neznáme postavy)
