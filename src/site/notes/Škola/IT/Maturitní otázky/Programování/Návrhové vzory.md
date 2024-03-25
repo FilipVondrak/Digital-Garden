@@ -1,17 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-24T17:50:54.298+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-25T16:15:09.431+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
-# Interface
+# K čemu slouží návrhové vzory
+- jsou souborem nástrojů pro ==řešení běžných problémů== při návrhu softwaru
+- slouží jako společný jazyk pro ==ulehčení práce== vývojářů, aby nemuseli dokola vymýšlet stejná řešení
+- pomáhají týmu vývojářů ==lépe komunikovat==
+# Návrhové vzory
+## Interface
 ![[InterfaceCsharp\|InterfaceCsharp]]
-# Servant
+## Servant
 ![[ServantPattern\|ServantPattern]]
-# Generické třídy
+## Generické třídy
 ![[GenericClassCsharp\|GenericClassCsharp]]
-# Messenger
+## Messenger
 ![[MessangerPattern\|MessangerPattern]]
-# Factory
+## Factory
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -21,9 +26,9 @@
 
 </div></div>
 
-# Builder
+## Builder
 ![[BuilderPattern\|BuilderPattern]]
-# Singleton
+## Singleton
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
