@@ -38,7 +38,7 @@
 
 > [!Showcase] Ukázka kódu - podpis bezparametrického konstruktoru
 > ```Csharp
-> public Form1(string text)
+> public Form1( )
 > ```
 # Přetížení konstruktoru
 - vytvoření více konstruktorů s jinými parametry
