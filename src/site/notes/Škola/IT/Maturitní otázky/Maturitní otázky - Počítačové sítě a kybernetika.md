@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-03-15T14:53:38.545+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-03-25T17:15:03.863+01:00"}
 ---
 
 1. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
 2. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečné chování v lokání síti a na internetu\|Bezpečné chování v lokání síti a na internetu]]
-3. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kybernetické hrozby a ochrana proti nim (malware, útoky)\|Kybernetické hrozby a ochrana proti nim (malware, útoky)]]
+3. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kybernetické hrozby a ochrana proti nim (malware, útoky)\|Kybernetické hrozby a ochrana proti nim (malware, útoky)]]
 4. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Zabezpečení dat proti zneužití\|Zabezpečení dat proti zneužití]]
-5. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie\|Kryptografie]]
+5. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie\|Kryptografie]]
 6. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Druhy licencí a autorský zákoník\|Druhy licencí a autorský zákoník]]
 7. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečná komunikace\|Bezpečná komunikace]]
 8. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě\|Revitalizace sítě po napadení sítě]]
-9. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití\|CERT a CSIRT týmy a jejich využití]]
+9. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití\|CERT a CSIRT týmy a jejich využití]]
 10. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Desktopové operační systémy\|Desktopové operační systémy]]
 11. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Serverové operační systémy\|Serverové operační systémy]]
 12. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost operačních systémů\|Bezpečnost operačních systémů]]
