@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-03-24T22:13:28.123+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-03-25T21:33:47.757+01:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
@@ -20,4 +20,4 @@
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [ ]  [[Škola/IT/Maturitní otázky/Programování/C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod\|C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod]]
 18. [ ] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
-19. [ ] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
+19. [/] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
