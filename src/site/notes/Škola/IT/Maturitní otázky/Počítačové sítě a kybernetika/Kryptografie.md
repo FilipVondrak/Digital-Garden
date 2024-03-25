@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-24T17:59:06.167+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-25T16:16:25.662+01:00"}
 ---
 
 #IT #Maturitní_otázka
@@ -56,6 +56,7 @@ ___
 - nahrazena kryptografií po 2. světové válce
 - zpráva ==zůstává ve stejné podobě== na rozdíl od kryptografie
 
+___
 # Hashování
 - na rozdíl od šifrování se nedá vrátit zpět do původní podoby
 - funguje jako fingerprint souboru/textu
@@ -68,10 +69,21 @@ ___
 	- zajištění integrity dat
 	- ochrana uložených hesel
 
+___
 # Elektronický podpis
 - nahrazují klasický vlastnoruční podpis, respektive ověřený podpis. 
 - Je připojen k datové schránce
+![elektronický podpis.png](/img/user/Images/elektronick%C3%BD%20podpis.png)
 
+___
 # Kódování
+- proces převodu dat do formátu, který může být snadno **ukládán** nebo **přenášen**
+- ==není bezpečný== jako šifrování, ==není těžké převést data do původní podoby==
+## Použití
+### Ukládání dat 
+- Komprese dat se používá k úspoře úložného prostoru
+### Multimediální data
+- používá se ke snížení velikosti multimediálních souborů, jako jsou obrázky, zvukové soubory a video soubory
 
+___
 # Paritní bit
