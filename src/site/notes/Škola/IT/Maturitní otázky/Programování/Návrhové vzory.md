@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-25T22:27:45.356+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-26T20:02:03.514+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -63,13 +63,80 @@ interface IAnimal
 ![[ServantPattern\|ServantPattern]]
 ## Messenger
 ![[MessangerPattern\|MessangerPattern]]
-## Factory
+## Tovární metoda
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
+- Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
 
+> [!Showcase]- ukázka implementace tovární metody
+> ```CSharp
+>,// Product
+>public abstract class Vehicle
+>{
+>    public abstract string GetVehicleType();
+>}
+>
+>// ConcreteProduct
+>public class Truck : Vehicle
+>{
+>    public override string GetVehicleType()
+>    {
+>        return "Truck";
+>    }
+>}
+>
+>// ConcreteProduct
+>public class Ship : Vehicle
+>{
+>    public override string GetVehicleType()
+>    {
+>        return "Ship";
+>    }
+>}
+>
+>// Creator
+>public abstract class VehicleFactory
+>{
+>    public abstract Vehicle CreateVehicle();
+>}
+>
+>// ConcreteCreator
+>public class TruckFactory : VehicleFactory
+>{
+>    public override Vehicle CreateVehicle()
+>    {
+>        return new Truck();
+>    }
+>}
+>
+>// ConcreteCreator
+>public class ShipFactory : VehicleFactory
+>{
+>    public override Vehicle CreateVehicle()
+>    {
+>        return new Ship();
+>    }
+>}
+>
+>class Program
+>{
+>    static void Main(string[] args)
+>    {
+>        // Vytvoření Truck pomocí TruckFactory
+>        VehicleFactory truckFactory = new TruckFactory();
+>        Vehicle truck = truckFactory.CreateVehicle();
+>        Console.WriteLine(truck.GetVehicleType()); // Vypíše: Truck
+>
+>        // Vytvoření Ship pomocí ShipFactory
+>        VehicleFactory shipFactory = new ShipFactory();
+>        Vehicle ship = shipFactory.CreateVehicle();
+>        Console.WriteLine(ship.GetVehicleType()); // Vypíše: Ship
+>    }
+>}
+>```
 
 </div></div>
 
@@ -101,125 +168,124 @@ interface IAnimal
 - ==Použít třídu Director **není** pro pattern builder nutné==
 ![Pasted image 20240325213325.png](/img/user/Images/Pasted%20image%2020240325213325.png)
 
-## Ukázka provedení builderu i s directorem
-
-```CSharp
-using System;
-using System.Collections.Generic;
-
-namespace RefactoringGuru.DesignPatterns.Builder.Conceptual
-{
-    public interface IBuilder
-    {
-        void BuildPartA();
-        void BuildPartB();
-        void BuildPartC();
-    }
-
-    public class ConcreteBuilder : IBuilder
-    {
-        private Product _product = new Product();
-
-        public ConcreteBuilder()
-        {
-            this.Reset();
-        }
-
-        public void Reset()
-        {
-            this._product = new Product();
-        }
-
-        public void BuildPartA()
-        {
-            this._product.Add("PartA1");
-        }
-
-        public void BuildPartB()
-        {
-            this._product.Add("PartB1");
-        }
-
-        public void BuildPartC()
-        {
-            this._product.Add("PartC1");
-        }
-        
-        public Product GetProduct()
-        {
-            Product result = this._product;
-            this.Reset();
-            return result;
-        }
-    }
-
-    public class Product
-    {
-        private List<object> _parts = new List<object>();
-        public void Add(string part)
-        {
-            this._parts.Add(part);
-        }
-
-        public string ListParts()
-        {
-            string str = string.Empty;
-            for (int i = 0; i < this._parts.Count; i++)
-            {
-                str += this._parts[i] + ", ";
-            }
-            str = str.Remove(str.Length - 2); // removing last ",c"
-            return "Product parts: " + str + "\n";
-        }
-    }
-
-    public class Director
-    {
-        private IBuilder _builder;
-        public IBuilder Builder
-        {
-            set { _builder = value; }
-        }
-
-        // Director dokáže rychle dělat několik nejčasteji používaných kombinací pomocí stejných kroků
-        public void BuildMinimalViableProduct()
-        {
-            this._builder.BuildPartA();
-        }
-
-        public void BuildFullFeaturedProduct()
-        {
-            this._builder.BuildPartA();
-            this._builder.BuildPartB();
-            this._builder.BuildPartC();
-        }
-    }
-    
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var director = new Director();
-            var builder = new ConcreteBuilder();
-            director.Builder = builder;
-
-            Console.WriteLine("Standard basic product:");
-            director.BuildMinimalViableProduct();
-            Console.WriteLine(builder.GetProduct().ListParts());
-            
-            Console.WriteLine("Standard full featured product:");
-            director.BuildFullFeaturedProduct();
-            Console.WriteLine(builder.GetProduct().ListParts());
-
-            // Builder pattern dokáže vytvářet i vlastní produkty bez directora
-            Console.WriteLine("Custom product:");
-            builder.BuildPartA();
-            builder.BuildPartC();
-            Console.Write(builder.GetProduct().ListParts());
-        }
-    }
-}
-```
+> [!Showcase]- Ukázka kódu využívajícího pattern builder i s directorem
+>```CSharp
+>using System;
+>using System.Collections.Generic;
+>
+>namespace RefactoringGuru.DesignPatterns.Builder.Conceptual
+>{
+>    public interface IBuilder
+>    {
+>        void BuildPartA();
+>        void BuildPartB();
+>        void BuildPartC();
+>    }
+>
+>    public class ConcreteBuilder : IBuilder
+>    {
+>        private Product _product = new Product();
+>
+>        public ConcreteBuilder()
+>        {
+>            this.Reset();
+>        }
+>
+>        public void Reset()
+>        {
+>            this._product = new Product();
+>        }
+>
+>        public void BuildPartA()
+>        {
+>            this._product.Add("PartA1");
+>        }
+>
+>        public void BuildPartB()
+>        {
+>            this._product.Add("PartB1");
+>        }
+>
+>        public void BuildPartC()
+>        {
+>            this._product.Add("PartC1");
+>        }
+>      
+>        public Product GetProduct()
+>        {
+>            Product result = this._product;
+>            this.Reset();
+>            return result;
+>        }
+>    }
+>
+>    public class Product
+>    {
+>        private List\<object> _parts = new List\<object>();
+>        public void Add(string part)
+>        {
+>            this._parts.Add(part);
+>        }
+>
+>        public string ListParts()
+>        {
+>            string str = string.Empty;
+>            for (int i = 0; i < this._parts.Count; i++)
+>            {
+>                str += this._parts[i] + ", ";
+>            }
+>            str = str.Remove(str.Length - 2); // removing last ",c"
+>            return "Product parts: " + str + "\n";
+>        }
+>    }
+>
+>    public class Director
+>    {
+>        private IBuilder _builder;
+>        public IBuilder Builder
+>        {
+>            set { _builder = value; }
+>        }
+>
+>        // Director dokáže rychle dělat několik nejčasteji používaných kombinací pomocí stejných kroků
+>        public void BuildMinimalViableProduct()
+>        {
+>            this._builder.BuildPartA();
+>        }
+>
+>        public void BuildFullFeaturedProduct()
+>        {
+>            this._builder.BuildPartA();
+>            this._builder.BuildPartB();
+>            this._builder.BuildPartC();
+>        }
+>    }
+  >  
+>    class Program
+>    {
+>        static void Main(string[] args)
+>        {
+>            var director = new Director();
+>            var builder = new ConcreteBuilder();
+>            director.Builder = builder;
+>
+>            Console.WriteLine("Standard basic product:");
+>            director.BuildMinimalViableProduct();
+>            Console.WriteLine(builder.GetProduct().ListParts());
+  >          
+>            Console.WriteLine("Standard full featured product:");
+>            director.BuildFullFeaturedProduct();
+>            Console.WriteLine(builder.GetProduct().ListParts());
+>
+>            // Builder pattern dokáže vytvářet i vlastní produkty bez directora
+>            Console.WriteLine("Custom product:");
+>            builder.BuildPartA();
+>            builder.BuildPartC();
+>            Console.Write(builder.GetProduct().ListParts());
+>        }
+>    }
+>}
+>```
 
 </div></div>
 
@@ -284,3 +350,6 @@ namespace RefactoringGuru.DesignPatterns.Builder.Conceptual
 >```
 
 </div></div>
+
+## Decorator
+![[DecoratorCSharp\|DecoratorCSharp]]
