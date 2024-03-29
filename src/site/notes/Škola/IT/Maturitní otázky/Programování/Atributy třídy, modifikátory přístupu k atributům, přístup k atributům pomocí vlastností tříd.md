@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","created":"2023-12-19T09:12:08.124+01:00","updated":"2024-03-19T15:25:32.104+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","created":"2023-12-19T09:12:08.124+01:00","updated":"2024-03-29T14:57:46.358+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -9,13 +9,12 @@
 
 
 
-- může být abstraktní
 - vytvoří si operátorem **new**, který zavolá konstruktor třídy 
-- základní vlastnost třídy
-	- atributy
+- je abstraktním modelem
+- používá se k definování objektů s tímto modelem
+- obsahují **atributy** a **metody**, které definují chování objektu
 
 </div></div>
-
 
 # Konstruktor
 
@@ -73,6 +72,11 @@
 
 
 
+
+> [!warning] Pozor
+> V češtině se říká atributa jiné věci než v angličtině.
+> V češtině jde o globální proměnou, ale v angličtině o metadata.
+
 - Proměnná, konstanta
 - je deklarovaná na úrovni třídy
 - jedná se o globální proměnou
@@ -120,6 +124,19 @@ ___
 - Každý parametr má svůj typ a název
 
 ___
+# Statické/Nestatické
+## Statické
+- Statické členy (metody a atributy) **nejsou** vázány na konkrétní instanci třídy
+- Existují pouze v rámci třídy a jsou přístupné bez nutnosti vytvářet instanci
+- Jsou nutné např. k patternu [[Osobní/Programování/Patterny/Singleton\|Singleton]]
+## Nestatické
+- vždy musíme vytvořit instanci
+- Nestatické členy (metody a atributy) **jsou** vázány na konkrétní instanci třídy
+- Pro přístup k nim je nutné nejprve vytvořit instanci třídy
+
+</div></div>
+
+___
 # Modifikátory přístupu
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -138,16 +155,69 @@ ___
 
 </div></div>
 
-
 ___
-# Statické/Nestatické
-## Statické
-- Statické členy (metody a atributy) **nejsou** vázány na konkrétní instanci třídy
-- Existují pouze v rámci třídy a jsou přístupné bez nutnosti vytvářet instanci
-- Jsou nutné např. k patternu [[Osobní/Programování/Patterny/Singleton\|Singleton]]
-## Nestatické
-- vždy musíme vytvořit instanci
-- Nestatické členy (metody a atributy) **jsou** vázány na konkrétní instanci třídy
-- Pro přístup k nim je nutné nejprve vytvořit instanci třídy
+# Přístup k atributům pomocí vlastností tříd
+- používají se **gettery** a **settery**
+- slouží k schování atributy
+- 
+## Ukázka kódu
+### C\#
+```CS
+public class SaleItem
+{
+    string _name;
+    decimal _cost;
 
-</div></div>
+    public SaleItem(string name, decimal cost)
+    {
+        _name = name;
+        _cost = cost;
+    }
+
+    public string Name
+    {
+        get => _name;
+        set => _name = value;
+    }
+
+    public decimal Price
+    {
+        get => _cost;
+        set => _cost = value;
+    }
+}
+```
+pokud v getterech a setterech **není** jiná logika než načítání/přiřazení hodnoty, tak je možné použít automaticky implementované vlastnosti
+```CS
+public class SaleItem
+{
+    public string Name
+    { get; set; }
+
+    public decimal Price
+    { get; set; }
+}
+```
+### Java
+```Java
+public class Student {  
+  private String name;  
+  private int age;  
+  
+  public void setName(String name) {  
+      this.name = name;  
+  }  
+  
+  public String getName() {  
+      return name;  
+  }  
+  
+  public void setAge(int age) {  
+      this.age = age;  
+  }  
+  
+  public int getAge() {  
+      return age;  
+  }  
+}
+```
