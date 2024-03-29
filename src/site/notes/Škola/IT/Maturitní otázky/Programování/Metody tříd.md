@@ -1,8 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Metody tříd/","created":"2023-12-19T09:12:13.238+01:00","updated":"2024-03-24T22:13:10.228+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Metody tříd/","created":"2023-12-19T09:12:13.238+01:00","updated":"2024-03-29T15:08:16.323+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
+
+# Třída
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- vytvoří si operátorem **new**, který zavolá konstruktor třídy 
+- je abstraktním modelem
+- používá se k definování objektů s tímto modelem
+- obsahují **atributy** a **metody**, které definují chování objektu
+
+</div></div>
+
 # Konstruktor
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -87,26 +101,6 @@ ___
 - Parametry jsou vstupní data, která se předávají funkci při jejím volání
 - Parametry se uvádějí v závorkách za názvem funkce.
 - Každý parametr má svůj typ a název
-
-___
-# Modifikátory přístupu
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-#IT #Programování #C-Sharp
-## Private
-- Modifikátor `private` určuje, že člen (atribut nebo metoda) je přístupný **pouze** v rámci třídy, ve které je definován.
-## Public
-- Modifikátor `public` určuje, že člen je ==přístupný z libovolného kódu==, který má přístup k instanci třídy.
-## Protected
-- Modifikátor `protected` určuje, že člen je přístupný pouze v rámci třídy ==a z tříd odvozených/zděděných==
-## Internal
-- Modifikátor `internal` určuje, že člen je přístupný ze stejné assembly
-
-</div></div>
-
 
 ___
 # Statické/Nestatické
