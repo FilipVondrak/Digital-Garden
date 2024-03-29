@@ -54,13 +54,15 @@ ___
 10. [ ] [[Škola/IT/Maturitní otázky/Programování/Základy algoritmizace\|Základy algoritmizace]]
 11. [ ] [[Škola/IT/Maturitní otázky/Programování/Jazyk C Sharp\|Jazyk C Sharp]]
 12. [ ] [[Škola/IT/Maturitní otázky/Programování/Principy OOP\|Principy OOP]]
-13. [/] [[Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd\|Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd]]
+13. [x] [[Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd\|Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd]]
 14. [/] [[Škola/IT/Maturitní otázky/Programování/Konstruktory\|Konstruktory]]
 15. [/] [[Škola/IT/Maturitní otázky/Programování/Metody tříd\|Metody tříd]]
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [ ]  [[Škola/IT/Maturitní otázky/Programování/C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod\|C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod]]
 18. [ ] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
-19. [/] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
+19. [x] [[Škola/IT/Maturitní otázky/Návrhové vzory - Utility, Singleton + tovární metoda, Enum\|Návrhové vzory - Utility, Singleton + tovární metoda, Enum]]
+20. [/] [[Škola/IT/Maturitní otázky/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
+[[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
 
 </div></div>
 
