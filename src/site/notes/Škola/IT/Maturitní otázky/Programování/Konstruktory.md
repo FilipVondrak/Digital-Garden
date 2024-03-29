@@ -9,10 +9,10 @@
 
 
 
-- může být abstraktní
 - vytvoří si operátorem **new**, který zavolá konstruktor třídy 
-- základní vlastnost třídy
-	- atributy
+- je abstraktním modelem
+- používá se k definování objektů s tímto modelem
+- obsahují **atributy** a **metody**, které definují chování objektu
 
 </div></div>
 
