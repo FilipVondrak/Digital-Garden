@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky/","created":"2023-12-19T09:12:16.249+01:00","updated":"2024-03-19T15:11:19.280+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky/","created":"2023-12-19T09:12:16.249+01:00","updated":"2024-03-29T15:11:16.171+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -21,6 +21,8 @@
 >    public Form1()
 >    {
 >        InitializeComponent();
+>        // manuální přidání eventu
+>        button1.Click += button1_Click;
 >    }
 >
 >    private void button1_Click(object sender, EventArgs e)
