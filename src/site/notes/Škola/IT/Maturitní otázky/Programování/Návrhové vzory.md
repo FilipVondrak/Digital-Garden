@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-26T20:02:03.514+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-29T16:01:23.737+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
-# K čemu slouží návrhové vzory
-- jsou souborem nástrojů pro ==řešení běžných problémů== při návrhu softwaru
-- slouží jako společný jazyk pro ==ulehčení práce== vývojářů, aby nemuseli dokola vymýšlet stejná řešení
-- pomáhají týmu vývojářů ==lépe komunikovat==
-- Každý vzor je jako plánek, který můžete upravit tak, abyste vyřešili konkrétní návrhový problém ve vašem kódu
+
 # Interface
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -19,7 +15,7 @@
 - je to ==kompletně abstraktní==
 - může obsahovat pouze abstraktní metody a vlastnosti s prázdným tělem -> má ==pouze podpisy metod a vlastností==
 
-> [!Showcase] Ukázka interfacu
+> [!Showcase]- Ukázka interfacu
 > ```Csharp
 >// interface
 >interface Animal 
@@ -31,7 +27,7 @@
 
 - ==musí být implementovány== (stejným způsobem jako zdědění)  
 
-> [!Showcase] Ukázka implementace interfacu
+> [!Showcase]- Ukázka implementace interfacu
 > ```Csharp
 // Interface
 interface IAnimal 
@@ -57,11 +53,18 @@ interface IAnimal
 </div></div>
 
 # Generické třídy
-![[GenericClassCsharp\|GenericClassCsharp]]
-# Návrhové vzory
-## Servant
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+# Servant
 ![[ServantPattern\|ServantPattern]]
-## Messenger
+# Messenger
 ![[MessangerPattern\|MessangerPattern]]
 ## Tovární metoda
 
@@ -70,10 +73,13 @@ interface IAnimal
 
 
 - Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
+- Myšlenka spočívá v použití interfacu pro vytvoření objektu, ale nakonec se podtřída rozhodne, kterou třídu instancovat
 
-> [!Showcase]- ukázka implementace tovární metody
+![Pasted image 20240329153655.png](/img/user/Images/Pasted%20image%2020240329153655.png)
+
+> [!Showcase]- ukázka implementace tovární metody v C#
 > ```CSharp
->,// Product
+>// Product
 >public abstract class Vehicle
 >{
 >    public abstract string GetVehicleType();
@@ -137,6 +143,96 @@ interface IAnimal
 >    }
 >}
 >```
+
+> [!Showcase]- ukázka implementace tovární metody v Javě
+>```Java
+>package com.mano.patternsdemo;
+>
+>public interface Employee {
+>   double earnings();
+>}
+>
+>package com.mano.patternsdemo;
+>public class SalariedEmployee implements Employee {
+>   private double basic;
+>   private double ta;
+>   private double da;
+>   public SalariedEmployee(double basic,
+>         double ta, double da){
+>      this.basic = basic;
+>      this.ta = ta;
+>      this.da = da;
+>   }
+>
+>   @Override
+>   public double earnings() {
+>      return basic+(basic*ta)+(basic*da);
+>   }
+>}
+>
+package com.mano.patternsdemo;
+>
+>public class HourlyEmployee implements Employee {
+>   private double hoursWorked;
+>   private double payPerHour;
+>   public HourlyEmployee(double hoursWorked,
+>         double payPerHour){
+>      this.hoursWorked = hoursWorked;
+>      this.payPerHour = payPerHour;
+>   }
+  > 
+>   @Override
+>   public double earnings() {
+>      return hoursWorked*payPerHour;
+>   }
+>}
+>
+>package com.mano.patternsdemo;
+>import java.util.Scanner;
+>public class EmployeeFactory {
+>   public enum EmployeeType {HOURLY, SALARIED};
+>   public Employee recruit(EmployeeType employeeType){
+>         Employee emp;
+>      Scanner scanner = newScanner(System.in);
+>      switch(employeeType){
+>         case HOURLY:
+>            System.out.println("Enter Hours:");
+>            double h = scanner.nextDouble();
+>            System.out.println("Enter pay per hour:");
+>            double p = scanner.nextDouble();
+>            emp = new HourlyEmployee(h,p);
+>            break;
+>         case SALARIED:
+>            System.out.println("Enter Basic:");
+>            double basic = scanner.nextDouble();
+>            System.out.println("Enter TA:");
+>            double ta = scanner.nextDouble();
+>            System.out.println("Enter DA:");
+>            double da = scanner.nextDouble();
+>            emp = new SalariedEmployee(basic,ta,da);
+>            break;
+>         default:
+>            emp = null;
+>            break;
+>      }
+>      return emp;
+>   }
+>}
+ >
+>package com.mano.patternsdemo;
+>public class Main {
+>   public static void main(String[] args) {
+>      EmployeeFactory employeeFactory = new EmployeeFactory();
+>      Employee emp1 = employeeFactory.recruit(EmployeeFactory
+>         .EmployeeType.HOURLY);
+>      Employee emp2 = employeeFactory.recruit(EmployeeFactory
+>         .EmployeeType.SALARIED);
+>      System.out.println("emp1 earns $"+emp1.earnings());
+>      System.out.println("emp2 earns $"+emp2.earnings());
+>   }
+>}
+>```
+
 
 </div></div>
 
@@ -306,7 +402,7 @@ interface IAnimal
 > [!Tip] Využití
 > Vzor Singleton použijte, pokud by třída v programu měla mít pouze jednu instanci dostupnou všem klientům; například jeden databázový objekt sdílený různými částmi programu
 
-> [!Showcase]- Ukázka:
+> [!Showcase]- Ukázka implementace singletonu v C#
 >```CSharp
 >// jednoduchý singleton
 >public class Singleton  
