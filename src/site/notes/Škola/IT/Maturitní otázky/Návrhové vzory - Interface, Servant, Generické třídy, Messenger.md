@@ -67,6 +67,17 @@ interface IAnimal
 </div></div>
 
 # Servant
-![[ServantPattern\|ServantPattern]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+#IT #Programování #SPOSDK #Java
+
+- vzor servant definuje objekt, který slouží k nabídnutí určité funkce skupině tříd, aniž by byla tato funkce definována v každé z nich. Servant je třída, jejíž instance (nebo dokonce jen třída) poskytuje metody, které se starají o požadovanou službu, přičemž objekty, pro které (nebo s nimiž) servant něco dělá, jsou brány jako parametry
+
+
+</div></div>
+
 # Messenger
 ![[MessangerPattern\|MessangerPattern]]
