@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","created":"2023-12-19T09:11:22.155+01:00","updated":"2024-03-13T18:20:35.514+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","created":"2023-12-19T09:11:22.155+01:00","updated":"2024-03-31T16:23:14.577+02:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -8,6 +8,7 @@
 > Věda zabývající se návrhem, konstrukcí, provozem a aplikací robotů.
 
 - Roboti jsou stroje, které jsou schopny autonomně nebo s částečnou autonomií provádět úkoly.
+- Reaguje na své okolí pomocí motorů, senzorů a čidel.
 - **Průmyslový robot** je mechanický manipulátor s programovatelným řízením, který je schopen ==opakovaně provádět zadané úkoly s vysokou přesností a spolehlivostí==.
 - Používají se ve velmi mnoho průmyslových odvětví, jako např.
 	- **Automobilový průmysl:** svařování, lakování, montáž
