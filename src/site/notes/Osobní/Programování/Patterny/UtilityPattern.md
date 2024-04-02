@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/UtilityPattern/","created":"2024-03-29T16:56:07.627+01:00","updated":"2024-04-02T12:05:27.956+02:00"}
+{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/UtilityPattern/","created":"2024-03-29T15:26:42.316+01:00","updated":"2024-04-02T12:05:27.956+02:00"}
 ---
 
 - vzor utility/helper je užitečný pro vytvoření neinicializovatelné třídy
