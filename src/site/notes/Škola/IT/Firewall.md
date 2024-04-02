@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Firewall/","created":"2024-03-15T00:03:57.324+01:00","updated":"2024-03-15T14:45:30.273+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Firewall/","created":"2024-03-18T20:53:15.239+01:00","updated":"2024-03-15T14:45:35.768+01:00"}
 ---
 
 #IT #Software #Hardware 
