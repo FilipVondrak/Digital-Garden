@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Karel Čapek/","created":"2023-11-28T11:56:53.494+01:00","updated":"2024-03-13T18:27:39.512+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/Karel Čapek/","created":"2024-03-18T20:55:31.691+01:00","updated":"2024-03-13T18:27:49.591+01:00"}
 ---
 
 #Autor 
