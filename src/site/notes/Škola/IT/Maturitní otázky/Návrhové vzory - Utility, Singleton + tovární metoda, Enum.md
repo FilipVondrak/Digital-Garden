@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Návrhové vzory - Utility, Singleton + tovární metoda, Enum/","created":"2024-03-29T15:57:06.438+01:00","updated":"2024-03-29T15:59:38.218+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Návrhové vzory - Utility, Singleton + tovární metoda, Enum/","created":"2024-03-29T16:56:08.915+01:00","updated":"2024-03-29T15:59:46.433+01:00"}
 ---
 
 # K čemu slouží návrhové vzory
