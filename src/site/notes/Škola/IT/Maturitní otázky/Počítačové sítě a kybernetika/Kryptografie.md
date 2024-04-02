@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-25T16:16:25.662+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2024-03-25T18:22:28.039+01:00","updated":"2024-03-25T16:16:31.622+01:00"}
 ---
 
 #IT #Maturitní_otázka
