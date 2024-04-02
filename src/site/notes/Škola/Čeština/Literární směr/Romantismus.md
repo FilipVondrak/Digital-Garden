@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Romantismus/","created":"2023-12-04T17:28:51.164+01:00","updated":"2024-03-13T18:26:43.308+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Literární směr/Romantismus/","created":"2024-03-18T20:55:27.491+01:00","updated":"2024-03-13T18:26:52.116+01:00"}
 ---
 
 - hluboce rozporuplný, odmítá staré formy – obdivuje minulost, opovrhuje konvencemi (to, co lidé uznávají)
