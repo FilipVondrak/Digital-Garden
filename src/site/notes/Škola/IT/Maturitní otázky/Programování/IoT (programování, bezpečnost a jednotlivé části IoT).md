@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2023-12-19T09:11:24.192+01:00","updated":"2024-03-18T21:32:28.245+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2024-03-18T22:58:28.574+01:00","updated":"2024-03-18T21:32:35.853+01:00"}
 ---
 
 #IOT #Maturitní_otázka #SPOSDK #Software 
