@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","created":"2024-03-24T23:24:17.760+01:00","updated":"2024-03-24T22:20:21.363+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","created":"2023-12-19T09:11:28.580+01:00","updated":"2024-03-24T22:20:14.853+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
