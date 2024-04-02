@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Periferie/Skenery/","created":"2024-03-18T20:55:13.711+01:00","updated":"2024-03-13T18:14:13.883+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Periferie/Skenery/","created":"2024-02-15T18:18:41.210+01:00","updated":"2024-03-13T18:14:06.503+01:00"}
 ---
 
 - Skenery používají [[Škola/IT/Periferie/RGB\|RGB]] barvy
