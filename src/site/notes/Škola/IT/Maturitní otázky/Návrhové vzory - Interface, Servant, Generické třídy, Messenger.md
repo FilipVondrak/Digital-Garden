@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","created":"2024-03-29T15:59:06.649+01:00","updated":"2024-03-29T16:01:23.769+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","created":"2024-03-29T16:56:08.879+01:00","updated":"2024-03-29T16:01:30.768+01:00"}
 ---
 
 #IT #Maturitní_otázka #Programování #SPOSDK 
