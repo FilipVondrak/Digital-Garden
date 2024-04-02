@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Data/","created":"2024-03-18T20:53:13.871+01:00","updated":"2024-03-15T15:08:52.626+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Data/","created":"2023-12-18T11:26:33.648+01:00","updated":"2024-03-15T15:08:42.668+01:00"}
 ---
 
 - zdroj z něhož se tvoří informace (aktiva)
