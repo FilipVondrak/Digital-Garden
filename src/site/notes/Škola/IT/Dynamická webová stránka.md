@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Dynamická webová stránka/","created":"2024-02-19T18:55:20.795+01:00","updated":"2024-03-31T16:51:05.141+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Dynamická webová stránka/","created":"2024-03-31T17:07:30.583+02:00","updated":"2024-03-31T16:51:12.213+02:00"}
 ---
 
 - ==jsou interaktivní== - jejich obsah se mění v závislosti na uživateli, akci nebo události
