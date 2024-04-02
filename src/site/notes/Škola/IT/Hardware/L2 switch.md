@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/L2 switch/","created":"2023-12-14T19:19:36.463+01:00","updated":"2024-03-13T18:18:21.865+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/L2 switch/","created":"2024-03-18T20:53:18.575+01:00","updated":"2024-03-13T18:18:29.776+01:00"}
 ---
 
 #Hardware
