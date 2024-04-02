@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-03-31T18:41:36.385+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-04-02T19:48:09.163+02:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -96,12 +96,10 @@ Nejčastější slohové útvary
 ## Čeština
 - [[Škola/Čeština/Slohové útvary/Vypravování\|Vypravování]]
 - [[Škola/Čeština/Slohové útvary/Úvaha\|Úvaha]]
-- [[Škola/Čeština/Slohové útvary/Popis\|Popis]]
+- [[Škola/Čeština/Slohové útvary/Popis\|Popis]] (nedoporučuji)
 - [[Škola/Čeština/Slohové útvary/Charakteristika\|Charakteristika]]
 - [[Škola/Čeština/Slohové útvary/Zpráva\|Zpráva]] 
 - [[Škola/Čeština/Slohové útvary/Oznámení\|Oznámení]]
-- [[Škola/Čeština/Slohové útvary/Článek\|Článek]]
-- [[Škola/Čeština/Slohové útvary/Formální dopis\|Formální dopis]]
 ## Angličtina
 ___
 # Seznam četby
