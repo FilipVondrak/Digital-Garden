@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Aktiva/","created":"2024-03-18T20:53:10.639+01:00","updated":"2024-03-14T18:22:08.323+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Aktiva/","created":"2023-12-18T11:40:49.921+01:00","updated":"2024-03-14T18:21:59.540+01:00"}
 ---
 
 - něco, co je pro mě důležité, snažíme se je chránit
