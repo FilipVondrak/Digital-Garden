@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Automatizace/","created":"2024-02-21T17:32:40.038+01:00","updated":"2024-03-13T18:21:19.403+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Automatizace/","created":"2024-03-18T20:53:11.679+01:00","updated":"2024-03-13T18:21:29.221+01:00"}
 ---
 
 #IT #Robotika #Maturitní_otázka 
