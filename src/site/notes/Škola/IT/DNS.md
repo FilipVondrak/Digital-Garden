@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/DNS/","created":"2023-12-14T18:50:57.694+01:00","updated":"2024-03-14T21:04:32.112+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/DNS/","created":"2024-03-18T20:53:14.123+01:00","updated":"2024-03-14T21:04:42.507+01:00"}
 ---
 
 #IT #Software #SPOSDK #Maturitní_otázka 
