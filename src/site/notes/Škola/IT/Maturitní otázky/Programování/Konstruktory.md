@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Konstruktory/","created":"2024-03-24T23:24:16.396+01:00","updated":"2024-03-24T22:19:19.811+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Konstruktory/","created":"2023-12-19T09:12:11.009+01:00","updated":"2024-03-24T22:19:14.117+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
