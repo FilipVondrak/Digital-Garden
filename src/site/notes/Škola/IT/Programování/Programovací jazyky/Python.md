@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Programování/Programovací jazyky/Python/","created":"2024-03-19T17:28:16.095+01:00","updated":"2024-03-13T18:20:50.511+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Programování/Programovací jazyky/Python/","created":"2024-02-21T17:17:06.332+01:00","updated":"2024-03-13T18:20:42.117+01:00"}
 ---
 
 #IT #Programování 
