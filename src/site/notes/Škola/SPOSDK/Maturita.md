@@ -60,7 +60,7 @@ ___
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [ ]  [[Škola/IT/Maturitní otázky/Programování/C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod\|C Sharp a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod]]
 18. [ ] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
-19. [x] [[Škola/IT/Maturitní otázky/Návrhové vzory - Utility, Singleton + tovární metoda, Enum\|Návrhové vzory - Utility, Singleton + tovární metoda, Enum]]
+19. [x] [[Škola/IT/Maturitní otázky/Návrhové vzory - Utility, Singleton a tovární metoda, Enum\|Návrhové vzory - Utility, Singleton a tovární metoda, Enum]]
 20. [/] [[Škola/IT/Maturitní otázky/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
 [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
 
