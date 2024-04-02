@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2024-03-18T20:53:24.219+01:00","updated":"2024-03-13T18:17:26.575+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2023-12-14T19:07:35.550+01:00","updated":"2024-03-13T18:17:19.744+01:00"}
 ---
 
 1. **Fyzická** vrstva
