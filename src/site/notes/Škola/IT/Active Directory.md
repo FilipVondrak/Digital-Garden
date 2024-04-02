@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Active Directory/","created":"2024-03-18T20:53:10.343+01:00","updated":"2024-03-15T00:00:48.898+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Active Directory/","created":"2024-03-14T18:43:29.162+01:00","updated":"2024-03-15T00:00:39.716+01:00"}
 ---
 
 #IT #Software 
