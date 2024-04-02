@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osobní/Programování/Enum/","created":"2024-03-29T16:56:04.827+01:00","updated":"2024-04-02T12:06:27.788+02:00"}
+{"dg-publish":true,"permalink":"/Osobní/Programování/Enum/","created":"2024-03-29T15:45:37.066+01:00","updated":"2024-04-02T12:06:27.788+02:00"}
 ---
 
 - je to **speciální** "třída", která ==reprezentuje skupinu konstant== (neměnných)
