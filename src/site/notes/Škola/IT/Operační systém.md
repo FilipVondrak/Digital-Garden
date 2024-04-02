@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Operační systém/","created":"2024-03-14T18:35:28.256+01:00","updated":"2024-03-14T18:37:01.327+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Operační systém/","created":"2024-03-18T20:55:12.139+01:00","updated":"2024-03-14T18:37:11.069+01:00"}
 ---
 
 #IT #Software #SPOSDK #Maturitní_otázka 
