@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Druhy licencí a autorský zákoník/","created":"2023-12-14T18:23:28.544+01:00","updated":"2024-03-14T18:31:54.265+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Druhy licencí a autorský zákoník/","created":"2024-03-18T20:54:41.963+01:00","updated":"2024-03-14T18:32:03.057+01:00"}
 ---
 
 # Licence
