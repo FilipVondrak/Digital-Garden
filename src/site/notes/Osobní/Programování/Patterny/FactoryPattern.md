@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/FactoryPattern/","created":"2024-03-29T16:56:05.011+01:00","updated":"2024-04-02T12:05:41.552+02:00"}
+{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/FactoryPattern/","created":"2024-01-03T15:04:27.784+01:00","updated":"2024-04-02T12:05:41.552+02:00"}
 ---
 
 - Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
