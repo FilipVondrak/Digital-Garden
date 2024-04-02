@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Internet/","created":"2024-03-18T20:53:24.107+01:00","updated":"2024-03-13T18:06:41.647+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Internet/","created":"2023-12-18T17:05:36.853+01:00","updated":"2024-03-13T18:06:35.114+01:00"}
 ---
 
 - zařízení mimo lokální síť
