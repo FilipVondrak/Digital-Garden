@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení/","created":"2023-12-14T18:39:43.867+01:00","updated":"2024-03-13T18:13:23.628+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení/","created":"2024-03-18T20:54:45.231+01:00","updated":"2024-03-13T18:13:28.969+01:00"}
 ---
 
 # Tiskárny
