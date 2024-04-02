@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Fyzika-Elektrotechnika/Světlo/","created":"2024-03-18T20:53:09.375+01:00","updated":"2024-03-13T18:12:15.460+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Fyzika-Elektrotechnika/Světlo/","created":"2024-02-05T19:54:34.341+01:00","updated":"2024-03-13T18:12:08.978+01:00"}
 ---
 
 #Fyzika #Maturitní_otázka #SPOSDK 
