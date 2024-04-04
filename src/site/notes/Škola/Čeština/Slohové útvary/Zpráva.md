@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Slohové útvary/Zpráva/","created":"2024-03-31T18:38:07.608+02:00","updated":"2024-04-02T19:50:10.406+02:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Slohové útvary/Zpráva/","created":"2024-03-31T18:38:07.608+02:00","updated":"2024-04-02T20:21:33.283+02:00"}
 ---
 
 #SPOSDK #Sloh #Maturitní_otázka 
@@ -19,3 +19,24 @@
 - přímá řeč
 - odkaz na místní příslušnost deníku 
 	- např. „Místní přeborník v soutěži jedlíků, …“/ „Jak se naši čtenáři mohli dozvědět v minulém čísle.“
+## Obecná charakteristika
+### Základní znaky
+- aktuálnost
+- objektivnost
+- věcná správnost
+- stručnost
+- výstižnost
+- srozumitelnost
+### Slohový postup
+- informační
+- popisný
+### Kompozice
+- chronologická
+- tzv. princip obrácené pyramidy - postup informací k méně důložitým
+- v úvodu - shrnující první odstavec
+- titulek - základní prvek publicistického stylu
+### Jazykové prostředky
+- neutrální spisovný čas
+- minulý čas
+- přímá řeč jako citace
+- 3. osoba slovesná
