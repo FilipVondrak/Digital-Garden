@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/FactoryPattern/","created":"2024-01-03T15:04:27.784+01:00","updated":"2024-04-02T12:05:41.552+02:00"}
+{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/FactoryPattern/","created":"2024-01-03T15:04:27.784+01:00","updated":"2024-04-04T15:20:12.164+02:00"}
 ---
 
 - Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
@@ -100,7 +100,7 @@
 >   }
 >}
 >
-package com.mano.patternsdemo;
+>package com.mano.patternsdemo;
 >
 >public class HourlyEmployee implements Employee {
 >   private double hoursWorked;
@@ -148,7 +148,7 @@ package com.mano.patternsdemo;
 >      return emp;
 >   }
 >}
- >
+>
 >package com.mano.patternsdemo;
 >public class Main {
 >   public static void main(String[] args) {
