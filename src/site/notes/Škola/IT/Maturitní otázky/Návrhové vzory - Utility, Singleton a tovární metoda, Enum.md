@@ -25,15 +25,15 @@
 >   private Utility(){
 >
 >   }
-  > 
+> 
 >   public static Boolean compareSomething(){
 >      // ...
 >      return false;
 >   }
 >
 >   public static void shuffleTheList(List\<String> list){
-      // ...
-   }
+>      // ...
+>   }
 >
 >   public static void doSomething(){
 >      // ...
@@ -210,7 +210,7 @@
 >   }
 >}
 >
-package com.mano.patternsdemo;
+>package com.mano.patternsdemo;
 >
 >public class HourlyEmployee implements Employee {
 >   private double hoursWorked;
@@ -258,7 +258,7 @@ package com.mano.patternsdemo;
 >      return emp;
 >   }
 >}
- >
+>
 >package com.mano.patternsdemo;
 >public class Main {
 >   public static void main(String[] args) {
