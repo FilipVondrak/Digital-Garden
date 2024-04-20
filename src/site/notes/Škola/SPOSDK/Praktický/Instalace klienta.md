@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Instalace klienta/","created":"2024-04-20T19:55:06.498+02:00","updated":"2024-04-20T22:03:58.063+02:00"}
+---
+
+1. Klikneme na "Další"![Instalace klienta (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(1).png)
+2. Klikneme na "Nainstalovat"![Instalace klienta (2).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(2).png)
+3. Vybereme "Nemám kód Product Key"![Instalace klienta (3).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(3).png)
+4. Vybereme ==Windows 10 Pro==![Instalace klienta (4).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(4).png)
+5. Přijmeme licenční podmínky![Instalace klienta (5).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(5).png)
+6. Zvolíme vlastní instalaci![Instalace klienta (6).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(6).png)
+7. Vybereme náš disk![Instalace klienta (7).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(7).png)
+8. Nastavíme oblast na Českou republiku![Instalace klienta (9).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(9).png)
+9. Vybereme českou klávesnici![Instalace klienta (10).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(10).png)
+10. Přeskočíme přidání druhého rozložení![Instalace klienta (11).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(11).png)
+11. Zaklikneme "Nemám internet"![Instalace klienta (12).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(12).png)
+12. Vybereme omezenou instalaci![Instalace klienta (13).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(13).png)
+13. Vytvoříme uživatelské jméno pro PC; v mém případě "Klient"![Instalace klienta (14).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(14).png)
+14. Vytvoříme heslo; v mém případe "Heslo123*"![Instalace klienta (15).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(15).png)
+15. Vypneme provádění akcí hlasem![Instalace klienta (16).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(16).png)
+16. Vypneme použití polohy![Instalace klienta (17).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(17).png)
+17. Vypneme "Najít moje zařízení"![Instalace klienta (18).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(18).png)
+18. Nastavíme minimální diagnostická data![Instalace klienta (19).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(19).png)
+19. Vypneme diagnostická data pro psaní rukou![Instalace klienta (20).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(20).png)
+20.  Vypneme použití diagnostických dat![Instalace klienta (21).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(21).png)
+21. Vypneme použití reklamní ID![Instalace klienta (22).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(22).png)
+22. Zapneme historii aktivity![Instalace klienta (23).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(23).png)
+23. Máme nainstalování![Instalace klienta (24).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(24).png)   
