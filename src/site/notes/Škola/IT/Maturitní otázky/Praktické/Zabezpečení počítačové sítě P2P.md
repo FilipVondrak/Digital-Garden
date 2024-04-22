@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P/","created":"2023-12-19T09:21:24.087+01:00","updated":"2024-04-20T21:47:14.461+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P/","created":"2023-12-19T09:21:24.087+01:00","updated":"2024-04-21T19:40:39.871+02:00"}
 ---
 
 # Nastavení
@@ -78,6 +78,11 @@ ___
 4. Klikneme na "Zapnout zjišťování sítí a sdílení souborů"![Přepnutí na privátní síť (4).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/P%C5%99epnut%C3%AD%20na%20priv%C3%A1tn%C3%AD%20s%C3%AD%C5%A5/P%C5%99epnut%C3%AD%20na%20priv%C3%A1tn%C3%AD%20s%C3%AD%C5%A5%20(4).png)
 5. Vybereme preferovanou možnost; pokud vybereme 1. možnost tak se po restartu vrátí počítač nazpět ![Přepnutí na privátní síť (5).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/P%C5%99epnut%C3%AD%20na%20priv%C3%A1tn%C3%AD%20s%C3%AD%C5%A5/P%C5%99epnut%C3%AD%20na%20priv%C3%A1tn%C3%AD%20s%C3%AD%C5%A5%20(5).png)
 # Změna IP adresy
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 1. Otevřeme ovládací panely![Snímek obrazovky 2024-04-20 210010.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210010.png)
 2. Otevřeme "Síť a internet"![Snímek obrazovky 2024-04-20 210017.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210017.png)
 3. Otevřeme "Centrum síťových připojení a sdílení"![Snímek obrazovky 2024-04-20 210022.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210022.png)
@@ -85,6 +90,9 @@ ___
 5. Vybereme "Vlastnosti"![Snímek obrazovky 2024-04-20 210031.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210031.png)
 6. Vypneme IPv6 a otevřeme vlastnosti IPv4 ![Snímek obrazovky 2024-04-20 210038.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210038.png)
 7. Zadáme naší adresu![Snímek obrazovky 2024-04-20 210102.png](/img/user/Images/Sn%C3%ADmek%20obrazovky%202024-04-20%20210102.png)
+
+</div></div>
+
 # Sdílení tiskárny
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/sposdk/prakticky/sdileni-tiskarny/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
