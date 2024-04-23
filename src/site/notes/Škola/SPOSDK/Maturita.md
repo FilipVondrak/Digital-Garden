@@ -80,7 +80,7 @@ ___
 6. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení a zálohování dat\|Zabezpečení a zálohování dat]]
 7. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení webového serveru\|Zabezpečení webového serveru]]
 8. [ ] [[Škola/IT/Maturitní otázky/Praktické/Projekt z robotiky\|Projekt z robotiky]]
-9. [ ] [[Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování\|Projekt v oblasti programování]]
+9. [x] [[Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování\|Projekt v oblasti programování]]
 ___
 ## Užitečné
 - [[Počítání IP\|Počítání IP]]
