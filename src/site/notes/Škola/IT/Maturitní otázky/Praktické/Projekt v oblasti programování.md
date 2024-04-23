@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování/","created":"2023-12-19T09:21:41.658+01:00","updated":"2024-04-23T08:21:34.878+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování/","created":"2023-12-19T09:21:41.658+01:00","updated":"2024-04-23T08:30:40.324+02:00"}
 ---
 
 # Zadání 2024
@@ -40,7 +40,8 @@ UI formu1
 - ve winforms vytvořit aplikaci, který bude používat SQLite databázi a vytvoří v ní tabulku
 - bude číst a zapisovat do tabulka údaje, např. ID, text a čas
 ### Řešení
-- je potřeba stáhnout System.Data.Sqlite nuget
+- je potřeba stáhnout **System.Data.Sqlite** nuget, pozor - je jich na výběr několik se stejným jménem a je potřeba tenhle konkrétní
+![Pasted image 20240423082553.png](/img/user/Images/Pasted%20image%2020240423082553.png)
 
 Form1.cs
 ```CS
@@ -193,3 +194,145 @@ namespace Databaze
 }
 ```
 ## Photoshop
+### Zadání
+- vytvořit winforms aplikaci, která bude sloužit jako photoshop
+- mít základní funkce jako:
+	- Otáčení a zrcadlení obrázku
+	- Kreslit do obrázku pomocí grafiky
+	- Převést obrázek do černobíle, odstranit obrázku pozadí
+### Řešení
+Form1.cs
+```Cs
+namespace Photoshop
+{
+    public partial class Form1 : Form
+    {
+        private Bitmap bitmap = null;
+        private Graphics g;
+
+        public Form1()
+        {
+            InitializeComponent();
+            g = this.CreateGraphics();
+        }
+
+        private void otočitObrázekToolStripMenuItem_Click(object sender, EventArgs e) => Upravy.OtočitObrázek(bitmap, pictureBox, g);
+
+        private void otevřítObrázekToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog dlg = new OpenFileDialog())
+            {
+                dlg.Title = "Open Image";
+                dlg.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
+
+                if (dlg.ShowDialog() == DialogResult.OK)
+                {
+                    bitmap = new Bitmap(Bitmap.FromFile(dlg.FileName));
+                }
+            }
+            pictureBox.Image = bitmap;
+        }
+
+        private void uložitObrázeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (SaveFileDialog dlg = new SaveFileDialog())
+            {
+                dlg.Title = "Save Image";
+                dlg.Filter = "Image Files (*.bmp;*.jpg;*.jpeg,*.png)|*.BMP;*.JPG;*.JPEG;*.PNG";
+
+                if (dlg.ShowDialog() == DialogResult.OK)
+                {
+                    bitmap.Save(dlg.FileName);
+                }
+            }
+        }
+
+        private void zavřítObázekToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.bitmap = null;
+            this.pictureBox.Image = null;
+        }
+
+        private void otočitObrázekToolStripMenuItem_Click_1(object sender, EventArgs e) => Upravy.OtočitObrázek(bitmap, pictureBox, g);
+
+        private void zrcadlitToolStripMenuItem_Click(object sender, EventArgs e) => Upravy.ZrcadlitObrázek(bitmap, pictureBox, g);
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e) => Upravy.GrayScale(bitmap, pictureBox, g);
+
+        private void toolStripButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (MalovatButton.Checked)
+            {
+                pictureBox.MouseDown += pictureBox_MouseDown;
+            }
+            else
+            {
+                pictureBox.MouseDown -= pictureBox_MouseDown;
+            }
+        }
+
+        private void pictureBox_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (MalovatButton.Checked)
+            {
+                using (Pen pen = new Pen(Color.Black, 5))
+                {
+                    g.DrawLine(pen, e.Location, e.Location);
+                }
+            }
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e) => MalovatButton.Checked = !MalovatButton.Checked;
+    }
+}
+
+```
+
+UI formu1
+![Pasted image 20240423082801.png](/img/user/Images/Pasted%20image%2020240423082801.png)
+
+Upravy.cs
+```Cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Photoshop
+{
+    internal static class Upravy
+    {
+
+        public static void OtočitObrázek(Bitmap bitmap, PictureBox pBox, Graphics g)
+        {
+            // Otočení obrázku
+            bitmap.RotateFlip(RotateFlipType.Rotate90FlipNone);
+            pBox.Image = bitmap;
+        }
+
+        public static void ZrcadlitObrázek(Bitmap bitmap, PictureBox pBox, Graphics g)
+        {
+            // Zrcadlení obrázku
+            bitmap.RotateFlip(RotateFlipType.RotateNoneFlipX);
+            pBox.Image = bitmap;
+        }
+
+        public static void GrayScale(Bitmap bitmap, PictureBox pBox, Graphics g)
+        {
+            // Převod obrázku do černobílé
+            for (int i = 0; i < bitmap.Width; i++)
+            {
+                for (int j = 0; j < bitmap.Height; j++)
+                {
+                    Color pixel = bitmap.GetPixel(i, j);
+                    int avg = (pixel.R + pixel.G + pixel.B) / 3;
+                    bitmap.SetPixel(i, j, Color.FromArgb(avg, avg, avg));
+                }
+            }
+            pBox.Image = bitmap;
+        }   
+    }
+}
+
+```
