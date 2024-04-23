@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - praktická část/","created":"2023-12-18T16:41:02.586+01:00","updated":"2024-04-23T08:23:30.500+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - praktická část/","created":"2023-12-18T16:41:02.586+01:00","updated":"2024-04-23T22:02:27.909+02:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P\|Zabezpečení počítačové sítě P2P]]
 2. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení sítě client – server\|Zabezpečení sítě client – server]]
-3. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení emailového klienta a serveru\|Zabezpečení emailového klienta a serveru]]
+3. [x] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení emailového klienta a serveru\|Zabezpečení emailového klienta a serveru]]
 4. [ ] [[Škola/IT/Maturitní otázky/Praktické/Firemní politika\|Firemní politika]]
 5. [ ] [[Škola/IT/Maturitní otázky/Praktické/Návrh Active Directory\|Návrh Active Directory]]
 6. [ ] [[Škola/IT/Maturitní otázky/Praktické/Zabezpečení a zálohování dat\|Zabezpečení a zálohování dat]]
