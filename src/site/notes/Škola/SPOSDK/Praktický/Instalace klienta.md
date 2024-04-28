@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Instalace klienta/","created":"2024-04-20T19:55:06.498+02:00","updated":"2024-04-20T22:03:58.063+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Instalace klienta/","created":"2024-04-20T19:55:06.498+02:00","updated":"2024-04-20T22:04:05.478+02:00"}
 ---
 
 1. Klikneme na "Další"![Instalace klienta (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Instalace%20klienta/Instalace%20klienta%20(1).png)
