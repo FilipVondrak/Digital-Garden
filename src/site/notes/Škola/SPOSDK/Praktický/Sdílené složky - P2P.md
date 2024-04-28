@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Sdílené složky - P2P/","created":"2024-04-20T19:42:18.752+02:00","updated":"2024-04-20T22:04:18.381+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Sdílené složky - P2P/","created":"2024-04-20T19:42:18.752+02:00","updated":"2024-04-20T22:04:24.279+02:00"}
 ---
 
 1. Otevřeme nastavení uživatelů![Sdilene slozky - P2P (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Sd%C3%ADlen%C3%AD%20slo%C5%BEek%20na%20P2P/Sdilene%20slozky%20-%20P2P%20(1).png)
