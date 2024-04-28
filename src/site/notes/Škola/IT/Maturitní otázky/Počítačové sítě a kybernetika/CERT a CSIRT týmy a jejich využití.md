@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","created":"2023-12-14T18:24:42.842+01:00","updated":"2024-03-13T18:11:53.950+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","created":"2023-12-14T18:24:42.842+01:00","updated":"2024-03-13T18:12:03.924+01:00"}
 ---
 
 #IT #SPOSDK 
