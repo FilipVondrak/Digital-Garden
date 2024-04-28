@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/George Orwell/","created":"2023-11-28T11:56:44.020+01:00","updated":"2024-03-13T18:25:50.091+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Autoři/George Orwell/","created":"2023-11-28T11:56:44.020+01:00","updated":"2024-03-13T18:25:55.576+01:00"}
 ---
 
 #Autor
