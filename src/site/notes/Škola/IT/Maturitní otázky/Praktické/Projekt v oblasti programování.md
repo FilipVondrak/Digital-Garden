@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování/","created":"2023-12-19T09:21:41.658+01:00","updated":"2024-04-23T08:30:40.324+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Projekt v oblasti programování/","created":"2023-12-19T09:21:41.658+01:00","updated":"2024-04-23T08:30:49.296+02:00"}
 ---
 
 # Zadání 2024
