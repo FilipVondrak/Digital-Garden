@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Domovské složky/","created":"2024-04-20T19:43:04.585+02:00","updated":"2024-04-22T10:35:33.205+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Domovské složky/","created":"2024-04-20T19:43:04.585+02:00","updated":"2024-04-22T10:35:41.461+02:00"}
 ---
 
 1. Vytvoříme naši sdílenou složku a vlastnostech otevřeme záložku "Sdílení" a pak otevřeme "Rozšířené možnosti sdílení" ![Domovské složky (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Domovsk%C3%A9%20slo%C5%BEky/Domovsk%C3%A9%20slo%C5%BEky%20(1).png)
