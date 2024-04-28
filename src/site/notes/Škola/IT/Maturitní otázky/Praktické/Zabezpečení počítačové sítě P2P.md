@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P/","created":"2023-12-19T09:21:24.087+01:00","updated":"2024-04-21T19:40:39.871+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení počítačové sítě P2P/","created":"2023-12-19T09:21:24.087+01:00","updated":"2024-04-21T19:40:44.585+02:00"}
 ---
 
 # Nastavení
