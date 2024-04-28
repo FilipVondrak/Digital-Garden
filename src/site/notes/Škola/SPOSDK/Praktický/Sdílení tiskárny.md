@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Sdílení tiskárny/","created":"2024-04-20T19:42:36.231+02:00","updated":"2024-04-20T22:04:20.762+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Sdílení tiskárny/","created":"2024-04-20T19:42:36.231+02:00","updated":"2024-04-20T22:04:29.517+02:00"}
 ---
 
 1. Připojíme maturita_new.iso![Sdílení tiskárny (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Sd%C3%ADlen%C3%AD%20tisk%C3%A1rny/Sd%C3%ADlen%C3%AD%20tisk%C3%A1rny%20(1).png)
