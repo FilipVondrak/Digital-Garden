@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/Singleton/","created":"2024-01-03T15:04:16.447+01:00","updated":"2024-04-16T10:59:30.499+02:00"}
+{"dg-publish":true,"permalink":"/Osobní/Programování/Patterny/Singleton/","created":"2024-01-03T15:04:16.447+01:00","updated":"2024-04-16T10:59:39.521+02:00"}
 ---
 
 - Díky singletonu lze vytvořit **pouze** jednu instanci z třídy
