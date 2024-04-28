@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Periferie/Tiskárny/","created":"2024-02-15T18:18:17.762+01:00","updated":"2024-03-13T18:13:43.927+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Periferie/Tiskárny/","created":"2024-02-15T18:18:17.762+01:00","updated":"2024-03-13T18:13:52.047+01:00"}
 ---
 
 - na barvy používá **CMYK** (Cyan, Yellow, Magenta, Black)
