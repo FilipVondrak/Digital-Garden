@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě/","created":"2023-12-14T18:25:01.841+01:00","updated":"2024-04-20T19:46:25.920+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Revitalizace sítě po napadení sítě/","created":"2023-12-14T18:25:01.841+01:00","updated":"2024-04-28T21:34:34.835+02:00"}
 ---
 
 # Počítačová síť
@@ -73,6 +73,23 @@ ___
 
 
 
+> [!Info]
+Dokument, soubor pravidel pro všechny uživatele v organizaci
+=> tyto pravidla se vztahují spíše pro firmy, organizace nebo větší sítě
+
+- Obsahuje:
+	- Doporučení 
+	- zákazy 
+	- postupy v různých situacích
+- Rozděluje zaměstnance do určitých skupin -> určení práv v síti
+- Určuje zálohu hesel a jejich aktualizace
+# Pravidla pro účty
+- ADMIN -> nejvyšší práva v síti, ke své práci by neměl využívat admin účet
+- USER  -> pravidla jak vytvořit heslo a uživatelské jméno: příjmení + iniciál
+# Fyzická bezpečnost
+- Zabezpečení budovy, vstupů a místností -> klíč, čip, biometrika
+- Ochrana techniky
+	- kamerový systém
 
 </div></div>
 
