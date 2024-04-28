@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware počítačových sítí/","created":"2023-12-14T18:39:33.589+01:00","updated":"2024-03-13T18:17:17.069+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware počítačových sítí/","created":"2023-12-14T18:39:33.589+01:00","updated":"2024-03-13T18:17:26.609+01:00"}
 ---
 
 #IT #Maturitní_otázka
