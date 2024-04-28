@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Slohové útvary/Zpráva/","created":"2024-03-31T18:38:07.608+02:00","updated":"2024-04-02T20:21:33.283+02:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Slohové útvary/Zpráva/","created":"2024-03-31T18:38:07.608+02:00","updated":"2024-04-02T20:21:40.481+02:00"}
 ---
 
 #SPOSDK #Sloh #Maturitní_otázka 
