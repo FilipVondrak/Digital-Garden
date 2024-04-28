@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Nakonfigurování webového serveru/","created":"2024-04-20T19:48:42.678+02:00","updated":"2024-04-23T20:08:58.271+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Praktický/Nakonfigurování webového serveru/","created":"2024-04-20T19:48:42.678+02:00","updated":"2024-04-23T20:09:04.780+02:00"}
 ---
 
 1. v maturita_new.iso si najdeme wordpress![xampp a wordpress (1).png](/img/user/%C5%A0kola/SPOSDK/Praktick%C3%BD/Screenshoty/Nakonfigurov%C3%A1n%C3%AD%20webov%C3%A9ho%20serveru/xampp%20a%20wordpress%20(1).png)
