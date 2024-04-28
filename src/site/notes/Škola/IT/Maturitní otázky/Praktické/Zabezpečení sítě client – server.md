@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení sítě client – server/","created":"2023-12-19T09:21:44.942+01:00","updated":"2024-04-23T22:19:16.127+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení sítě client – server/","created":"2023-12-19T09:21:44.942+01:00","updated":"2024-04-23T22:19:25.701+02:00"}
 ---
 
 # Server
