@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení emailového klienta a serveru/","created":"2023-12-19T09:21:29.095+01:00","updated":"2024-04-23T22:01:58.688+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Praktické/Zabezpečení emailového klienta a serveru/","created":"2023-12-19T09:21:29.095+01:00","updated":"2024-04-23T22:02:06.700+02:00"}
 ---
 
 #SPOSDK #Maturitní_otázka #IT
