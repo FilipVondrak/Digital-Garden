@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-03-25T16:16:25.662+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-04-28T17:00:17.228+02:00"}
 ---
 
 #IT #Maturitní_otázka
@@ -34,8 +34,18 @@ ___
 ## Podle způsobu šifry
 ### Symetricky
 - Šifruje se a dešifruje se stejným klíčem
+- odesílatel i příjemce musí mít ten klíč
+- Např.:
+	- Morseovka 
+	- Caesarova 
+	- Enigma
 ### Asymetricky
-- Šifruje se veřejným klíčem a dešifruje se privátním klíčem
+- 2 různé klíče - jeden privátní a jeden veřejný
+- Fungování
+	- 1 veřejný – šifruje
+		- Osoba má na IG v biu veřejný klíč, pomocí tohoto klíče já zašifruji data a pošlu mu je
+	- 1 privátní – dešifruje
+		- Osoba data rozšifruje svým privátním klíčem
 ## Podle fungování šifry
 ### Transpoziční šifra
 - posouvá písmena s pomocí klíče
