@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","created":"2023-12-19T09:12:08.124+01:00","updated":"2024-03-29T14:57:46.358+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","created":"2023-12-19T09:12:08.124+01:00","updated":"2024-03-29T14:57:51.919+01:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
