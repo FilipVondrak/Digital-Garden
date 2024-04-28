@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Disk/","created":"2024-02-05T19:24:38.985+01:00","updated":"2024-03-13T18:15:05.219+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Disk/","created":"2024-02-05T19:24:38.985+01:00","updated":"2024-03-13T18:15:13.821+01:00"}
 ---
 
 #Hardware #IT #Maturitní_otázka 
