@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/DHCP/","created":"2024-03-14T18:45:24.167+01:00","updated":"2024-03-14T18:51:07.843+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/DHCP/","created":"2024-03-14T18:45:24.167+01:00","updated":"2024-03-14T18:51:16.128+01:00"}
 ---
 
 #IT #Software #Protokol
