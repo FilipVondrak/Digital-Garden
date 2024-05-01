@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-04-28T17:05:00.004+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-05-01T22:47:50.525+02:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -9,7 +9,7 @@
 
 
 
-1. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
+1. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
 2. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečné chování v lokání síti a na internetu\|Bezpečné chování v lokání síti a na internetu]]
 3. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kybernetické hrozby a ochrana proti nim (malware, útoky)\|Kybernetické hrozby a ochrana proti nim (malware, útoky)]]
 4. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Zabezpečení dat proti zneužití\|Zabezpečení dat proti zneužití]]
@@ -117,8 +117,9 @@ Nejčastější slohové útvary
 ___
 # Ústní maturita z češtiny
 ## Charakteristika uměleckého textu
-- 
+- [[Škola/Čeština/Literární druhy, žánry a směry\|Literární druhy, žánry a směry]]
 ## Charakteristika neuměleckého textu
+- [[Funkční styly\|Funkční styly]]
 - 
  
 ___
