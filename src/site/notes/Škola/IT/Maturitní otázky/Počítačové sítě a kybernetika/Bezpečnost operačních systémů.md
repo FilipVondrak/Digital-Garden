@@ -193,12 +193,23 @@ ___
 
 - Identifikuje a odstranění většinu malwaru
 - Nutné pravidelné aktualizace kvůli aktuální virové databázi
+- Je to software, který se stará o ochranu před malwarem
+- porovnává kód programů ==se svojí databází== virů
+- Novější verze mají AI, která rozpoznává nové malwary
 ## Funkce anti malwaru
 ### Kontrola
+- kontrola souborů před viry
 ### Nalezení škodlivého kódu
+- hledání a mazání malwaru
 ### Heuristická analýza
+- pokus detekovat dosud neznámé viry a varianty již známých virů 
 ### Sandbox
+- izolace programu, aby se otestovalo jeho chování v systému
+- např. pokud si nejsme jistí či aplikace obsahuje malware, tak ji můžeme spustit v sandboxu a hlídat její chování
 ### Whitelist
+- povolení pouze určitých aplikací
+### Blacklist
+- zakázání určitých aplikací
 
 </div></div>
 
@@ -273,6 +284,11 @@ Dokument, soubor pravidel pro všechny uživatele v organizaci
 
 
 
+-> **Virtual Private Network**
 
+- "skryje" váš internet traffic (internetový provoz)
+- šifruje vaše data, takže je nikdo nemůže vidět, ani váš poskytovatel internetu nebo někdo na veřejné Wi-Fi síti
+- Poskytovatel VPN ovšem pořád data vidí, je proto důležité vybrat kvalitního poskytovatele, který data nebude prodávat ani jinak šířit
+- Je také možné použít VPN pro připojení 2 počítačů z různých sítí na jednu stejnou LAN
 
 </div></div>
