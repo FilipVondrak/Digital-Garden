@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-03-25T17:15:12.462+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-05-01T20:21:03.365+02:00"}
 ---
 
-1. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
+1. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
 2. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečné chování v lokání síti a na internetu\|Bezpečné chování v lokání síti a na internetu]]
 3. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kybernetické hrozby a ochrana proti nim (malware, útoky)\|Kybernetické hrozby a ochrana proti nim (malware, útoky)]]
 4. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Zabezpečení dat proti zneužití\|Zabezpečení dat proti zneužití]]
