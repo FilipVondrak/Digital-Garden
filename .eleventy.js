@@ -7,8 +7,7 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-import { inject } from "@vercel/analytics"
-inject()
+
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
