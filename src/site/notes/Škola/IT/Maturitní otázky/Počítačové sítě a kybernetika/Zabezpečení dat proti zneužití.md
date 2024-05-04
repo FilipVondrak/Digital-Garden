@@ -86,7 +86,7 @@
 
 # Zabezpečení dat na cloudu
 - na cloud posílat jen jen předem šifrovaná data
-- používat [[Škola/IT/HTTPS\|HTTPS]] -> bezpečný přenos dat
+- používat [[Škola/IT/Protokoly/HTTPS\|HTTPS]] -> bezpečný přenos dat
 - dělat pravidelné zálohy
 - použít [[Škola/IT/VPN\|VPN]]
 ## Nejbezpečnější cloud - vlastní cloud
