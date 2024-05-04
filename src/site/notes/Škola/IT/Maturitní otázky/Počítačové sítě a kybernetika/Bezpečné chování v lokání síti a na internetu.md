@@ -137,8 +137,8 @@ ___
 - Kontrolovat nastavení FIREWALLu
 - Je nebezpečné používat starší verze softwaru
 ## Webová bezpečnost
-- Navštěvovat jen zabezpečené stránky ([[Škola/IT/HTTPS\|HTTPS]])
-- na nezabezpečených ([[Škola/IT/HTTP\|HTTP]]) už vůbec nezadávat žádné informace, jejich přenos ==není zabezpečený ==
+- Navštěvovat jen zabezpečené stránky ([[Škola/IT/Protokoly/HTTPS\|HTTPS]])
+- na nezabezpečených ([[Škola/IT/Protokoly/HTTP\|HTTP]]) už vůbec nezadávat žádné informace, jejich přenos ==není zabezpečený ==
 - Nesdílet osobní nebo citlivé údaje **nikde**
 - ==Neotvírat podezřelé odkazy==
 - Nestahovat podezřelé přílohu mailu a neznámé aplikace
