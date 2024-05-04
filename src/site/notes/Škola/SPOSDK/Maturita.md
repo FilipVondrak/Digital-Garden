@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-05-01T22:47:50.525+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-05-02T10:53:16.566+02:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -28,7 +28,7 @@
 17. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost v sítích\|Bezpečnost v sítích]]
 18. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
 19. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
-20. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě (HTTP, FTP, SMTP, POP3, IMAP)\|Protokoly na aplikační vrstvě (HTTP, FTP, SMTP, POP3, IMAP)]]
+20. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
 
 </div></div>
 
@@ -116,11 +116,11 @@ Nejčastější slohové útvary
 - job application
 ___
 # Ústní maturita z češtiny
-## Charakteristika uměleckého textu
 - [[Škola/Čeština/Literární druhy, žánry a směry\|Literární druhy, žánry a směry]]
-## Charakteristika neuměleckého textu
-- [[Funkční styly\|Funkční styly]]
-- 
+- [[Škola/SPOSDK/Funkční styly\|Funkční styly]]
+- [[Škola/Čeština/Přechodníky\|Přechodníky]]
+- [[Škola/Čeština/Dokonová a nedokonavá slovesa\|Dokonová a nedokonavá slovesa]]
+- [[Škola/Čeština/Jazykové prostředky\|Jazykové prostředky]]
  
 ___
 # Seznam četby
