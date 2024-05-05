@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/L2 switch/","created":"2023-12-14T19:19:36.463+01:00","updated":"2024-03-13T18:18:29.776+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/L2 switch/","tags":["Hardware","IT"],"created":"2023-12-14T19:19:36.463+01:00","updated":"2024-05-05T13:42:27.125+02:00"}
 ---
-
-#Hardware
 
 - Druhá vrstva ISO/OSI
 - Propojuje zařízení v síti
