@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Repeater/","created":"2024-02-22T19:37:29.460+01:00","updated":"2024-03-13T18:08:55.600+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Hardware/Repeater/","tags":["Hardware","IT"],"created":"2024-02-22T19:37:29.460+01:00","updated":"2024-05-05T13:41:48.171+02:00"}
 ---
 
 - První vrstva ISO/OSI
