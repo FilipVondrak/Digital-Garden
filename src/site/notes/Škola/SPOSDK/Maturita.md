@@ -26,9 +26,9 @@
 15. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení\|Periferní zařízení]]
 16. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Základy počítačových sítí\|Základy počítačových sítí]]
 17. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost v sítích\|Bezpečnost v sítích]]
-18. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
+18. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
 19. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
-20. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
+20. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
 
 </div></div>
 
@@ -117,7 +117,7 @@ Nejčastější slohové útvary
 ___
 # Ústní maturita z češtiny
 - [[Škola/Čeština/Literární druhy, žánry a směry\|Literární druhy, žánry a směry]]
-- [[Škola/SPOSDK/Funkční styly\|Funkční styly]]
+- [[Škola/Čeština/Funkční styly\|Funkční styly]]
 - [[Škola/Čeština/Přechodníky\|Přechodníky]]
 - [[Škola/Čeština/Dokonová a nedokonavá slovesa\|Dokonová a nedokonavá slovesa]]
 - [[Škola/Čeština/Jazykové prostředky\|Jazykové prostředky]]
