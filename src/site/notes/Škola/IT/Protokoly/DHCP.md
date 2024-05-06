@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/DHCP/","created":"2024-03-14T18:45:24.167+01:00","updated":"2024-03-14T18:51:16.128+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/DHCP/","tags":["IT","Software","Protokol"],"created":"2024-03-14T18:45:24.167+01:00","updated":"2024-05-06T12:24:52.738+02:00"}
 ---
 
-#IT #Software #Protokol
--> Dynamic Host Configuration Protocol
+-> **Dynamic Host Configuration Protocol**
 ## Využití
 - dynamická konfigurace síťového rozhraní
 ## Výhody oproti statickým IP adresám
