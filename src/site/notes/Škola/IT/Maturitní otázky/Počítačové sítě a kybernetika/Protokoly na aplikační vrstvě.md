@@ -87,6 +87,7 @@
 - stará se o interakce zařízení
 - adresuje rámce
 - ovládá přístup k fyzickým médiím
+- MAC adresa je vypálena do čipu
 ## Hlavní funkce
 ### Vytváření rámců
 #### Na straně odesílatele
@@ -247,6 +248,7 @@
 
 ![Pasted image 20240505153558.png](/img/user/Images/Pasted%20image%2020240505153558.png)
 ![OSI_Model_v1.svg.png](/img/user/Images/OSI_Model_v1.svg.png)
+![Pasted image 20240506121500.png](/img/user/Images/Pasted%20image%2020240506121500.png)
 
 </div></div>
 
@@ -526,8 +528,7 @@
 
 
 
-#IT #Software #Protokol
--> Dynamic Host Configuration Protocol
+-> **Dynamic Host Configuration Protocol**
 ## Využití
 - dynamická konfigurace síťového rozhraní
 ## Výhody oproti statickým IP adresám
