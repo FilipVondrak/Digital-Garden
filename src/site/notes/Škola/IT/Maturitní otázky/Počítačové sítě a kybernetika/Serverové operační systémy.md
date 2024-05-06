@@ -120,8 +120,7 @@ ___
 
 
 
-#IT #Software #Protokol
--> Dynamic Host Configuration Protocol
+-> **Dynamic Host Configuration Protocol**
 ## Využití
 - dynamická konfigurace síťového rozhraní
 ## Výhody oproti statickým IP adresám
