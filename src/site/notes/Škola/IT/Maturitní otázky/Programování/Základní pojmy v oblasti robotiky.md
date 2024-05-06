@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","created":"2023-12-19T09:11:22.155+01:00","updated":"2024-03-31T16:23:27.265+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","tags":["IT","Robotika","Maturitní_otázka","Programování"],"created":"2023-12-19T09:11:22.155+01:00","updated":"2024-05-06T09:23:05.052+02:00"}
 ---
-
-#Maturitní_otázka #IT #Programování 
 
 > [!info] Robotika
 > Věda zabývající se návrhem, konstrukcí, provozem a aplikací robotů.
@@ -16,7 +14,40 @@
 	- **Strojírenství:** obrábění, lisování, manipulace s materiálem
 	- **Potravinářský průmysl:** balení, paletizace, kontrola kvality
 	- **Chemický průmysl:** manipulace s nebezpečnými látkami, míchání, plnění
-
+# Základy robotiky
+- Nesmí se dopustit ublížení člověku
+- Musí prvně ochránit člověka, pak až sebe
+# Průmysl
+## Průmysl 1.0
+- zavádění manufaktury
+- ruční výroba
+- parní stroje - účinnost okolo 10-15 procent
+- v období Marie Terezie
+- v 18. století byl parní stroj vymyšlen Jamesem Wattem a v 19. století se začínají používat parní stroje k průmyslu
+## Průmysl 2.0
+- Henry Ford zavádí pásovou výrobu
+- Elektrifikace 
+## Průmysl 3.0
+- Informační technologie použity v průmyslu
+- elektronika 
+- v 70. letech 20. století
+## Průmysl 4.0
+- od roku 2011
+- Inteligentní propojení do sítě
+- nahrazení části pracovníku roboty
+- roboti spolu dokáží komunikovat
+## Průmysl 5.0 
+- využití umělé inteligence
+- návrat k lidem, spolupráce robota a člověka
+- robot umí interagovat s člověkem
+# Druhy robotů
+- Cobot 
+	- kolaborativní robot
+- Armádní roboti
+	- dron
+- Roboti pro domácí využití
+	- robotický vysavač, ..
+- 
 # Automatizace
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/automatizace/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,7 +55,7 @@
 
 
 
-#IT #Robotika #Maturitní_otázka 
+
 
 > [!tldr]
 Cílem automatizace je zvýšení efektivity a produktivity, snížení nákladů a zlepšení kvality produktů a služeb s použitím robotů nebo automatizovaného softwaru
