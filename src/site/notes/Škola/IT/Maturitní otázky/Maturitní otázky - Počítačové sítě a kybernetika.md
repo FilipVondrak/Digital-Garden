@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-05-04T18:29:45.561+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Počítačové sítě a kybernetika/","created":"2023-12-14T18:33:27.929+01:00","updated":"2024-05-06T21:01:31.885+02:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti\|Úvod do kybernetické bezpečnosti]]
@@ -19,6 +19,6 @@
 15. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení\|Periferní zařízení]]
 16. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Základy počítačových sítí\|Základy počítačových sítí]]
 17. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost v sítích\|Bezpečnost v sítích]]
-18. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
+18. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
 19. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
-20. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
+20. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
