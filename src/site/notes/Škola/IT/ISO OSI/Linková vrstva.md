@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/Linková vrstva/","created":"2024-02-22T18:02:23.970+01:00","updated":"2024-05-05T19:41:10.372+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/Linková vrstva/","created":"2024-02-22T18:02:23.970+01:00","updated":"2024-05-06T12:17:45.535+02:00"}
 ---
 
 -> **Data Link Layer** (DLL)
@@ -24,6 +24,7 @@
 - stará se o interakce zařízení
 - adresuje rámce
 - ovládá přístup k fyzickým médiím
+- MAC adresa je vypálena do čipu
 ## Hlavní funkce
 ### Vytváření rámců
 #### Na straně odesílatele
