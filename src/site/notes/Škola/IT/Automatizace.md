@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Automatizace/","created":"2024-02-21T17:32:40.038+01:00","updated":"2024-03-13T18:21:29.221+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Automatizace/","tags":["IT","Robotika","Maturitní_otázka"],"created":"2024-02-21T17:32:40.038+01:00","updated":"2024-05-06T08:42:40.957+02:00"}
 ---
 
-#IT #Robotika #Maturitní_otázka 
+
 
 > [!tldr]
 Cílem automatizace je zvýšení efektivity a produktivity, snížení nákladů a zlepšení kvality produktů a služeb s použitím robotů nebo automatizovaného softwaru
