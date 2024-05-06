@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","created":"2023-12-19T09:11:24.192+01:00","updated":"2024-03-18T21:32:35.853+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","tags":["IOT","Maturitní_otázka","SPOSDK","Software"],"created":"2023-12-19T09:11:24.192+01:00","updated":"2024-05-06T09:44:12.413+02:00"}
 ---
 
-#IOT #Maturitní_otázka #SPOSDK #Software 
 ## Definice
 -> **Internet of things** (internet věcí)
 - síť ==chytrých fyzických zařízení==
+- vzdálený přístup
 - zařízení spolu mohou spolupracovat
 - zařízení mají integrované **senzory** (např. na zvuk, jas, atd.), software a konektivitu
+- potřebuje přístup k síti
 - sběr a výměna dat mezi zařízeními
-
 ___
 ## Příklady
 - Chytrá žárovka připojená k [[Wi-Fi\|Wi-Fi]], kterou lze ovládat dálkově mobilem/hlasem
@@ -64,11 +64,18 @@ ___
 - slot na paměťovou kartu 
 
 ___
-## IoT města
+## Chytré města
 - soběstačná města
 - metropolitní síť, řídí např. tepelné ztráty
 - kamerový systém
+## Chytrá domácnost
+## Chytrý dům
+## Chytrá ulice
 
+___
+## Ovládání IoT
+### Aplikace na webu
+### Aplikace v telefonu
 ___
 ## Programování IoT
 - liší se od klasického programování v několika způsobech:
@@ -94,6 +101,7 @@ ___
 - je [[Open-Source\|Open-Source]]
 - platforma pro prototypování
 - programuje se v upravené verzi [[Škola/IT/Programování/Programovací jazyky/C\|C]]/[[Škola/IT/Programování/Programovací jazyky/C++\|C++]]
+### ESP
 ### Ostatní jazyky k programování IoT
 - [[Škola/IT/Programování/Programovací jazyky/Java\|Java]]
 	- Je robustní jazyk pro programování komplexních IoT systémů.
@@ -107,9 +115,12 @@ ___
 ## Zabezpečení
 - je v IoT kritickým aspektem vzhledem k širokému rozšíření chytrých objektů a citlivým datům
 - IoT je nutno zabezpečit kvůli přístupu ke kamerám, senzorům, datům o lidech, atd.
+- Zařízení bez operačního systému je bezpečnější, jelikož nemusíme řešit zabezpečení [[Škola/IT/Operační systém\|operačního systému]] 
 ### DMZ
 ![[DMZ\|DMZ]]
-
+### Použití VLAN
+- oddělení síte pro IOT a lokální sítě
+![[VLAN\|VLAN]]
 ___
 ## Periferie
 ### Vstupní
