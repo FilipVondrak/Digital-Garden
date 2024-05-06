@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2023-12-14T19:07:35.550+01:00","updated":"2024-05-05T20:40:51.259+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2023-12-14T19:07:35.550+01:00","updated":"2024-05-06T12:15:02.512+02:00"}
 ---
 
 # 1. **Fyzická** vrstva
@@ -80,6 +80,7 @@
 - stará se o interakce zařízení
 - adresuje rámce
 - ovládá přístup k fyzickým médiím
+- MAC adresa je vypálena do čipu
 ## Hlavní funkce
 ### Vytváření rámců
 #### Na straně odesílatele
@@ -240,3 +241,4 @@
 
 ![Pasted image 20240505153558.png](/img/user/Images/Pasted%20image%2020240505153558.png)
 ![OSI_Model_v1.svg.png](/img/user/Images/OSI_Model_v1.svg.png)
+![Pasted image 20240506121500.png](/img/user/Images/Pasted%20image%2020240506121500.png)
