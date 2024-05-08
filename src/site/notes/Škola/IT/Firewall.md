@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Firewall/","created":"2024-03-15T00:03:57.324+01:00","updated":"2024-03-15T14:45:35.768+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Firewall/","tags":["IT","Software","Hardware"],"created":"2024-03-15T00:03:57.324+01:00","updated":"2024-05-08T16:05:25.217+02:00"}
 ---
 
-#IT #Software #Hardware 
 
 > [!TIP]
 > Zjednodušeně si funkci můžeme představit jako **stráže vstupu do pevnosti**, které podle příkazů rozhodují o tom, **koho pustí dovnitř a ven**
