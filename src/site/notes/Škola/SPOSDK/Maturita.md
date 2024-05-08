@@ -24,7 +24,7 @@
 13. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware počítačových sítí\|Hardware počítačových sítí]]
 14. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware\|Hardware]]
 15. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Periferní zařízení\|Periferní zařízení]]
-16. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Základy počítačových sítí\|Základy počítačových sítí]]
+16. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Základy počítačových sítí\|Základy počítačových sítí]]
 17. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost v sítích\|Bezpečnost v sítích]]
 18. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
 19. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
