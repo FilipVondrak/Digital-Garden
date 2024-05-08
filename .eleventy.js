@@ -8,7 +8,6 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
   userMarkdownSetup,
@@ -491,7 +490,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
-      process.env.NODE_ENV === "production" &&
+      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
       outputPath &&
       outputPath.endsWith(".html")
     ) {
@@ -499,6 +498,8 @@ module.exports = function (eleventyConfig) {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
+        conservativeCollapse: true,
+        preserveLineBreaks: true,
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
@@ -518,9 +519,13 @@ module.exports = function (eleventyConfig) {
 
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
-    if (!date) return "";
-    return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    try {
+      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    } catch {
+      return "";
+    }
   });
+  
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
   });
