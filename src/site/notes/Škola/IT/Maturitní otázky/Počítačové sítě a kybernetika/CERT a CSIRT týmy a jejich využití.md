@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","created":"2023-12-14T18:24:42.842+01:00","updated":"2024-03-13T18:12:03.924+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","created":"2023-12-14T18:24:42.842+01:00","updated":"2024-05-07T14:31:09.737+02:00"}
 ---
 
 #IT #SPOSDK 
@@ -92,8 +92,8 @@
 ### ENISA
 - Agentura EU pro zlepšování informační bezpečnosti v EU
 - Sdružuje evropské CERT/CSIRT týmy
-- Vydává doporučení a materiály pro zvyšování kyberbezpečnosti
-
+- Vydává doporučení a materiály pro zvyšování bezpečnosti
+### CZ.NIC
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/cz-nic/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
