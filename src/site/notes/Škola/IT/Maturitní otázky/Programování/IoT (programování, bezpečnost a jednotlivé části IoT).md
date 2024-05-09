@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","tags":["IOT","Maturitní_otázka","SPOSDK","Software"],"created":"2023-12-19T09:11:24.192+01:00","updated":"2024-05-06T09:44:12.413+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)/","tags":["IOT","Maturitní_otázka","SPOSDK","Software"],"created":"2023-12-19T09:11:24.192+01:00","updated":"2024-05-08T17:27:39.794+02:00"}
 ---
 
 ## Definice
@@ -68,9 +68,18 @@ ___
 - soběstačná města
 - metropolitní síť, řídí např. tepelné ztráty
 - kamerový systém
+- využívají informační a komunikační technologie ke zlepšení kvality života obyvatel a efektivity provozu města
 ## Chytrá domácnost
+- Propojené systémy a zařízení v domě, které lze ovládat a monitorovat na dálku
+- Může zahrnovat osvětlení, termostaty, spotřebiče, zabezpečovací systémy a další
 ## Chytrý dům
+- Specifický typ chytré domácnosti, která je navržena a vybavena chytrými technologiemi od samého začátku
+- Může zahrnovat integrované systémy pro osvětlení, topení, chlazení, zabezpečení, zábavu a další
+- Chytré domy jsou obvykle energeticky účinnější a pohodlnější než běžné domy
+- pořizovací cena chytrého domu je většinou dražší
 ## Chytrá ulice
+- Využívá senzory, datové analýzy a řídicí systémy pro optimalizaci dopravy, parkování, osvětlení a dalších oblastí
+- Chytré ulice mohou zahrnovat inteligentní semafory, senzory pro detekci parkovacích míst, LED osvětlení reagující na pohyb a další technologie
 
 ___
 ## Ovládání IoT
