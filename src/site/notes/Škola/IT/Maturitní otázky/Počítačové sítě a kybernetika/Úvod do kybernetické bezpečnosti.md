@@ -18,11 +18,21 @@
 
 - něco, co je pro mě důležité, snažíme se je chránit
 - Majetek, důležité pro určitý objekt
-- **primární** - linka, nemocnice-důvěra, vědomosti
-- **podpůrná** - lidi, škola-žáci, informace
-- **technická** - síť, server, PC
-
-….hmotný, nehmotný (plány, reputace, vědomosti)
+## Typy aktiv
+### Primární 
+- linka, nemocnice-důvěra, vědomosti
+- aktiva, která mají pro provoz organizace zásadní hodnotu
+### Podpůrná
+- lidi, škola-žáci, informace
+- aktiva, která zajišťují správné fungování primárních aktiv
+### Technická
+- síť, server, PC
+## Dělení aktiv
+### Hmotné
+- stroje, suroviny, fyzické sítě
+- technické vybavení, prostředky, systému ve kterých jsou umístěny informační systémy primárních a podpůrných aktiv
+### Nehmotné
+- znalosti, služby, [[Škola/IT/Data\|Data]] a [[Škola/IT/Informace\|Informace]]
 
 </div></div>
 
@@ -144,7 +154,8 @@
 
 # Informace
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/informace/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
