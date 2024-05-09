@@ -86,7 +86,7 @@ Dělení:
 - **PROM** - programovatelná, ale pouze 1x
 - **EPROM** - E jako erasable, dá se naprogramovat a poté smazat pomocí UV světla
 - **EEPROM** - stejná jako EPROM, ale dá se mazat pomocí elektrického napětí
-- **CMOS** - zapisuje se elektricky, je na ní uložený [[Škola/IT/Hardware/BIOS\|BIOS]], část paměti je readonly a další se zapisují hodnoty
+- **CMOS** - zapisuje se elektricky, je na ní uložený [[Škola/IT/BIOS\|BIOS]], část paměti je readonly a další se zapisují hodnoty
 - **FLASH** - novější verze CMOSu
 
 </div></div>
