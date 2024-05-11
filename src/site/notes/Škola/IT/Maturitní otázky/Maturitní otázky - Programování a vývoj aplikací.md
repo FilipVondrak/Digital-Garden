@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-11T21:10:35.595+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-11T22:52:22.665+02:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
@@ -9,7 +9,7 @@
 5. [/] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
 6. [ ] [[Škola/IT/Maturitní otázky/Programování/Úvod do programování robotů\|Úvod do programování robotů]]
 7. [/] [[Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota\|Softwarová a hardwarová výbava robota]]
-8. [/] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
+8. [x] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
 9. [/] [[Škola/IT/Maturitní otázky/Programování/SQL databáze\|SQL databáze]]
 10. [ ] [[Škola/IT/Maturitní otázky/Programování/Základy algoritmizace\|Základy algoritmizace]]
 11. [x] [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]]
