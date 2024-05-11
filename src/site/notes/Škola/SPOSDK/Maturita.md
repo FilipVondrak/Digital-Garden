@@ -51,9 +51,9 @@ ___
 9. [/] [[Škola/IT/Maturitní otázky/Programování/SQL databáze\|SQL databáze]]
 10. [ ] [[Škola/IT/Maturitní otázky/Programování/Základy algoritmizace\|Základy algoritmizace]]
 11. [x] [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]]
-12. [/] [[Škola/IT/Maturitní otázky/Programování/Principy OOP\|Principy OOP]]
+12. [x] [[Škola/IT/Maturitní otázky/Programování/Principy OOP\|Principy OOP]]
 13. [x] [[Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd\|Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd]]
-14. [/] [[Škola/IT/Maturitní otázky/Programování/Konstruktory\|Konstruktory]]
+14. [x] [[Škola/IT/Maturitní otázky/Programování/Konstruktory\|Konstruktory]]
 15. [x] [[Škola/IT/Maturitní otázky/Programování/Metody tříd\|Metody tříd]]
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [x]  [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]] (stejné jako otázka 11)
