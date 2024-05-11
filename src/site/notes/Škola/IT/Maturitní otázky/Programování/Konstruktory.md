@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Konstruktory/","created":"2023-12-19T09:12:11.009+01:00","updated":"2024-03-24T22:19:19.811+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Konstruktory/","tags":["Maturitní_otázka","IT","Programování","SPOSDK","C-Sharp"],"created":"2023-12-19T09:12:11.009+01:00","updated":"2024-05-11T19:42:57.831+02:00"}
 ---
 
-#Maturitní_otázka #IT #Programování 
 # Třídy 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/trida-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -18,7 +18,8 @@
 
 # Konstruktor
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/konstruktor-tridy-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -31,14 +32,17 @@
 # Bezparametrický konstruktor
 - je defaultní po vytvoření třídy
 - nebere žádné parametry, jen spustí kód v něm
+> [!Showcase] Ukázka kódu - podpis bezparametrického konstruktoru
+> ```Csharp
+> public Form1( )
+> ```
 # Konstruktor s parametrem
 - bere jakékoliv množství parametrů
 - parametry jsou napsány v závorce za jménem funkce
 - je nutné napsat typ proměnné (např. string nebo int)
-
-> [!Showcase] Ukázka kódu - podpis bezparametrického konstruktoru
+> [!Showcase] Ukázka kódu - podpis konstruktoru s parametrem
 > ```Csharp
-> public Form1( )
+> public Form1(string text, int číslo)
 > ```
 # Přetížení konstruktoru
 - vytvoření více konstruktorů s jinými parametry
