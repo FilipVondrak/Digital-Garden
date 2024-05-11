@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Databáze/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:11:50.151+01:00","updated":"2024-05-09T17:40:06.647+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Databáze/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:11:50.151+01:00","updated":"2024-05-11T22:52:06.245+02:00"}
 ---
 
 # Základní pojmy
@@ -148,6 +148,41 @@ student_classes: class_id, student_id     # propojovací tabulka
 </div></div>
 
 ### NoSQL databáze (Nerelační)
+- netabulkové databáze
+![Pasted image 20240511225002.png](/img/user/Images/Pasted%20image%2020240511225002.png)
+#### Key-value databáze
+- nejlehčí forma NoSQL databáze
+- každá položka má svůj klíč, například ID, a svoji hodnotu
+- hodnota může být pole dat
+- mohl by to být například nákupní košík, kde každá položka v košíku bude zapsány v poli dat 
+- **přirovnání:** v C# by to mohl být Dictionary<TKey, TValue>
+- **Databázové stroje používající tento princip:** Redis, Memcached
+#### Dokumentová databáze
+- ukládá data do dokumentů
+- může být užitečné při práci s polo-strukturovanými daty
+- typicky ukládáno v **JSON** nebo **XML** dokumentech
+- **Databázové stroje používající tento princip:** MongoDB
+#### Vektorová databáze
+- ideální pro vyhledávání podle podobnosti
+- efektivní s více dimenzionálními daty
+- zvládají velké data-sety
+- data jsou ukládány jako matematické reprezentace
+- používají se pro umělou inteligenci
+![Pasted image 20240511225205.png](/img/user/Images/Pasted%20image%2020240511225205.png)
 ## K čemu slouží databáze
+- Ukládání a správa strukturovaných dat
+- Efektivní přístup k datům pro různé aplikace
+- Zachování integrity a konzistence dat
+- Zajištění dostupnosti dat
+- Sdílení dat mezi uživateli a systémy
 ## Umístění databází
+- **Lokální** 
+	- Databáze je umístěna na stejném serveru jako aplikace
+	- může nabízet lepší výkon
+- **Vzdálená** 
+	- Databáze je umístěna na jiném serveru než aplikace
+	- často hostována na cloudu
 # Normalizace
+- Proces uspořádání dat v databázi tak, aby se minimalizovala redundance a zlepšila se integrita dat
+- **Eliminace redundance** -> Ukládání dat pouze jednou v databázi
+- Prevence nesprávných nebo nesmyslných dat
