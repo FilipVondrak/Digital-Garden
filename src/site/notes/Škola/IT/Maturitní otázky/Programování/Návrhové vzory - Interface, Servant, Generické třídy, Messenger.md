@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","created":"2024-03-29T15:59:06.649+01:00","updated":"2024-03-29T16:01:30.768+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","tags":["IT","Maturitní_otázka","Programování","SPOSDK"],"created":"2024-03-29T15:59:06.649+01:00","updated":"2024-05-11T21:13:07.865+02:00"}
 ---
 
-#IT #Maturitní_otázka #Programování #SPOSDK 
 # K čemu slouží návrhové vzory
 - jsou souborem nástrojů pro ==řešení běžných problémů== při návrhu softwaru
 - slouží jako společný jazyk pro ==ulehčení práce== vývojářů, aby nemuseli dokola vymýšlet stejná řešení
