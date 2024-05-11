@@ -5,7 +5,8 @@
 #Maturitní_otázka #IT #Programování 
 # Třída
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/trida-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -18,7 +19,8 @@
 
 # Konstruktor
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/konstruktor-tridy-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -31,14 +33,17 @@
 # Bezparametrický konstruktor
 - je defaultní po vytvoření třídy
 - nebere žádné parametry, jen spustí kód v něm
+> [!Showcase] Ukázka kódu - podpis bezparametrického konstruktoru
+> ```Csharp
+> public Form1( )
+> ```
 # Konstruktor s parametrem
 - bere jakékoliv množství parametrů
 - parametry jsou napsány v závorce za jménem funkce
 - je nutné napsat typ proměnné (např. string nebo int)
-
-> [!Showcase] Ukázka kódu - podpis bezparametrického konstruktoru
+> [!Showcase] Ukázka kódu - podpis konstruktoru s parametrem
 > ```Csharp
-> public Form1( )
+> public Form1(string text, int číslo)
 > ```
 # Přetížení konstruktoru
 - vytvoření více konstruktorů s jinými parametry
@@ -90,11 +95,10 @@
 
 # Metody
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/metody-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-#IT #Programování #SPOSDK #Maturitní_otázka
 
 - podprogram, který pracuje s daty/atributy
 - je blok kódu, který je samostatně spustitelný a plní specifickou úlohu
@@ -133,17 +137,36 @@ ___
 - vždy musíme vytvořit instanci
 - Nestatické členy (metody a atributy) **jsou** vázány na konkrétní instanci třídy
 - Pro přístup k nim je nutné nejprve vytvořit instanci třídy
+___
+# Modifikátory přístupu
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/modifikatory-pristupu-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Private
+- Modifikátor `private` určuje, že člen (atribut nebo metoda) je přístupný **pouze** v rámci třídy, ve které je definován.
+## Public
+- Modifikátor `public` určuje, že člen je ==přístupný z libovolného kódu==, který má přístup k instanci třídy.
+## Protected
+- Modifikátor `protected` určuje, že člen je přístupný pouze v rámci třídy ==a z tříd odvozených/zděděných==
+## Internal
+- Modifikátor `internal` určuje, že člen je přístupný ze stejné assembly
+
+</div></div>
+
 
 </div></div>
 
 ___
 # Modifikátory přístupu
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/modifikatory-pristupu-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-#IT #Programování #C-Sharp
+
 ## Private
 - Modifikátor `private` určuje, že člen (atribut nebo metoda) je přístupný **pouze** v rámci třídy, ve které je definován.
 ## Public
