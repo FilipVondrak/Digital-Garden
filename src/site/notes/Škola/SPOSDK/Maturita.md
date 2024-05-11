@@ -47,7 +47,7 @@ ___
 5. [/] [[Škola/IT/Maturitní otázky/Programování/IoT (programování, bezpečnost a jednotlivé části IoT)\|IoT (programování, bezpečnost a jednotlivé části IoT)]]
 6. [ ] [[Škola/IT/Maturitní otázky/Programování/Úvod do programování robotů\|Úvod do programování robotů]]
 7. [/] [[Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota\|Softwarová a hardwarová výbava robota]]
-8. [/] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
+8. [x] [[Škola/IT/Maturitní otázky/Programování/Databáze\|Databáze]]
 9. [/] [[Škola/IT/Maturitní otázky/Programování/SQL databáze\|SQL databáze]]
 10. [ ] [[Škola/IT/Maturitní otázky/Programování/Základy algoritmizace\|Základy algoritmizace]]
 11. [x] [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]]
