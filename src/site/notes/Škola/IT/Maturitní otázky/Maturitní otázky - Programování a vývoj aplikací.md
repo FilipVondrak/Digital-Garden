@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-11T19:42:37.424+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-11T21:10:35.595+02:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
@@ -13,9 +13,9 @@
 9. [/] [[Škola/IT/Maturitní otázky/Programování/SQL databáze\|SQL databáze]]
 10. [ ] [[Škola/IT/Maturitní otázky/Programování/Základy algoritmizace\|Základy algoritmizace]]
 11. [x] [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]]
-12. [/] [[Škola/IT/Maturitní otázky/Programování/Principy OOP\|Principy OOP]]
+12. [x] [[Škola/IT/Maturitní otázky/Programování/Principy OOP\|Principy OOP]]
 13. [x] [[Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd\|Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd]]
-14. [/] [[Škola/IT/Maturitní otázky/Programování/Konstruktory\|Konstruktory]]
+14. [x] [[Škola/IT/Maturitní otázky/Programování/Konstruktory\|Konstruktory]]
 15. [x] [[Škola/IT/Maturitní otázky/Programování/Metody tříd\|Metody tříd]]
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [x]  [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]] (stejné jako otázka 11)
