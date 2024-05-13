@@ -12,8 +12,8 @@
 - sběr a výměna dat mezi zařízeními
 ___
 ## Příklady
-- Chytrá žárovka připojená k [[Wi-Fi\|Wi-Fi]], kterou lze ovládat dálkově mobilem/hlasem
-- Chytré kamery připojené k [[Wi-Fi\|Wi-Fi]], ke kterým se dá vzdáleně připojit
+- Chytrá žárovka připojená k [[Škola/IT/Bezdrátové sítě/Wi-Fi\|Wi-Fi]], kterou lze ovládat dálkově mobilem/hlasem
+- Chytré kamery připojené k [[Škola/IT/Bezdrátové sítě/Wi-Fi\|Wi-Fi]], ke kterým se dá vzdáleně připojit
 
 ___
 ## IoT zařízení
@@ -56,8 +56,8 @@ ___
 </div></div>
 
 ### Konektivita 
-- [[Bluetooth\|Bluetooth]] 
-- [[Wi-Fi\|Wi-Fi]]
+- [[Škola/IT/Bezdrátové sítě/Bluetooth\|Bluetooth]] 
+- [[Škola/IT/Bezdrátové sítě/Wi-Fi\|Wi-Fi]]
 - [[Ethernet\|Ethernet]]
 - [[Škola/IT/Konektory/HDMI\|HDMI]]
 ### Úložiště 
@@ -95,8 +95,8 @@ ___
 		- Zabezpečení dat a ochrana proti kybernetickým útokům je v IoT klíčová
 	- **Konektivita**
 		- Programování musí zohledňovat různé typy konektivity
-			- [[Bluetooth\|Bluetooth]]
-			- [[Wi-Fi\|Wi-Fi]]
+			- [[Škola/IT/Bezdrátové sítě/Bluetooth\|Bluetooth]]
+			- [[Škola/IT/Bezdrátové sítě/Wi-Fi\|Wi-Fi]]
 			- mobilní sítě
 
 ## Programovací jazyky IoT
