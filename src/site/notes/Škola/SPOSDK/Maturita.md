@@ -27,7 +27,7 @@
 16. [/] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Základy počítačových sítí\|Základy počítačových sítí]]
 17. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezpečnost v sítích\|Bezpečnost v sítích]]
 18. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/IP adresace\|IP adresace]]
-19. [ ] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
+19. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Bezdrátové sítě a jejich bezpečnost\|Bezdrátové sítě a jejich bezpečnost]]
 20. [x] [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Protokoly na aplikační vrstvě\|Protokoly na aplikační vrstvě]]
 
 </div></div>
