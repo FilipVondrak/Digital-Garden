@@ -220,7 +220,7 @@
 >      this.hoursWorked = hoursWorked;
 >      this.payPerHour = payPerHour;
 >   }
-  > 
+ > 
 >   @Override
 >   public double earnings() {
 >      return hoursWorked*payPerHour;
