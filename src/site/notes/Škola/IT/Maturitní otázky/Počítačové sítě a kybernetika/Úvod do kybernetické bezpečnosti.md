@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-05-14T17:29:42.454+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-05-14T20:09:05.283+02:00"}
 ---
 
 #IT #Maturitní_otázka 
@@ -42,6 +42,7 @@
 - zhodnocení něčeho
 ### Zpětná vazba 
 - změna, v reakci na feedback (př. Uživatel mojí aplikace dá feedback o tom že nefunguje nějaká funkce, já jí spravím - zpětná vazba)
+- výstup nějakého systému ovlivňuje zpětně jeho vstup
 ### Riziko
 - možnost, že hrozba využije zranitelnosti (může, ale nemusí)
 ### Bezpečnostní událost 
@@ -129,26 +130,35 @@
 - Úmyslné jednání útočníka v [kyberprostoru](Kyberprostor.md)
 - Hlavní motivací je většinou zisk (informací, prostředků, dat)
 - Jednotlivec nebo skupina
-- **Dělí se na:**
-    - **Pasivní**
-        - Skenování portů, keylogger
-    - **Aktivní**
-        - DDoS, Man in the middle
-        - Útok na síť a zisk citlivých informací
-    - **Vnitřní**
-        - Zaměstnanci/uživatelé systému napadnou systém
-            - Nevědomě nebo omylem
-            - Vědomě kvůli pomstě, špionáži
-    - **Vnější**
-        - Útok z vnějšku sítě
-    - **Fyzický**
-        - Vloupání do budovy a krádež dokumentů, HW
-    - **Síťový**
-        - Napadení sítě a krádež či zneužití aktiv
+## Dělení
+### Podle aktivity
+#### Pasivní
+- Skenování portů, keylogger
+#### Aktivní    
+- DDoS, Man in the middle
+- Útok na síť a zisk citlivých informací
+### Zdroje útoku
+#### Vnitřní
+- Zaměstnanci/uživatelé systému napadnou systém
+    - Nevědomě nebo omylem
+    - Vědomě kvůli pomstě, špionáži
+- vynášení dat
+#### Vnější
+- Útok z vnějšku sítě
+
+### Typu útoku
+#### Fyzický
+- Vloupání do budovy a krádež dokumentů nebo/a HW
+- fyzické poškození
+#### Síťový
+- Napadení sítě a krádež či zneužití aktiv
 
 ## Typy útoků
 ### Zero day attack
 ### DDOS
+- nepoškození Aktiva
+- server nereaguje na požadavky uživatele
+### SQL Injection
 
 
 </div></div>
