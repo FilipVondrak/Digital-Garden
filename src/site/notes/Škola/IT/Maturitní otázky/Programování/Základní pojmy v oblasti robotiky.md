@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","tags":["IT","Robotika","Maturitní_otázka","Programování"],"created":"2023-12-19T09:11:22.155+01:00","updated":"2024-05-06T09:23:05.052+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Základní pojmy v oblasti robotiky/","tags":["IT","Robotika","Maturitní_otázka","Programování"],"created":"2023-12-19T09:11:22.155+01:00","updated":"2024-05-14T20:12:49.975+02:00"}
 ---
 
 > [!info] Robotika
 > Věda zabývající se návrhem, konstrukcí, provozem a aplikací robotů.
-
+# Robot
+> [!tip] Slovo Robot
+> Slovo robot vzniklo v Česku jako
+- stroj naprogramován k určité činnosti
 - Roboti jsou stroje, které jsou schopny autonomně nebo s částečnou autonomií provádět úkoly.
 - Reaguje na své okolí pomocí motorů, senzorů a čidel.
 - **Průmyslový robot** je mechanický manipulátor s programovatelným řízením, který je schopen ==opakovaně provádět zadané úkoly s vysokou přesností a spolehlivostí==.
@@ -14,17 +17,34 @@
 	- **Strojírenství:** obrábění, lisování, manipulace s materiálem
 	- **Potravinářský průmysl:** balení, paletizace, kontrola kvality
 	- **Chemický průmysl:** manipulace s nebezpečnými látkami, míchání, plnění
+# Zpětná vazba
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/maturitni-otazky/pocitacove-site-a-kybernetika/uvod-do-kyberneticke-bezpecnosti/#zpetna-vazba" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Zpětná vazba 
+- změna, v reakci na feedback (př. Uživatel mojí aplikace dá feedback o tom že nefunguje nějaká funkce, já jí spravím - zpětná vazba)
+- výstup nějakého systému ovlivňuje zpětně jeho vstup
+
+</div></div>
+
+- snímače a senzory ovlivňují vstup
 # Základy robotiky
-- Nesmí se dopustit ublížení člověku
-- Musí prvně ochránit člověka, pak až sebe
+- základy robotiky od Isaaca Asimova
+1. Nesmí se dopustit ublížení člověku nebo svojí činností dopustit aby bylo člověku ublíženo
+2. musí uposlechnout člověka, krom případů kdy příkaz odporuje prvnímu zákonu
+3. Musí prvně ochránit člověka, pak až sebe
 # Průmysl
-## Průmysl 1.0
+## Průmysl 0
+- v období Marie Terezie
 - zavádění manufaktury
 - ruční výroba
+## Průmysl 1.0
 - parní stroje - účinnost okolo 10-15 procent
-- v období Marie Terezie
-- v 18. století byl parní stroj vymyšlen Jamesem Wattem a v 19. století se začínají používat parní stroje k průmyslu
+- v 18. století byl parní stroj vymyšlen Jamesem Wattem a na začátku 19. století se začínají používat parní stroje k průmyslu
 ## Průmysl 2.0
+- konec 19. století
 - Henry Ford zavádí pásovou výrobu
 - Elektrifikace 
 ## Průmysl 3.0
