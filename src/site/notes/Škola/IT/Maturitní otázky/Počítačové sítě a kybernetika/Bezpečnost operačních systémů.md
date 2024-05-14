@@ -146,6 +146,9 @@ ___
 - dokáže zaznamenat všechny znaky, které napíšete na klávesnici
 - zloději mohou procházet veškeré informace, které jste na ==svém počítači napsali, včetně hesel, čísel platebních karet, adres, osobních a emailových zpráv== i zadaných webových stránek
 - keylogger je typ spywaru
+### Backdoor
+- umožňuje útočníkovi připojit se bez autorizace a vědomosti majitele
+- obchází normální zabezpečení, což umožňuje útočníkovi nebýt detekován
 ___
 ## Známky nakažení malwarem
 - zpomalený počítač
@@ -351,6 +354,12 @@ ___
 
 
 
+-> *Security Information and Event Management*
+- kombinuje security information management (*SIM*) a security event management (*SEM*) do jednoho
+- analyzuje s zpracovává logy z infrastruktury firmy
+- používá analytika, strojové učení a algoritmus na rozpoznávání podle pravidel k identifikaci [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti#Kybernetická hrozba\|hrozeb]]
+- poskytuje real-time upozornění
+- hlavní účel je centralizované a detailní zabezpečení
 - Je profesionální
 - Drahý
 - má automatizované metody
