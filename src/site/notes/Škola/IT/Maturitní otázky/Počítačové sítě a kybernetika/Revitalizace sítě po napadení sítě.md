@@ -22,8 +22,6 @@
 
 
 
-#IT #Software #Malware
-
 - Úmyslné jednání útočníka v [kyberprostoru](Kyberprostor.md)
 - Hlavní motivací je většinou zisk (informací, prostředků, dat)
 - Jednotlivec nebo skupina
