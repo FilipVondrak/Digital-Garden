@@ -226,7 +226,7 @@ ___
 </div>
 
 
--> **Search engine optimalisation**
+-> *Search engine optimalisation*
 - **Klíčová slova** - určuje obsah webu podle keywords a description, nadpisů
 - **Description** - popis obsahu webu
 - **Nadpisy** - google skenuje h1, h2, ...
