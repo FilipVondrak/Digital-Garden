@@ -25,26 +25,35 @@
 - Úmyslné jednání útočníka v [kyberprostoru](Kyberprostor.md)
 - Hlavní motivací je většinou zisk (informací, prostředků, dat)
 - Jednotlivec nebo skupina
-- **Dělí se na:**
-    - **Pasivní**
-        - Skenování portů, keylogger
-    - **Aktivní**
-        - DDoS, Man in the middle
-        - Útok na síť a zisk citlivých informací
-    - **Vnitřní**
-        - Zaměstnanci/uživatelé systému napadnou systém
-            - Nevědomě nebo omylem
-            - Vědomě kvůli pomstě, špionáži
-    - **Vnější**
-        - Útok z vnějšku sítě
-    - **Fyzický**
-        - Vloupání do budovy a krádež dokumentů, HW
-    - **Síťový**
-        - Napadení sítě a krádež či zneužití aktiv
+## Dělení
+### Podle aktivity
+#### Pasivní
+- Skenování portů, keylogger
+#### Aktivní    
+- DDoS, Man in the middle
+- Útok na síť a zisk citlivých informací
+### Zdroje útoku
+#### Vnitřní
+- Zaměstnanci/uživatelé systému napadnou systém
+    - Nevědomě nebo omylem
+    - Vědomě kvůli pomstě, špionáži
+- vynášení dat
+#### Vnější
+- Útok z vnějšku sítě
+
+### Typu útoku
+#### Fyzický
+- Vloupání do budovy a krádež dokumentů nebo/a HW
+- fyzické poškození
+#### Síťový
+- Napadení sítě a krádež či zneužití aktiv
 
 ## Typy útoků
 ### Zero day attack
 ### DDOS
+- nepoškození Aktiva
+- server nereaguje na požadavky uživatele
+### SQL Injection
 
 
 </div></div>
@@ -174,6 +183,12 @@ ___
 
 
 
+-> *Security Information and Event Management*
+- kombinuje security information management (*SIM*) a security event management (*SEM*) do jednoho
+- analyzuje s zpracovává logy z infrastruktury firmy
+- používá analytika, strojové učení a algoritmus na rozpoznávání podle pravidel k identifikaci [[Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti#Kybernetická hrozba\|hrozeb]]
+- poskytuje real-time upozornění
+- hlavní účel je centralizované a detailní zabezpečení
 - Je profesionální
 - Drahý
 - má automatizované metody
