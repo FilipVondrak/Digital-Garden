@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML/","created":"2023-12-19T09:11:16.298+01:00","updated":"2024-03-18T21:51:04.565+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Využívání CSS v kombinaci s HTML/","created":"2023-12-19T09:11:16.298+01:00","updated":"2024-05-14T18:58:04.275+02:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -135,7 +135,6 @@ ___
 
 </div></div>
 
-
 # HTML
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -150,3 +149,11 @@ ___
 - `<u> </u>` -> podtržení
 
 </div></div>
+
+# Pozicování
+### Position
+### Display
+#### None
+#### Grid
+#### Flex
+### Visibility
