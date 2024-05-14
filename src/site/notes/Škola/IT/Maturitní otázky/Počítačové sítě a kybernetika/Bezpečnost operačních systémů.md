@@ -131,10 +131,6 @@ ___
 - Většina adware programů pouze obtěžuje uživatele vyskakovacími okny, ale ==nepředstavuje významné riziko==
 ### Cryptojacker
 - nakažené zařízení tajně těží kryptoměny a posílá je hackerovi
-### Phishing
-- je to podvodná praktika
-- Šíří se podvodnými emailovými zprávami nebo přesměrováním na falešné webové stránky
-- falešná stránka obvykle vypadá stejně jako originál a má i podobnou adresu
 ### Worm
 - dokáže se sám kopírovat a šířit bez vědomí uživatele
 - není závislý na hostitelském souboru
