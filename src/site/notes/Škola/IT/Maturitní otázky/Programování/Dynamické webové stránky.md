@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky/","created":"2023-12-19T09:11:20.394+01:00","updated":"2024-03-31T17:44:55.803+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Dynamické webové stránky/","created":"2023-12-19T09:11:20.394+01:00","updated":"2024-05-14T19:15:10.225+02:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -56,6 +56,7 @@ ___
 ## ASP MVC
 -> **Model View Controller**
 - [[Škola/IT/Programování/Programovací jazyky/C-Sharp\|C#]]
+- server-side webový aplikační framework
 - Vzhled je oddělen od logiky
 - struktura projektu: složky Models, Views a Controllers
 
