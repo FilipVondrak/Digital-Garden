@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-05-01T19:42:10.249+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Úvod do kybernetické bezpečnosti/","created":"2023-12-14T18:23:42.725+01:00","updated":"2024-05-14T17:29:42.454+02:00"}
 ---
 
 #IT #Maturitní_otázka 
@@ -38,14 +38,18 @@
 
 
 # Důležité termíny 
-**Feedback** - zhodnocení něčeho
-**Zpětná vazba** - změna, v reakci na feedback (př. Uživatel mojí aplikace dá feedback o tom že nefunguje nějaká funkce, já jí spravím - zpětná vazba)
-
-**Riziko**-možnost, že hrozba využije zranitelnosti
-**Bezpečnostní událost**- Může způsobit narušení bezpečnosti informací v informačních systémech, služeb popř. bezpečnosti a integritu, nezpůsobí velké škody
-**Bezpečnostní incident**-Narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb
-
-**Model** - má napodobit chování něčeho, v menším měřítku např. model budovy, v kyb příklad model útoku
+### Feedback 
+- zhodnocení něčeho
+### Zpětná vazba 
+- změna, v reakci na feedback (př. Uživatel mojí aplikace dá feedback o tom že nefunguje nějaká funkce, já jí spravím - zpětná vazba)
+### Riziko
+- možnost, že hrozba využije zranitelnosti (může, ale nemusí)
+### Bezpečnostní událost 
+- Může způsobit narušení bezpečnosti informací v informačních systémech, služeb popř. bezpečnosti a integritu, nezpůsobí velké škody
+### Bezpečnostní incident
+- Narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb
+### Model 
+- má napodobit chování něčeho, v menším měřítku např. model budovy, v kyb příklad model útoku
 
 # Kyberprostor
 
@@ -100,7 +104,7 @@
 
 
 
-- příčina kyb. Bezpečnostní události/incidentu->poškození aktiva
+- ==potencionální příčina kyb. bezpečnostní události/incidentu jejímž výsledkem může (ale nemusí) být poškození aktiva==
 - získání cenných informací
 - několik škodlivých částí(obejít bezpečnostní opatření organizace)
 - průzkum zdrojů informace
@@ -121,8 +125,6 @@
 
 
 
-
-#IT #Software #Malware
 
 - Úmyslné jednání útočníka v [kyberprostoru](Kyberprostor.md)
 - Hlavní motivací je většinou zisk (informací, prostředků, dat)
