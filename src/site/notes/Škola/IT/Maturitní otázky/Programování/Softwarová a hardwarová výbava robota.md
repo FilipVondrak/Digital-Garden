@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","tags":["Maturitní_otázka","IT","Programování","Robotika"],"created":"2023-12-19T09:11:28.580+01:00","updated":"2024-05-06T09:16:59.528+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","tags":["Maturitní_otázka","IT","Programování","Robotika"],"created":"2023-12-19T09:11:28.580+01:00","updated":"2024-05-15T13:42:39.896+02:00"}
 ---
 
 ## Definice robota
