@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2023-12-14T19:07:35.550+01:00","updated":"2024-05-06T12:15:02.512+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/ISO OSI/","created":"2023-12-14T19:07:35.550+01:00","updated":"2024-05-15T13:04:08.493+02:00"}
 ---
 
+# Co je ISO OSI model?
+- abstraktní model fungování sítě
 # 1. **Fyzická** vrstva
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
