@@ -9,6 +9,8 @@
 
 
 
+# Co je ISO OSI model?
+- abstraktní model fungování sítě
 # 1. **Fyzická** vrstva
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
