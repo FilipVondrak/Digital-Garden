@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ/","created":"2023-12-19T09:15:51.269+01:00","updated":"2024-03-29T15:58:40.800+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:15:51.269+01:00","updated":"2024-05-15T11:45:03.988+02:00"}
 ---
 
 #Maturitní_otázka #IT #Programování
