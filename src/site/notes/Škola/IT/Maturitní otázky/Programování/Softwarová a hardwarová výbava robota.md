@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","tags":["Maturitní_otázka","IT","Programování","Robotika"],"created":"2023-12-19T09:11:28.580+01:00","updated":"2024-05-15T13:42:39.896+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Softwarová a hardwarová výbava robota/","tags":["Maturitní_otázka","IT","Programování","Robotika"],"created":"2023-12-19T09:11:28.580+01:00","updated":"2024-05-16T13:27:21.104+02:00"}
 ---
 
 ## Definice robota
@@ -10,7 +10,6 @@
 - **Threshold** - Prahová hodnota, zvyšujeme rychlost robota tak, aby fungoval dostatečně rychle a nevyráběl až moc vadných kusů
 ## Hardware robota
 - základní deska a přídavné řídící desky
-- 
 ### Pohony
 - Bezpečnostní prvky
 - v praxi se používají kombinace
