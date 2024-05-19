@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-03-29T16:01:30.983+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory/","created":"2023-12-19T09:15:02.441+01:00","updated":"2024-05-17T18:24:55.553+02:00"}
 ---
 
 #Maturitní_otázka #IT #Programování 
@@ -11,7 +11,6 @@
 
 
 
-#IT #Programování #C-Sharp 
 - další způsob jak dosáhnout abstrakce
 - je to ==kompletně abstraktní==
 - může obsahovat pouze abstraktní metody a vlastnosti s prázdným tělem -> má ==pouze podpisy metod a vlastností==
@@ -55,37 +54,65 @@ interface IAnimal
 
 # Generické třídy
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/maturitni-otazky/programovani/generic-class/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
+- pracuješ s datovým typem, který není ve třídě předem určen
+- používá se například v Listech, jelikož předem nevím jestli budeme mít list s čísly nebo stringy
+- třída může pracovat s jakýmkoliv datovým typem
+- před název datového typu se přidává typ
 
 </div></div>
 
 # Servant
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/servant-pattern/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-#IT #Programování #SPOSDK #Java
 
-- vzor servant definuje objekt, který slouží k nabídnutí určité funkce skupině tříd, aniž by byla tato funkce definována v každé z nich. Servant je třída, jejíž instance (nebo dokonce jen třída) poskytuje metody, které se starají o požadovanou službu, přičemž objekty, pro které (nebo s nimiž) servant něco dělá, jsou brány jako parametry
-
+- vzor servant definuje objekt, který slouží k nabídnutí určité funkce skupině tříd, aniž by byla tato funkce definována v každé z nich. 
+- Servant je třída, jejíž instance (nebo dokonce jen třída) poskytuje metody, které se starají o požadovanou službu, přičemž objekty, pro které (nebo s nimiž) servant něco dělá, jsou brány jako parametry
+- první parametr je datového typu interface
+- nepracuje sám, ale komunikuje s obsluhovanými objekty
 
 </div></div>
 
 # Messenger
-![[MessangerPattern\|MessangerPattern]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/messanger-pattern/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+- česky -> Přepravka
+- slouží pro přenos dat z jednoho určitého typu
+- třída přepravky má stejné atributy jako třída, ze které bude přenášet informace 
+- je to objekt určený k uložení skupiny údajů "pod jednu střechu" a jejich společnému transportu
+
+> [!tip] Použití
+> Pokud mám třídu s privátními atributy a chci přečíst tyto hodnoty z jiné třídy, tak je možné použít přepravku. Přepravka přečte privátní atributy a  uloží si je k sobě jako konstanty, které nelze změnit. Ostatní třídy poté mohou přepravku číst ale nikov měnit tyto hodnoty.
+
+> [!info]
+> Přepravka je zbytečná. Učí se pouze ve škole.
+
+</div></div>
+
 ## Tovární metoda
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/factory-pattern/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/factory-method/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-- Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
+> [!Warning] Definice podle Šmída
+> Podle Šmída je definice -> jediná  
+
+- statická metoda vracející instanci daného typu
+- nemusí vracet vlastní instanci, ale instanci jiné třídy
+- slouží jako náhražka konstruktoru
 - Myšlenka spočívá v použití interfacu pro vytvoření objektu, ale nakonec se podtřída rozhodne, kterou třídu instancovat
 
 ![Pasted image 20240329153655.png](/img/user/Images/Pasted%20image%2020240329153655.png)
