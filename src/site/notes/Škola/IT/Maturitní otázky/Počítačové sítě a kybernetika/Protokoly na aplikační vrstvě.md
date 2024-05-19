@@ -264,7 +264,7 @@
 ## Co je HTTP
 - je internetový protokol určený pro komunikaci s WWW servery
 - Slouží pro přenos hypertextových dokumentů ve formátu HTML, XML, i jiných typů souborů
-- Pro zabezpečení HTTP se často používá [[Škola/IT/Protokoly/TLS\|TLS]] spojení nad TCP -> **HTTPS**
+- Pro zabezpečení HTTP se často používá [[Škola/IT/Protokoly/TLS\|Škola/IT/Protokoly/TLS]] spojení nad TCP -> **HTTPS**
 ## Porty HTTPS
 - HTTP -> **80**
 - HTTPS -> **443**
@@ -321,8 +321,8 @@
 - možno poslat několik souborů naráz
 - stahování ISO souborů
 ## Porty pro FPT
-- FPT -> **21**
-- FPTS -> **990**
+- FTP -> **21**
+- FTPS -> **990**
 ## Jak použít
 1. Přes prohlížeč
 	- s prohlížečem není potřeba žádný speciální software pro stahování souborů ze serveru
