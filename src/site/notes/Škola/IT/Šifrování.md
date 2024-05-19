@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","created":"2024-02-07T19:36:26.728+01:00","updated":"2024-03-13T18:10:38.218+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","tags":["IT"],"created":"2024-02-07T19:36:26.728+01:00","updated":"2024-05-19T17:56:09.058+02:00"}
 ---
 
+# Co je to šifrování
+- převod dat do nečitelné podoby pro lidi, kteří nemají klíč/neví jak je vrátit zpět
+- dají se opačným postupem vrátit do původní podoby
 # Způsoby šifrování dat
 - **Podle Implementace**
 	- [Softwarově](Softwarové%20šifrování.md)
@@ -9,6 +12,8 @@
 - **Podle šifry**
 	- [[Škola/IT/Symetrické šifrování\|Symetrické šifrování]]
 	- [[Škola/IT/Asymetrické šifrování\|Asymetrické šifrování]]
+# Jak softwarově šifrovat 
+### Bitlocker
 
 # End-to-end šifrování
 - Přenos dat ochráněn proti odposlechu
