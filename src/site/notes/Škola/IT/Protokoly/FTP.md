@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/FTP/","created":"2023-12-14T18:50:39.857+01:00","updated":"2024-05-04T20:01:55.817+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/FTP/","created":"2023-12-14T18:50:39.857+01:00","updated":"2024-05-16T11:10:18.914+02:00"}
 ---
 
 ## Co je FTP
@@ -12,8 +12,8 @@
 - možno poslat několik souborů naráz
 - stahování ISO souborů
 ## Porty pro FPT
-- FPT -> **21**
-- FPTS -> **990**
+- FTP -> **21**
+- FTPS -> **990**
 ## Jak použít
 1. Přes prohlížeč
 	- s prohlížečem není potřeba žádný speciální software pro stahování souborů ze serveru
