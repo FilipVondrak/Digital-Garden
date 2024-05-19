@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/HTTP/","created":"2023-12-14T18:50:59.704+01:00","updated":"2024-05-04T18:19:13.123+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Protokoly/HTTP/","created":"2023-12-14T18:50:59.704+01:00","updated":"2024-05-19T20:25:15.089+02:00"}
 ---
 
 ## Co je HTTP
 - je internetový protokol určený pro komunikaci s WWW servery
 - Slouží pro přenos hypertextových dokumentů ve formátu HTML, XML, i jiných typů souborů
-- Pro zabezpečení HTTP se často používá [[Škola/IT/Protokoly/TLS\|TLS]] spojení nad TCP -> **HTTPS**
+- Pro zabezpečení HTTP se často používá [[Škola/IT/Protokoly/TLS\|Škola/IT/Protokoly/TLS]] spojení nad TCP -> **HTTPS**
 ## Porty HTTPS
 - HTTP -> **80**
 - HTTPS -> **443**
