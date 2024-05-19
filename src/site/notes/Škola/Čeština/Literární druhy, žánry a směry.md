@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy, žánry a směry/","created":"2023-12-04T17:00:10.401+01:00","updated":"2024-05-01T22:47:55.053+02:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Literární druhy, žánry a směry/","created":"2023-12-04T17:00:10.401+01:00","updated":"2024-05-15T18:09:12.683+02:00"}
 ---
 
 # Druhy
-- ## [[Škola/Čeština/Literární žánry/Bajka\|Bajka]]
 - ## [[Škola/Čeština/Literární druhy/Drama\|Drama]]
 - ## [[Škola/Čeština/Literární druhy/Lyrika\|Lyrika]]
+- ## [[Škola/Čeština/Literární druhy/Epika\|Epika]]
 - ## [[Škola/Čeština/Literární druhy/Poezie\|Poezie]]
 - ## [[Škola/Čeština/Literární druhy/Próza\|Próza]]
-- ## [[Škola/Čeština/Literární druhy/Epika\|Epika]]
 # Žánry
 - ## [[Škola/Čeština/Literární žánry/Báseň\|Báseň]]
 - ## [[Škola/Čeština/Literární žánry/Komedie\|Komedie]]
+- ## [[Škola/Čeština/Literární žánry/Bajka\|Bajka]]
 - ## [[Škola/Čeština/Literární žánry/Novela\|Novela]]
 - ## [[Škola/Čeština/Literární žánry/Román\|Román]]
+- ## [[Škola/Čeština/Literární žánry/Elegie\|Elegie]]
+- ## [[Škola/Čeština/Literární žánry/Satira\|Satira]]
 # Směry
 - ## [[Škola/Čeština/Literární směr/Absurdní drama\|Absurdní drama]]
 - ## [[Škola/Čeština/Literární směr/Antiutopie\|Antiutopie]]
