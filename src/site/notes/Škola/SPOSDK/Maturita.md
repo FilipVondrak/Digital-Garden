@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-05-02T10:53:16.566+02:00"}
+{"dg-publish":true,"permalink":"/Škola/SPOSDK/Maturita/","tags":["gardenEntry"],"created":"2023-12-18T16:37:08.969+01:00","updated":"2024-05-15T18:26:39.022+02:00"}
 ---
 
 # Maturitní otázky - Počítačové sítě a kybernetika
@@ -57,9 +57,9 @@ ___
 15. [x] [[Škola/IT/Maturitní otázky/Programování/Metody tříd\|Metody tříd]]
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [x]  [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]] (stejné jako otázka 11)
-18. [ ] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
+18. [x] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
 19. [x] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Utility, Singleton a tovární metoda, Enum\|Návrhové vzory - Utility, Singleton a tovární metoda, Enum]]
-20. [/] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
+20. [x] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
 [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
 
 </div></div>
@@ -118,6 +118,7 @@ ___
 # Ústní maturita z češtiny
 - [[Škola/Čeština/Literární druhy, žánry a směry\|Literární druhy, žánry a směry]]
 - [[Škola/Čeština/Funkční styly\|Funkční styly]]
+- [[Škola/Čeština/Druhy rýmů\|Druhy rýmů]]
 - [[Škola/Čeština/Přechodníky\|Přechodníky]]
 - [[Škola/Čeština/Dokonová a nedokonavá slovesa\|Dokonová a nedokonavá slovesa]]
 - [[Škola/Čeština/Jazykové prostředky\|Jazykové prostředky]]
@@ -125,14 +126,14 @@ ___
 ___
 # Seznam četby
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/cestina/povinna-cetba/seznam-cetby/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 ### [[Škola/Čeština/Povinná četba/Autoři/Karel Havlíček Borovský\|Karel Havlíček Borovský]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Král Lávra\|Král Lávra]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/Tyrolské elegie\|Tyrolské elegie]]
+- [x] [[Škola/Čeština/Povinná četba/Knihy/Tyrolské elegie\|Tyrolské elegie]]
 ### [[Škola/Čeština/Povinná četba/Autoři/J. K. Rowlingová\|J. K. Rowlingová]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Harry Potter a Kámen mudrců\|Harry Potter a Kámen mudrců]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Viktor Dyk\|Viktor Dyk]]
@@ -140,7 +141,7 @@ ___
 ### [[Škola/Čeština/Povinná četba/Autoři/N. V. Gogol\|N. V. Gogol]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Revizor\|Revizor]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Moliére\|Moliére]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/Zdravý nemocný\|Zdravý nemocný]]
+- [x] [[Škola/Čeština/Povinná četba/Knihy/Zdravý nemocný\|Zdravý nemocný]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Lakomec\|Lakomec]]
 ### [[Škola/Čeština/Povinná četba/Autoři/George Orwell\|George Orwell]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Farma zvířat\|Farma zvířat]]
@@ -153,17 +154,17 @@ ___
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Havran\|Havran]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Jáma a Kyvadlo\|Jáma a Kyvadlo]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Karel Čapek\|Karel Čapek]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/R.U.R\|R.U.R]]
+- [x] [[Škola/Čeština/Povinná četba/Knihy/R.U.R\|R.U.R]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Bílá nemoc\|Bílá nemoc]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Nezval\|Nezval]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Edison\|Edison]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Abeceda\|Abeceda]]
-### [[Škola/Čeština/Povinná četba/Autoři/Christiane F., Kai Hermann\|Christiane F., Kai Hermann]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/My děti ze stanice zoo\|My děti ze stanice zoo]]
+### [[Škola/Čeština/Povinná četba/Autoři/Christiane F.\|Christiane F.]], [[Škola/Čeština/Povinná četba/Autoři/Kai Hermann\|Kai Hermann]]
+- [x] [[Škola/Čeština/Povinná četba/Knihy/My děti ze stanice zoo\|My děti ze stanice zoo]]
 ### [[Hemingway\|Hemingway]]
 - [ ] [[Stařec a moře\|Stařec a moře]]
 ### [[Fitzgerald\|Fitzgerald]]
-- [ ] [[Velký Gatsby\|Velký Gatsby]]
+- [ ] [[Škola/Čeština/Povinná četba/Velký Gatsby\|Velký Gatsby]]
 
 
 </div></div>
