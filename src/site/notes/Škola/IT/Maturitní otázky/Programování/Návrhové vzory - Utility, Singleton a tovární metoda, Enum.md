@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Utility, Singleton a tovární metoda, Enum/","created":"2024-03-29T15:57:06.438+01:00","updated":"2024-04-02T18:50:48.203+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Utility, Singleton a tovární metoda, Enum/","created":"2024-03-29T15:57:06.438+01:00","updated":"2024-05-17T18:24:55.521+02:00"}
 ---
 
 # K čemu slouží návrhové vzory
 - jsou souborem nástrojů pro ==řešení běžných problémů== při návrhu softwaru
+- jsou to doporučená řešení často se vyskytujících úloh
+- Gang of Four 
+	- poprvé popsali návrhové vzory
+	- katalog návrhových vzorů
 - slouží jako společný jazyk pro ==ulehčení práce== vývojářů, aby nemuseli dokola vymýšlet stejná řešení
 - pomáhají týmu vývojářů ==lépe komunikovat==
 - Každý vzor je jako plánek, který můžete upravit tak, abyste vyřešili konkrétní návrhový problém ve vašem kódu
@@ -18,6 +22,7 @@
 - obvykle pomáhá udržet nejrůznější nesouvisející metody na jednom místě
 - měly by být ==všechny metody deklarované ve třídě statické==
 -  jediným způsobem, jak zajistit neinstantnost, je deklarovat konstruktor jako **private**
+- v C# je to například třída **Console**
 
 > [!Showcase]- Ukázka implementace utility vzoru v Javě
 >```Java
@@ -107,12 +112,17 @@
 
 # Tovární metoda
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/factory-pattern/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/osobni/programovani/patterny/factory-method/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-- Poskytuje rozhraní pro vytváření objektů v nadtřídě, ale umožňuje podtřídám měnit typ objektů, které budou vytvořeny.
+> [!Warning] Definice podle Šmída
+> Podle Šmída je definice -> jediná  
+
+- statická metoda vracející instanci daného typu
+- nemusí vracet vlastní instanci, ale instanci jiné třídy
+- slouží jako náhražka konstruktoru
 - Myšlenka spočívá v použití interfacu pro vytvoření objektu, ale nakonec se podtřída rozhodne, kterou třídu instancovat
 
 ![Pasted image 20240329153655.png](/img/user/Images/Pasted%20image%2020240329153655.png)
