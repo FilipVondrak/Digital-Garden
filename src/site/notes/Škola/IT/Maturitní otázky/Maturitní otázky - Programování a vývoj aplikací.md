@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-11T22:52:22.665+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Maturitní otázky - Programování a vývoj aplikací/","created":"2023-12-18T16:41:17.722+01:00","updated":"2024-05-17T18:58:36.694+02:00"}
 ---
 
 1. [x] [[Škola/IT/Maturitní otázky/Programování/Webové prezentace ve formátu HTML5\|Webové prezentace ve formátu HTML5]]
@@ -19,7 +19,7 @@
 15. [x] [[Škola/IT/Maturitní otázky/Programování/Metody tříd\|Metody tříd]]
 16. [/] [[Škola/IT/Maturitní otázky/Programování/WinForms – standardní ovládací prvky\|WinForms – standardní ovládací prvky]]
 17. [x]  [[Škola/IT/Maturitní otázky/Programování/Jazyk CSharp\|Jazyk CSharp]] (stejné jako otázka 11)
-18. [ ] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
+18. [x] [[Škola/IT/Maturitní otázky/Programování/Vývojové prostředí BlueJ\|Vývojové prostředí BlueJ]]
 19. [x] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Utility, Singleton a tovární metoda, Enum\|Návrhové vzory - Utility, Singleton a tovární metoda, Enum]]
-20. [/] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
+20. [x] [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger\|Návrhové vzory - Interface, Servant, Generické třídy, Messenger]]
 [[Škola/IT/Maturitní otázky/Programování/Návrhové vzory\|Návrhové vzory]]
