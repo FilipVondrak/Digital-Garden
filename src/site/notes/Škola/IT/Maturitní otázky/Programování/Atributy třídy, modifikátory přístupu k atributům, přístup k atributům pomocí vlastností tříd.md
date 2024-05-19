@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","created":"2023-12-19T09:12:08.124+01:00","updated":"2024-05-06T08:15:40.172+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:12:08.124+01:00","updated":"2024-05-16T16:36:08.269+02:00"}
 ---
 
-#Maturitní_otázka #IT #Programování 
 # Třída
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/trida-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -76,14 +75,15 @@
 
 # Atribut
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/atributy-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
 
 > [!warning] Pozor
 > V češtině se říká atributa jiné věci než v angličtině.
-> V češtině jde o globální proměnou, ale v angličtině o metadata.
+> V češtině je atributy globální proměná, ale v angličtině jsou to metadata.
 
 - Proměnná, konstanta
 - je deklarovaná na úrovni třídy
@@ -159,25 +159,6 @@ ___
 
 </div></div>
 
-
-</div></div>
-
-___
-# Modifikátory přístupu
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/programovani/modifikatory-pristupu-c-sharp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-## Private
-- Modifikátor `private` určuje, že člen (atribut nebo metoda) je přístupný **pouze** v rámci třídy, ve které je definován.
-## Public
-- Modifikátor `public` určuje, že člen je ==přístupný z libovolného kódu==, který má přístup k instanci třídy.
-## Protected
-- Modifikátor `protected` určuje, že člen je přístupný pouze v rámci třídy ==a z tříd odvozených/zděděných==
-## Internal
-- Modifikátor `internal` určuje, že člen je přístupný ze stejné assembly
 
 </div></div>
 
