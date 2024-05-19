@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","created":"2023-12-14T18:24:26.512+01:00","updated":"2024-04-28T17:00:17.228+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Kryptografie/","tags":["IT","Maturitní_otázka"],"created":"2023-12-14T18:24:26.512+01:00","updated":"2024-05-19T17:45:41.248+02:00"}
 ---
-
-#IT #Maturitní_otázka
 
 > [!info] 
 >  kryptografie je věda, která se zabývá konstrukcí matematických metod, sloužících k zajišťování bezpečnosti dat
@@ -49,6 +47,8 @@ ___
 ## Podle fungování šifry
 ### Transpoziční šifra
 - posouvá písmena s pomocí klíče
+### Substituční
+- 
 > [!example]- Ukázka
 > klíč: DADE  
 slovo k zašifrování: SLOVO  
@@ -56,8 +56,6 @@ určíme pozice klíče => D je na 4. pozici v abecedě, A je na 1., D opět na 
 poté posuneme písmena o počet pozicí z klíče  
 S posuneme o 4 pozice dopředu => W  
 L => M |
-### Substituční
-
 ___
 # Steganografie
 - **Podobor** kryptografie
@@ -83,8 +81,8 @@ ___
 # Elektronický podpis
 - nahrazují klasický vlastnoruční podpis, respektive ověřený podpis. 
 - Je připojen k datové schránce
-![elektronický podpis.png](/img/user/Images/elektronick%C3%BD%20podpis.png)
 
+![elektronický podpis.png](/img/user/Images/elektronick%C3%BD%20podpis.png)
 ___
 # Kódování
 - proces převodu dat do formátu, který může být snadno **ukládán** nebo **přenášen**
