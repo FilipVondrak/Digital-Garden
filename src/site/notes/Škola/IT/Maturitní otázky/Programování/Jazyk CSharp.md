@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Jazyk CSharp/","tags":["Maturitní_otázka","IT","Programování","Software","C-Sharp"],"created":"2023-12-19T09:14:44.484+01:00","updated":"2024-05-11T19:36:43.008+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Jazyk CSharp/","tags":["Maturitní_otázka","IT","Programování","Software","C-Sharp"],"created":"2023-12-19T09:14:44.484+01:00","updated":"2024-05-16T14:51:53.840+02:00"}
 ---
 
 # Jazyk CSharp
 - je to ==objektivně orientovaný programovací== jazyk (OOP)
+- je typově bezpečný
 - jazyk byl vytvořen roku 2000 firmou Microsoft
 - je navržen pro .NET Framework, platformu pro vývoj softwaru pro Windows
 - C# je relativně snadno se naučitelný jazyk s moderní syntaxí a velkou škálou funkcí
@@ -15,11 +16,19 @@
 - samotný jazyk je cross-platform, což znamená že se dá použít pro většinu operačních systému od Windows po linux a android
 - je vhodný jak pro desktopové aplikace (např. hry nebo jiný software) až po webové aplikace
 # Základní struktury a principy 
+## Principy
 - jako objektově orientovaný jazyk má c# tyto základní principy
 	- [[Škola/IT/Maturitní otázky/Programování/Principy OOP#Dědění\|dědičnost]]
 	- [[Škola/IT/Maturitní otázky/Programování/Principy OOP#Polymorfizmus\|polymorfismus]]
 	- [[Škola/IT/Maturitní otázky/Programování/Principy OOP#Objekt\|objekty]] a [[Škola/IT/Maturitní otázky/Programování/Principy OOP#Třída\|třídy]]
-# Datové typy
+## Struktury
+- Namespace -> Jmenný prostor
+- Třída `Console` (knihovní třída)
+	- Má definované statické metody -> nevytváříme instanci
+		- Funkce `Readline()`
+		- Procedura `WriteLine()`
+### Cykly
+### Datové typy
 **int** - celočíselný datový typ, pro čísla od -2147483648 do 2147483647
 **long** - celočíselný datový typ, delší než int pro čísla v rozmezí od -9223372036854775808 do 9223372036854775807
 **float** - číselný typ s podporou pro desetinná čísla, přesnost až na 6 desetinných míst
@@ -27,7 +36,7 @@
 **char** - datový typ pro znaky, slouží pro ukládání pouze 1 znaku (např. 'B')
 **bool** - booleovský datový typ, ukladá pouze hodnoty "True" a "False" (pravda a nepravda)
 **string** - datový typ pro ukládání textu
-# Proměnné
+### Proměnné
 - používají se pro pojmenování oblastí v paměti, které ukládají data
 - deklarují se pomocí klíčového slova `var`, `int`, `double`, `string` atd., následovaného názvem proměnné
 - inicializují se operátorem `=`
