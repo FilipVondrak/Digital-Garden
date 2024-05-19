@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Databáze/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:11:50.151+01:00","updated":"2024-05-11T22:52:06.245+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Databáze/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:11:50.151+01:00","updated":"2024-05-16T13:44:36.346+02:00"}
 ---
 
 # Základní pojmy
@@ -9,9 +9,12 @@
 - Organizovaná sbírka dat, která je uložena a spravována databázovým strojem
 - většinou přípona souboru .db
 - soubor, kde už jsou vloženy data v elektronické podobě
+- předchůdcem jsou papírové kartotéky
 ### Databázový stroj
+- nástroj pro shromažďování a uspořádávání dat
 - Software, který umožňuje uživatelům vytvářet, spravovat a používat databáze
-- Běžné databázové systémy zahrnují: 
+- Běžné databázové systémy zahrnují:
+	- SQLite
 	- MySQL 
 	- PostgreSQL 
 	- Oracle Database 
