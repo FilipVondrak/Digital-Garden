@@ -48,12 +48,13 @@ ___
 #### Další knihy:
 Tartuffle, Misantrop, 
 # Život
-- vlastním jménem Jean-Baptiste Poquelin
+- vlastním jménem **Jean-Baptiste Poquelin**
 - francouzský spisovatel období [klasicismu](Klasicismus.md)
 - je považován za zakladatele moderní francouzské komedie
 - narodil se jako syn měšťana a brzy se stal oproti vůli rodiny komediantem a hercem
+- byl hercem a dramatikem
 - založil vlastní divadelní společnost
-- odvážná kritika a zesměšňování společenských poměrů
+- odvážná kritika a zesměšzňování společenských poměrů
 - časté spory s královským dvorem
 - v roce 1673 zemřel přímo na jevišti při 4 repríze své hry Zdraví nemocný
 # Vlivy na tvorbu autora
