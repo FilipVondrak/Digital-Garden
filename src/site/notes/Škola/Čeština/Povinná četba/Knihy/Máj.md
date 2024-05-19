@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Máj/","created":"2023-11-28T12:00:14.628+01:00","updated":"2024-03-13T18:26:40.686+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Máj/","created":"2023-11-28T12:00:14.628+01:00","updated":"2024-05-19T15:11:46.572+02:00"}
 ---
 
 #Kniha #Literatura #SPOSDK
 ## Informace o knize
 Autor - [[Škola/Čeština/Povinná četba/Autoři/Karel Hynek Mácha\|Karel Hynek Mácha]]
 Literární druh - [[Škola/Čeština/Literární druhy/Poezie\|Poezie]]
-Literární žánr - Lyricko-epická [[Škola/Čeština/Literární žánry/Báseň\|Báseň]]
+Literární žánr - [[Škola/Čeština/Literární druhy/Lyrika\|Lyricko]]-[[Škola/Čeština/Literární druhy/Epika\|epická]] [[Škola/Čeština/Literární žánry/Báseň\|Báseň]]
 Literární směr - český [[Škola/Čeština/Literární směr/Romantismus\|Romantismus]]
 Časoprostor - okolí Doks u Máchova jezera
 ### Rok vydání a dění ve světě:
