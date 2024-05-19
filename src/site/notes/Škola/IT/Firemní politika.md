@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Firemní politika/","created":"2023-12-19T09:21:33.493+01:00","updated":"2024-05-08T16:10:44.976+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Firemní politika/","created":"2023-12-19T09:21:33.493+01:00","updated":"2024-05-19T18:36:04.430+02:00"}
 ---
 
 
@@ -36,7 +36,13 @@ Dokument, soubor pravidel pro všechny uživatele v organizaci
 - pouze oprávnění, která potřebuje k práci
 
 ___
-# Fyzická bezpečnost
+## Fyzická bezpečnost
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/fyzicka-bezpecnost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 - Zabezpečení budovy, vstupů a místností -> klíč, čip, biometrika
 ## Ochrana techniky
 - kamerový systém
@@ -57,6 +63,9 @@ ___
 ## Energie
 - chránit napájení
 - mít záložní zdroj energie
+
+</div></div>
+
 ___
 # Softwarová bezpečnost
 ## Firewall
@@ -150,6 +159,9 @@ ___
 
 
 
+# Co je to šifrování
+- převod dat do nečitelné podoby pro lidi, kteří nemají klíč/neví jak je vrátit zpět
+- dají se opačným postupem vrátit do původní podoby
 # Způsoby šifrování dat
 - **Podle Implementace**
 	- [Softwarově](Softwarové%20šifrování.md)
@@ -157,6 +169,8 @@ ___
 - **Podle šifry**
 	- [[Škola/IT/Symetrické šifrování\|Symetrické šifrování]]
 	- [[Škola/IT/Asymetrické šifrování\|Asymetrické šifrování]]
+# Jak softwarově šifrovat 
+### Bitlocker
 
 # End-to-end šifrování
 - Přenos dat ochráněn proti odposlechu
