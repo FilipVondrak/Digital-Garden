@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware/","created":"2023-12-14T18:39:38.527+01:00","updated":"2024-03-13T18:18:49.939+01:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/Hardware/","created":"2023-12-14T18:39:38.527+01:00","updated":"2024-05-16T11:24:22.434+02:00"}
 ---
 
 **Je to hmotné technické aktivum**
@@ -9,7 +9,6 @@
 	- Např. [[Škola/IT/Hardware/Procesor\|Procesor]], [[Škola/IT/Hardware/Operační Paměť\|Operační Paměť]], [[Škola/IT/Hardware/Grafická karta\|Grafická karta]]
 - Vnější - Periferie
 	- Např. externí [[Škola/IT/Hardware/Disk\|Disk]]
-
 # Komponenty
 # Disk
 
