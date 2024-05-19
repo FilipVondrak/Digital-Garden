@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Principy OOP/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:12:06.045+01:00","updated":"2024-05-11T21:09:11.106+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Principy OOP/","tags":["Maturitní_otázka","IT","Programování"],"created":"2023-12-19T09:12:06.045+01:00","updated":"2024-05-16T14:54:43.172+02:00"}
 ---
 
 # Třída
@@ -30,11 +30,12 @@
 - je to fyzická entita v paměti, která existuje v běžícím programu
 - Konkrétní výskyt definovaný pomocí třídy
 - Umožňuje interakci s programem a reaguje na události
-![Pasted image 20240508225042.png](/img/user/Images/Pasted%20image%2020240508225042.png)
+
 
 </div></div>
 
 # Rozdíl mezi třídou a objektem
+![Pasted image 20240508225042.png](/img/user/Images/Pasted%20image%2020240508225042.png)
 >[!tip] Příklad
 >Představte si ==třídu jako návrh domu== a o==bjekt jako skutečný postavený dům==. Třída **definuje** všechny detaily plánu (počet pokojů, okna, dveře), zatímco dům je **fyzická** struktura s konkrétními rozměry a materiály. Každý dům (objekt) postavený podle plánu (třídy) bude mít stejné základní vlastnosti, ale může se lišit v detailech
 ## Abstrakce vs. Konkrétnost
