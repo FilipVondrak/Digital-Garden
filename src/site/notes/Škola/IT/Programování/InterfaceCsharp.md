@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Programování/InterfaceCsharp/","created":"2024-03-25T22:28:08.815+01:00","updated":"2024-04-02T12:05:19.308+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Programování/InterfaceCsharp/","tags":["IT","Programování","C-Sharp"],"created":"2024-03-25T22:28:08.815+01:00","updated":"2024-05-17T16:37:53.750+02:00"}
 ---
 
-#IT #Programování #C-Sharp 
 - další způsob jak dosáhnout abstrakce
 - je to ==kompletně abstraktní==
 - může obsahovat pouze abstraktní metody a vlastnosti s prázdným tělem -> má ==pouze podpisy metod a vlastností==
