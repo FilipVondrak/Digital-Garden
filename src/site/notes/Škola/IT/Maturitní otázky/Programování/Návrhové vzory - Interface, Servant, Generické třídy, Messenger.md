@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","tags":["IT","Maturitní_otázka","Programování","SPOSDK"],"created":"2024-03-29T15:59:06.649+01:00","updated":"2024-05-17T18:34:48.155+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Návrhové vzory - Interface, Servant, Generické třídy, Messenger/","tags":["IT","Maturitní_otázka","Programování","SPOSDK"],"created":"2024-03-29T15:59:06.649+01:00","updated":"2024-05-20T13:11:16.581+02:00"}
 ---
 
 # K čemu slouží návrhové vzory
@@ -32,8 +32,8 @@
 
 > [!Showcase]- Ukázka implementace interfacu
 > ```Csharp
-// Interface
-interface IAnimal 
+>// Interface
+>interface IAnimal 
 >{
 >  void animalSound(); // interface metoda (nemá tělo)
 >}
