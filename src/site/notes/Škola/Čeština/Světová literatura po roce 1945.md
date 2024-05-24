@@ -1,8 +1,7 @@
 ---
-share_link: https://share.note.sx/oto6q3rs#UwuUfXQUgGdBPto+LyToBDiCZQ3FxIDq6lXFoa0EwHo
-share_updated: 2023-12-18T12:22:10+01:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/Škola/Čeština/Světová literatura po roce 1945/","created":"2023-12-14T15:46:54.440+01:00","updated":"2024-05-21T22:50:17.522+02:00"}
 ---
+
 #Historie #Literatura
 - odraz války
 - [[Škola/Čeština/Literární směr/Existencionalismus\|Existencionalismus]] - lidská existence
