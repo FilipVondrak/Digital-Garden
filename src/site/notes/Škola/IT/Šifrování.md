@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","tags":["IT"],"created":"2024-02-07T19:36:26.728+01:00","updated":"2024-05-19T17:56:09.058+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Šifrování/","tags":["IT"],"created":"2024-02-07T19:36:26.728+01:00","updated":"2024-05-24T18:18:05.438+02:00"}
 ---
 
 # Co je to šifrování
 - převod dat do nečitelné podoby pro lidi, kteří nemají klíč/neví jak je vrátit zpět
 - dají se opačným postupem vrátit do původní podoby
+- šifrování se děje na 6. vrstvě [[Škola/IT/ISO OSI\|ISO OSI]]
 # Způsoby šifrování dat
 - **Podle Implementace**
 	- [Softwarově](Softwarové%20šifrování.md)
