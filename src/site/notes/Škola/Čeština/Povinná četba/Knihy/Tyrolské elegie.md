@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Tyrolské elegie/","tags":["Kniha","Literatura","SPOSDK"],"created":"2023-11-28T11:59:49.985+01:00","updated":"2024-05-15T21:10:15.395+02:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Tyrolské elegie/","tags":["Kniha","Literatura","SPOSDK"],"created":"2023-11-28T11:59:49.985+01:00","updated":"2024-05-20T18:05:25.877+02:00"}
 ---
 
 # Informace o knize
@@ -43,9 +43,12 @@ Rok vydání -
 - výsměch vládě
 - snaha o prosazení svobody
 ### Postavy:
-- Autor - [[Škola/Čeština/Povinná četba/Autoři/Karel Havlíček Borovský\|Karel Havlíček Borovský]], ironický odvážný výsměšný, vlastenec
-- Rodina - Borovský loučí se s ní
-- Dedera - komisař, zastánce Bachova absolutismu
+#### Autor - [[Škola/Čeština/Povinná četba/Autoři/Karel Havlíček Borovský\|Karel Havlíček Borovský]]
+- ironický odvážný výsměšný, vlastenec
+#### Rodina 
+- Borovský loučí se s ní
+#### Dedera 
+- komisař, zastánce Bachova absolutismu
 - Žandermové - směšní a zbabělí vykonávači abs. moci
 ## Děj:
 Na začátku si Borovský povídá s měsícem na nebi a svěřuje se mu, jak se dostal do Brixenu. Pak mluví o tom, jak si pro něj přijeli policisté a on se musel narychlo v noci rozloučit s rodinou, kvůli jeho cestě do vyhnanství protože byl odpůrce Bachova absolutismu a prosazoval svobodu lidí a projevu. Na cestě do Brixenu ho provází komisař Dedera a strážníci (žandamové). Končí příjezdem Havlíčka do Brixenu.
