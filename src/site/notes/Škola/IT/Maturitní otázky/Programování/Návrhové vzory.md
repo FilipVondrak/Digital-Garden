@@ -29,8 +29,8 @@
 
 > [!Showcase]- Ukázka implementace interfacu
 > ```Csharp
-// Interface
-interface IAnimal 
+>// Interface
+>interface IAnimal 
 >{
 >  void animalSound(); // interface metoda (nemá tělo)
 >}
