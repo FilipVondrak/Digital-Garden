@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Seznam četby/","created":"2023-11-28T11:06:29.057+01:00","updated":"2024-05-19T18:15:57.240+02:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Seznam četby/","created":"2023-11-28T11:06:29.057+01:00","updated":"2024-05-24T16:53:58.540+02:00"}
 ---
 
 ### [[Škola/Čeština/Povinná četba/Autoři/Karel Havlíček Borovský\|Karel Havlíček Borovský]]
@@ -23,16 +23,34 @@
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Malý princ\|Malý princ]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Edgar Alan Poe\|Edgar Alan Poe]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/Havran\|Havran]]
-- [ ] [[Škola/Čeština/Povinná četba/Knihy/Jáma a Kyvadlo\|Jáma a Kyvadlo]]
+- [x] [[Škola/Čeština/Povinná četba/Knihy/Jáma a Kyvadlo\|Jáma a Kyvadlo]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Karel Čapek\|Karel Čapek]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/R.U.R\|R.U.R]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Bílá nemoc\|Bílá nemoc]]
-### [[Škola/Čeština/Povinná četba/Autoři/Nezval\|Nezval]]
+### [[Škola/Čeština/Povinná četba/Autoři/Vítězslav Nezval\|Vítězslav Nezval]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Edison\|Edison]]
 - [ ] [[Škola/Čeština/Povinná četba/Knihy/Abeceda\|Abeceda]]
 ### [[Škola/Čeština/Povinná četba/Autoři/Christiane F.\|Christiane F.]], [[Škola/Čeština/Povinná četba/Autoři/Kai Hermann\|Kai Hermann]]
 - [x] [[Škola/Čeština/Povinná četba/Knihy/My děti ze stanice zoo\|My děti ze stanice zoo]]
-### [[Hemingway\|Hemingway]]
-- [ ] [[Stařec a moře\|Stařec a moře]]
-### [[Fitzgerald\|Fitzgerald]]
-- [ ] [[Škola/Čeština/Povinná četba/Velký Gatsby\|Velký Gatsby]]
+### [[Škola/Čeština/Povinná četba/Autoři/Ernest Hemingway\|Ernest Hemingway]]
+- [/] [[Škola/Čeština/Povinná četba/Knihy/Stařec a moře\|Stařec a moře]]
+### [[Škola/Čeština/Povinná četba/Autoři/Fitzgerald\|Fitzgerald]]
+- [x] [[Škola/Čeština/Povinná četba/Velký Gatsby\|Velký Gatsby]]
+
+
+| AUTOR                        | OBDOBÍ                                                | LITERÁRNÍ SMĚR                             |
+| ---------------------------- | ----------------------------------------------------- | ------------------------------------------ |
+| [[Škola/Čeština/Povinná četba/Autoři/Moliére\|Moliére]]                  | 17. století                                           | [[Škola/Čeština/Literární směr/Klasicismus\|Klasicismus]]                            |
+| [[Škola/Čeština/Povinná četba/Autoři/Edgar Alan Poe\|Edgar Alan Poe]]           | 1. polovina 19. století                               | [[Škola/Čeština/Literární směr/Romantismus\|Romantismus]], [[Škola/Čeština/Literární směr/Symbolismus\|Symbolismus]]           |
+| [[Škola/Čeština/Povinná četba/Autoři/N. V. Gogol\|N. V. Gogol]]              | 1. polovina 19. století                               | [[Škola/Čeština/Literární směr/Realismus\|Realismus]]                              |
+| [[Škola/Čeština/Povinná četba/Autoři/Karel Hynek Mácha\|Karel Hynek Mácha]]        | 1. polovina 19. století                               | [[Škola/Čeština/Literární směr/Romantismus\|Romantismus]]                            |
+| [[Škola/Čeština/Povinná četba/Autoři/Karel Havlíček Borovský\|Karel Havlíček Borovský]]  | 1. polovina 19. století                               | [[Škola/Čeština/Literární směr/Realismus\|Realismus]], Novinář                     |
+| [[Škola/Čeština/Povinná četba/Autoři/Viktor Dyk\|Viktor Dyk]]               | 2. polovina 19. století <br>- 1. polovina 20. století | [[Škola/Čeština/Literární směr/Symbolismus\|Symbolismus]], [[Škola/Čeština/Literární směr/Buřičská literatura\|Buřičská literatura]]   |
+| [[Škola/Čeština/Povinná četba/Autoři/Antoine de Saint-Exupéry\|Antoine de Saint-Exupéry]] | 1. polovina 20. století                               | [[Škola/Čeština/Literární směr/Realismus\|Realismus]]                              |
+| [[Škola/Čeština/Povinná četba/Autoři/Fitzgerald\|Fitzgerald]]               | 1. polovina 20. století                               | [[Škola/Čeština/Ztracená generace\|Ztracená generace]]                      |
+| [[Škola/Čeština/Povinná četba/Autoři/Karel Čapek\|Karel Čapek]]              | 1. polovina 20. století                               | [[Meziválečná literatura\|Meziválečná literatura]], [[Škola/Čeština/Literární směr/Antiutopie\|Antiutopie]] |
+| [[Škola/Čeština/Povinná četba/Autoři/George Orwell\|George Orwell]]            | 1. polovina 20. století                               | [[Škola/Čeština/Literární směr/Antiutopie\|Antiutopie]], [[Škola/Čeština/Literární směr/Realismus\|Realismus]]              |
+| [[Škola/Čeština/Povinná četba/Autoři/Vítězslav Nezval\|Vítězslav Nezval]]         | 1. polovina 20. století                               | [[Škola/Čeština/Poetismus\|Poetismus]], [[Surrealismus\|Surrealismus]]            |
+| [[Škola/Čeština/Povinná četba/Autoři/Ernest Hemingway\|Ernest Hemingway]]         | 20. století                                           | [[Škola/Čeština/Ztracená generace\|Ztracená generace]], [[Škola/Čeština/Literární směr/Realismus\|Realismus]]       |
+| [[Škola/Čeština/Povinná četba/Autoři/Christiane F.\|Christiane F.]]            | 2. polovina 20. století<br>- doteď                    | [[Autobiografie\|Autobiografie]]                          |
+| [[Škola/Čeština/Povinná četba/Autoři/J. K. Rowlingová\|J. K. Rowlingová]]         | 2. polovina 20. století<br>- doteď                    | [[Škola/Čeština/Literární směr/Fantastika\|Fantastika]]                             |
