@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Abeceda/","created":"2023-11-28T12:00:38.437+01:00","updated":"2024-03-13T18:28:11.211+01:00"}
+{"dg-publish":true,"permalink":"/Škola/Čeština/Povinná četba/Knihy/Abeceda/","created":"2023-11-28T12:00:38.437+01:00","updated":"2024-05-21T20:08:52.117+02:00"}
 ---
 
 #Kniha #Literatura #SPOSDK
-## Informace o knize
-Autor - [[Škola/Čeština/Povinná četba/Autoři/Nezval\|Nezval]]
-Literární druh - 
-Literární žánr - 
-Časoprostor -
-### Rok vydání a dění ve světě:
-Rok vydání -
-### Kompozice: 
-
-### Hlavní myšlenka:
-
-## Děj:
+# Informace o knížce
+**Autor** - [[Škola/Čeština/Povinná četba/Autoři/Vítězslav Nezval\|Vítězslav Nezval]]
+**Literární směr** -
+**Literární druh** - 
+**Literární žánr** -
+**Časoprostor** -
+### Námět a téma
+### Rok vydání a dění ve světě
+### Kompozice
+### Jazyk
+### Hlavní myšlenka
+### Postavy
+# Obsah
