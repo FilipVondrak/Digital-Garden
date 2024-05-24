@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Jazyk CSharp/","tags":["Maturitní_otázka","IT","Programování","Software","C-Sharp"],"created":"2023-12-19T09:14:44.484+01:00","updated":"2024-05-16T14:51:53.840+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Programování/Jazyk CSharp/","tags":["Maturitní_otázka","IT","Programování","Software","C-Sharp"],"created":"2023-12-19T09:14:44.484+01:00","updated":"2024-05-22T11:35:50.686+02:00"}
 ---
 
 # Jazyk CSharp
-- je to ==objektivně orientovaný programovací== jazyk (OOP)
+- je to ==objektivně orientovaný programovací== jazyk ([[Škola/IT/Maturitní otázky/Programování/Principy OOP\|OOP]])
 - je typově bezpečný
 - jazyk byl vytvořen roku 2000 firmou Microsoft
 - je navržen pro .NET Framework, platformu pro vývoj softwaru pro Windows
