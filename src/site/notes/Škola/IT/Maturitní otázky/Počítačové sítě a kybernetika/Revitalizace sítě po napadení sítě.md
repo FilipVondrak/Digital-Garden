@@ -242,6 +242,7 @@ ___
 # Co je to šifrování
 - převod dat do nečitelné podoby pro lidi, kteří nemají klíč/neví jak je vrátit zpět
 - dají se opačným postupem vrátit do původní podoby
+- šifrování se děje na 6. vrstvě [[Škola/IT/ISO OSI\|ISO OSI]]
 # Způsoby šifrování dat
 - **Podle Implementace**
 	- [Softwarově](Softwarové%20šifrování.md)
