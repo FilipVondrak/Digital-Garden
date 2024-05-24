@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","tags":["IT","SPOSDK","Maturitní_otázka"],"created":"2023-12-14T18:24:42.842+01:00","updated":"2024-05-16T17:09:13.333+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Maturitní otázky/Počítačové sítě a kybernetika/CERT a CSIRT týmy a jejich využití/","tags":["IT","SPOSDK","Maturitní_otázka"],"created":"2023-12-14T18:24:42.842+01:00","updated":"2024-05-24T18:29:10.699+02:00"}
 ---
 
+# Co je stát 
+- Stát je základní územní mocenská jednotka
+- disponující mocí ==vládnout, soudit a vytvářet zákony==
+- Hlavní funkcí státu je udržování moci a stability
+- stát se skládá z
+	- stálé obyvatelstvo
+	- vymezení státní moci
+	- státní moc
+- je to opak anarchie
 # Kyberprostor
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skola/it/kyberprostor/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -23,8 +32,18 @@
 
 </div></div>
 
+# Moc
+- schopnost autoritativně rozhodovat o právech a povinnostech jednotlivců i sociálních skupin bez ohledu na jejich vůli
 # Zákony
 # Rozdělení státní moci
+### Zákonodárná
+- legislativa
+### Výkonná moc
+- exekutiva
+### Soudní moc
+- judikativa nebo justice
+# Státní orgány
+# NČKB
 # Co jsou CERT/CSIRT týmy
 - Kyberbezpečností týmy
 - Vznikly z důvodu nárůstu kybernetických hrozeb a jejich globálního rozšíření
