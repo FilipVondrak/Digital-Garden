@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Škola/IT/Programování/InterfaceCsharp/","tags":["IT","Programování","C-Sharp"],"created":"2024-03-25T22:28:08.815+01:00","updated":"2024-05-17T16:37:53.750+02:00"}
+{"dg-publish":true,"permalink":"/Škola/IT/Programování/InterfaceCsharp/","tags":["IT","Programování","C-Sharp"],"created":"2024-03-25T22:28:08.815+01:00","updated":"2024-05-20T13:11:01.133+02:00"}
 ---
 
 - další způsob jak dosáhnout abstrakce
@@ -20,8 +20,8 @@
 
 > [!Showcase]- Ukázka implementace interfacu
 > ```Csharp
-// Interface
-interface IAnimal 
+>// Interface
+>interface IAnimal 
 >{
 >  void animalSound(); // interface metoda (nemá tělo)
 >}
