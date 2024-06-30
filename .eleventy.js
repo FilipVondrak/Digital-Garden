@@ -34,6 +34,28 @@ module.exports = function(eleventyConfig) {
   });
 };
 
+const { exec } = require('child_process');
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addTransform('protect', function(content, outputPath) {
+    if (outputPath.endsWith('.html')) {
+      return new Promise((resolve, reject) => {
+        exec('curl -s http://localhost:3000/api/user', (error, stdout, stderr) => {
+          if (error) {
+            return reject(error);
+          }
+          const response = JSON.parse(stdout);
+          if (response.error) {
+            return resolve(`<script>window.location.href="/api/login";</script>`);
+          } else {
+            return resolve(content);
+          }
+        });
+      });
+    }
+    return content;
+  });
+};
 
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
