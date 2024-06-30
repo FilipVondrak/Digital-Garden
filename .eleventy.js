@@ -98,6 +98,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     deadLink = true;
   }
 
+  deadLink = false;
   if (deadLink) {
     return {
       attributes: {
