@@ -20,6 +20,13 @@
     </script>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    {% if user %}
+      <!-- Render your site content -->
+    {{ content | safe }}
+    {% else %}
+      <script>window.location.href="/api/login";</script>
+    {% endif %}
+
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}

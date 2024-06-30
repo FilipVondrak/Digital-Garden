@@ -26,6 +26,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
+    {% if user %}
+      <!-- Render your site content -->
+    {{ content | safe }}
+    {% else %}
+      <script>window.location.href="/api/login";</script>
+    {% endif %}
+
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
     {%else%}

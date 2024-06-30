@@ -8,6 +8,34 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+
+const fetch = require('node-fetch');
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addGlobalData("user", async () => {
+    const res = await fetch('http://localhost:3000/api/user', {
+      credentials: 'include'
+    });
+    const user = await res.json();
+    return user;
+  });
+
+  eleventyConfig.addTransform('protect', async (content, outputPath) => {
+    if (outputPath.endsWith('.html')) {
+      const res = await fetch('http://localhost:3000/api/user', {
+        credentials: 'include'
+      });
+      const user = await res.json();
+      if (user.error) {
+        return `<script>window.location.href="/api/login";</script>`;
+      }
+    }
+    return content;
+  });
+};
+
+
+
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
   userMarkdownSetup,
