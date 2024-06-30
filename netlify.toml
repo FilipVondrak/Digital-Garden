@@ -4,8 +4,3 @@
 
 
 
-[[redirects]]
-  from = "/*"
-  to = "/404"
-  status = 404
-
