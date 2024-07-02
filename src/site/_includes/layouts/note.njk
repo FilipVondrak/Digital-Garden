@@ -30,7 +30,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       <!-- Render your site content -->
     {{ content | safe }}
     {% else %}
-      <script>window.location.href="/api/login";</script>
+      <script>window.location.href="/login";</script>
     {% endif %}
 
     {% if settings.dgShowFileTree !== true %}
